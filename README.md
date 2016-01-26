@@ -3,6 +3,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ## Table of Contents
 - [PHP](#php)
+- [JavaScript](#javascript)
 - [Productivity](#productivity)
 - [UX](#ux)
 
@@ -10,6 +11,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *PHP related articles* 
 
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
+
+## JavaScript
+*JavaScript related articles, tutorials*
+
+* [Speaking JavaScript](http://speakingjs.com/)
 
 ### Localization
 * [Best practice multi language website](http://stackoverflow.com/questions/19249159/best-practice-multi-language-website)
