@@ -16,7 +16,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Laravel
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
-
+* [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
+* [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
 
 ## Productivity
 *Productivity articles, tips.*
