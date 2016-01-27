@@ -17,6 +17,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Speaking JavaScript](http://speakingjs.com/)
 
+### jQuery
+
+* [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
+
 ### Localization
 * [Best practice multi language website](http://stackoverflow.com/questions/19249159/best-practice-multi-language-website)
 
