@@ -24,6 +24,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *JavaScript related articles, tutorials*
 
 * [Speaking JavaScript](http://speakingjs.com/)
+* [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
+* [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
 
 ### jQuery
 
