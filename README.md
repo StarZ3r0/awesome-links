@@ -12,6 +12,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *HTML & CSS related things*
 
 * [Mastering the :nth-child](http://nthmaster.com/)
+* [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 
 ## PHP
 *PHP related articles* 
