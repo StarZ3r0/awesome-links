@@ -8,6 +8,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [JavaScript](#javascript)
 - [Productivity](#productivity)
 - [UX](#ux)
+- [Other](#other)
 
 ## Frontend
 *HTML & CSS related things*
@@ -53,3 +54,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *Articles and tools related to user experience.*
 
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
+
+## Other
+*Other tools and articles*
+
+* [GitHub Importer](https://import.github.com/new)
