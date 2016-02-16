@@ -60,3 +60,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Why use www?](http://www.yes-www.org/why-use-www/)
 * [GitHub Importer](https://import.github.com/new)
+
+### Books
+
+* [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
