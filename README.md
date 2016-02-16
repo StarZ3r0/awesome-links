@@ -58,4 +58,5 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Other
 *Other tools and articles*
 
+* [Why use www?](http://www.yes-www.org/why-use-www/)
 * [GitHub Importer](https://import.github.com/new)
