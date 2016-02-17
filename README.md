@@ -18,8 +18,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 
 ## PHP
-*PHP related articles* 
+*PHP related sites and articles* 
 
+* [PHP Sadness](http://phpsadness.com/)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 
 ### Localization
