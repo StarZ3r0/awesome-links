@@ -25,6 +25,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Localization
 * [Best practice multi language website](http://stackoverflow.com/questions/19249159/best-practice-multi-language-website)
 
+### Learning
+* [PHP School](http://www.phpschool.io/)
+
 ### Laravel
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
 * [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
