@@ -23,6 +23,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Sadness](http://phpsadness.com/)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 
+### Testing
+
+* [A Gentle Introduction to Testing in PHP](http://taha-sh.com/blog/a-gentle-introduction-to-testing-in-php)
+
 ### Localization
 * [Best practice multi language website](http://stackoverflow.com/questions/19249159/best-practice-multi-language-website)
 
