@@ -6,8 +6,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [PHP](#php)
 - [SQL](#sql)
 - [JavaScript](#javascript)
-- [Productivity](#productivity)
 - [UX](#ux)
+- [Linux](#linux)
+- [Productivity](#productivity)
 - [Other](#other)
 
 ## Frontend
@@ -45,15 +46,20 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
 
-## Productivity
-*Productivity articles, tips.*
-
-* [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
-
 ## UX
 *Articles and tools related to user experience.*
 
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
+
+## Linux
+*Linux related articles and tools*
+
+* [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
+
+## Productivity
+*Productivity articles, tips.*
+
+* [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
 
 ## Other
 *Other tools and articles*
