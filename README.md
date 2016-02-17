@@ -8,6 +8,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [JavaScript](#javascript)
 - [UX](#ux)
 - [Linux](#linux)
+- [SEO](#seo)
 - [Productivity](#productivity)
 - [Other](#other)
 
@@ -65,6 +66,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *Linux related articles and tools*
 
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
+
+## SEO
+*Search engine optimization articles*
+
+* [Infinite scroll search-friendly recommendations](https://googlewebmastercentral.blogspot.hu/2014/02/infinite-scroll-search-friendly.html)
 
 ## Productivity
 *Productivity articles, tips.*
