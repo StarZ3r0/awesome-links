@@ -18,8 +18,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [Mastering the :nth-child](http://nthmaster.com/)
-* [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
+
+### Grids
+
+* [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
+* [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
 
 ## PHP
 *PHP related sites and articles* 
