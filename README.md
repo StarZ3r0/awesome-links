@@ -19,6 +19,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
+* [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
 
 ## PHP
 *PHP related sites and articles* 
