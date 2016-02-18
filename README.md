@@ -20,6 +20,13 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
 
+### Centering
+
+* [Seven Ways of Centering With CSS](http://thenewcode.com/723/Six-Ways-of-Centering-With-CSS)
+* [Absolute Centering - CodePen](http://codepen.io/shshaw/full/gEiDt)
+* [Centering in CSS: A Complete Guide](http://css-tricks.com/centering-css-complete-guide/)
+* [How to Center in CSS](http://howtocenterincss.com/)
+
 ### Grids
 
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
