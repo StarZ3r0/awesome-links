@@ -29,6 +29,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *PHP related sites and articles* 
 
 * [PHP Sadness](http://phpsadness.com/)
+* [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 
 ### Testing
