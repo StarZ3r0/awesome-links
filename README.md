@@ -96,3 +96,4 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Career
 
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
+* [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
