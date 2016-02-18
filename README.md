@@ -92,3 +92,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Books
 
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
+
+### Career
+
+* [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
