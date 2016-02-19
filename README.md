@@ -79,6 +79,15 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *Linux related articles and tools*
 
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
+* [Ubuntu Packages Search](http://packages.ubuntu.com/)
+* [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
+
+### Shells
+
+* [Z shell](http://zsh.sourceforge.net/)
+* [Oh My Zsh](http://ohmyz.sh/)
+* [Zsh Tips, Tricks and Examples](http://www.rayninfo.co.uk/tips/zshtips.html)
+* [fish shell](http://fishshell.com/)
 
 ## SEO
 *Search engine optimization articles*
