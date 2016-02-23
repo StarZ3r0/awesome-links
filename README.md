@@ -37,15 +37,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
 
-### Components
-
-* [Colors](https://github.com/mrmrs/colors)
-
-### Image optimizer
-
-* [Compressor.io](https://compressor.io/compress)
-* [Kraken Image Optimizer](https://kraken.io/)
-
 ## PHP
 *PHP related sites and articles* 
 
@@ -79,10 +70,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.e474tqzrw)
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
-
-### Components
-
-* [Nightmare](http://www.nightmarejs.org/)
 
 ### jQuery
 
