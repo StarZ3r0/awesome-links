@@ -74,6 +74,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *Articles and tools related to user experience.*
 
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
+* [HU] [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/)
 
 ## Linux
 *Linux related articles and tools*
