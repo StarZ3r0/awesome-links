@@ -37,6 +37,15 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
 
+### Components
+
+* [Colors](https://github.com/mrmrs/colors)
+
+### Image optimizer
+
+* [Compressor.io](https://compressor.io/compress)
+* [Kraken Image Optimizer](https://kraken.io/)
+
 ## PHP
 *PHP related sites and articles* 
 
