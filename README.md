@@ -80,6 +80,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
 
+### Components
+
+* [Nightmare](http://www.nightmarejs.org/)
+
 ### jQuery
 
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
@@ -120,6 +124,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Why use www?](http://www.yes-www.org/why-use-www/)
 * [GitHub Importer](https://import.github.com/new)
+* [gitignore.io](https://www.gitignore.io/)
 
 ### Books
 
