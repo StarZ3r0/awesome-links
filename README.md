@@ -32,6 +32,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 * [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
 
+### Resource
+*Frontend examples, snippets*
+
+* [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
+
 ## PHP
 *PHP related sites and articles* 
 
