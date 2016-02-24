@@ -126,6 +126,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### jQuery plugins
 * [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
 * [Formstone](https://formstone.it/)
+* [simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather)
 
 ## UX
 *Articles and tools related to user experience.*
