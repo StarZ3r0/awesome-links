@@ -32,6 +32,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
 * [Payment Webfont](https://github.com/orlandotm/payment-webfont/)
+* [Weather Icons](https://erikflowers.github.io/weather-icons/)
 
 ### Libraries / components
 *HTML / CSS libraries and components*
