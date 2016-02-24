@@ -20,6 +20,31 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
 
+### Frameworks
+*Popular frontend frameworks*
+
+* [Bootstrap](http://getbootstrap.com/) - A legismertebb
+* [Skeleton](http://getskeleton.com/) - Frontend framework 400 sorból
+* [Pure.css](http://purecss.io/) - Yahoo-féle css framework (4.0KB)
+
+### Icons
+*Web font icons*
+
+* [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+* [Payment Webfont](https://github.com/orlandotm/payment-webfont/)
+
+### Libraries / components
+*HTML / CSS libraries and components*
+
+* [Animate.css](https://github.com/daneden/animate.css)
+* [Loading...](https://github.com/jxnblk/loading) - animált svg-k
+* [Colors](https://github.com/mrmrs/colors)
+
+### Image optimizer
+
+* [Compressor.io](https://compressor.io/compress)
+* [Kraken Image Optimizer](https://kraken.io/)
+
 ### Centering
 
 * [Seven Ways of Centering With CSS](http://thenewcode.com/723/Six-Ways-of-Centering-With-CSS)
@@ -44,6 +69,30 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 
+### Frameworks
+*Popular PHP frameworks*
+
+* [Laravel 5.1 LTS](https://laravel.com/docs/5.1)
+
+#### Laravel components
+*Components for Laravel*
+
+* [Laravel Collective](https://laravelcollective.com/)
+* [Laravel Translatable](https://github.com/dimsav/laravel-translatable)
+* [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+
+### Laravel articles
+*Laravel articles, snippets, examples*
+
+* [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
+* [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
+* [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
+
+### Components
+*Használt csomagok és függvénykönyvtárak*
+
+* [Intervention Image](http://image.intervention.io/) - Képek manipulációjához
+
 ### Testing
 
 * [A Gentle Introduction to Testing in PHP](http://taha-sh.com/blog/a-gentle-introduction-to-testing-in-php)
@@ -53,11 +102,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Learning
 * [PHP School](http://www.phpschool.io/)
-
-### Laravel
-* [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
-* [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
-* [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
 
 ## SQL
 
@@ -71,9 +115,17 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
 
+### Libraries / components
+
+* [Nightmare](http://www.nightmarejs.org/)
+
 ### jQuery
 
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
+
+### jQuery plugins
+* [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
+* [Formstone](https://formstone.it/)
 
 ## UX
 *Articles and tools related to user experience.*
