@@ -23,9 +23,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Frameworks
 *Popular frontend frameworks*
 
-* [Bootstrap](http://getbootstrap.com/) - A legismertebb
-* [Skeleton](http://getskeleton.com/) - Frontend framework 400 sorból
-* [Pure.css](http://purecss.io/) - Yahoo-féle css framework (4.0KB)
+* [Bootstrap](http://getbootstrap.com/) - most popular
+* [Skeleton](http://getskeleton.com/) - dead simple, ~400 lines
+* [Pure.css](http://purecss.io/) - tiny framework (4.0KB) by Yahoo
 
 ### Icons
 *Web font icons*
@@ -38,7 +38,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *HTML / CSS libraries and components*
 
 * [Animate.css](https://github.com/daneden/animate.css)
-* [Loading...](https://github.com/jxnblk/loading) - animált svg-k
+* [Loading...](https://github.com/jxnblk/loading) - animated svgs
 * [Colors](https://github.com/mrmrs/colors)
 
 ### Image optimizer
