@@ -68,6 +68,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSSO](https://github.com/css/csso)
 * [draGGradients](http://elrumordelaluz.github.io/draGGradients/)
 * [CSS Gradient Animator](http://www.gradient-animator.com/)
+* [Formspree](http://formspree.io/) - Functional HTML forms
+* [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+
+### SASS
+
+* [Bourbon](https://github.com/thoughtbot/bourbon)
 
 ### Bootstrap
 
