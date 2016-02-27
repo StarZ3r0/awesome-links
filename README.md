@@ -40,6 +40,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Animate.css](https://github.com/daneden/animate.css)
 * [Loading...](https://github.com/jxnblk/loading) - animated svgs
 * [Colors](https://github.com/mrmrs/colors)
+* [Conditionizr](http://conditionizr.com/) - conditionally loading assets
+* [Animsition](https://github.com/blivesta/animsition/)
 
 ### Image optimizer
 
@@ -57,6 +59,19 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 * [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
+* [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
+
+### Tools
+
+* [Glue](https://github.com/jorgebastida/glue/) - command line tool to generate CSS sprites
+* [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
+* [CSSO](https://github.com/css/csso)
+* [draGGradients](http://elrumordelaluz.github.io/draGGradients/)
+* [CSS Gradient Animator](http://www.gradient-animator.com/)
+
+### Bootstrap
+
+* [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
 
 ### Resource
 *Frontend examples, snippets*
@@ -104,6 +119,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Learning
 * [PHP School](http://www.phpschool.io/)
 
+### WordPress
+
+* [GenerateWP](https://generatewp.com/)
+* [Roots](https://roots.io/)
+
 ## SQL
 
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
@@ -128,6 +148,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
 * [Formstone](https://formstone.it/)
 * [simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather)
+* [Remodal](https://github.com/VodkaBears/Remodal)
+* [jQuery.fontFlex](https://github.com/nathco/jQuery.fontFlex)
 
 ## UX
 *Articles and tools related to user experience.*
