@@ -85,6 +85,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *Frontend examples, snippets*
 
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ## PHP
 *PHP related sites and articles* 
