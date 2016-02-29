@@ -187,6 +187,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ## Marketing
 
+### Google AdWords
+
 * [A Google találati lista átalakulása](http://optimizer.hu/a-google-talalati-lista-atalakulasa)
 
 ## Services
