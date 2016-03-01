@@ -215,6 +215,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [GitHub Importer](https://import.github.com/new)
 * [gitignore.io](https://www.gitignore.io/)
 
+### Law
+
+* [How I implemented the EU cookie law](https://blog.opsbears.com/2015/12/24/how-i-implemented-eu-cookie-law/)
+
 ### Books
 
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
