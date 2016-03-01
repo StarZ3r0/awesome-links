@@ -23,11 +23,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
 
 ### Frameworks
-*Popular frontend frameworks*
+*Popular and less popular frontend frameworks*
 
 * [Bootstrap](http://getbootstrap.com/) - most popular
 * [Skeleton](http://getskeleton.com/) - dead simple, ~400 lines
 * [Pure.css](http://purecss.io/) - tiny framework (4.0KB) by Yahoo
+* [Layers CSS](http://eiskis.net/layers/)
 
 ### Icons
 *Web font icons*
