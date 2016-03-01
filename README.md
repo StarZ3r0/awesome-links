@@ -17,7 +17,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Frontend
 *HTML & CSS related things*
 
-## Guides, articles
+### Guides, articles
 
 * [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
