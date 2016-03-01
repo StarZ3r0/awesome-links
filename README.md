@@ -17,6 +17,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Frontend
 *HTML & CSS related things*
 
+## Guides, articles
+
 * [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [Mastering the :nth-child](http://nthmaster.com/)
@@ -85,8 +87,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Resource
 *Frontend examples, snippets*
 
-* [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
+* [Google Web Starter Kit](https://github.com/google/web-starter-kit)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+* [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
 
 ## PHP
 *PHP related sites and articles* 
@@ -137,6 +140,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## SQL
 
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
+* [(The only proper) PDO tutorial](https://phpdelusions.net/pdo)
 
 ## JavaScript
 *JavaScript related articles, tutorials*
