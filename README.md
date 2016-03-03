@@ -24,6 +24,19 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
 
+### Centering
+
+* [Seven Ways of Centering With CSS](http://thenewcode.com/723/Six-Ways-of-Centering-With-CSS)
+* [Absolute Centering - CodePen](http://codepen.io/shshaw/full/gEiDt)
+* [Centering in CSS: A Complete Guide](http://css-tricks.com/centering-css-complete-guide/)
+* [How to Center in CSS](http://howtocenterincss.com/)
+
+### Grids
+
+* [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
+* [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
+* [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
+
 ### Frameworks
 *Popular and less popular frontend frameworks*
 
@@ -53,19 +66,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Compressor.io](https://compressor.io/compress)
 * [Kraken Image Optimizer](https://kraken.io/)
 
-### Centering
-
-* [Seven Ways of Centering With CSS](http://thenewcode.com/723/Six-Ways-of-Centering-With-CSS)
-* [Absolute Centering - CodePen](http://codepen.io/shshaw/full/gEiDt)
-* [Centering in CSS: A Complete Guide](http://css-tricks.com/centering-css-complete-guide/)
-* [How to Center in CSS](http://howtocenterincss.com/)
-
-### Grids
-
-* [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
-* [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
-* [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
-
 ### Tools
 
 * [Glue](https://github.com/jorgebastida/glue/) - command line tool to generate CSS sprites
@@ -75,6 +75,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSS Gradient Animator](http://www.gradient-animator.com/)
 * [Formspree](http://formspree.io/) - Functional HTML forms
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+
+### Services
+
+* [Imagify](https://imagify.io/?ref=producthunt)
 
 ### SASS
 
@@ -158,10 +162,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.e474tqzrw)
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
+* [JS tips](https://github.com/loverajoel/jstips)
 
 ### Libraries / components
 
 * [Nightmare](http://www.nightmarejs.org/)
+* [Feature.js](http://featurejs.com/) - feature detection library in 1kb
 
 ### jQuery
 
