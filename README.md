@@ -98,6 +98,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 
+### Collections
+
+* [PHP heads](https://blog.fortrabbit.com/php-heads)
+* [PHP resources](https://docs.google.com/spreadsheets/d/1hl1vemsuFsnKNaJHJbKlovi0MnU8Pj6O4RIg4DOFcRs/edit#gid=0)
+
 ### Frameworks
 *Popular PHP frameworks*
 
@@ -136,6 +141,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [GenerateWP](https://generatewp.com/)
 * [Roots](https://roots.io/)
+
+### Resource
+
+* [PHP Versions](http://phpversions.info/)
 
 ## SQL
 
@@ -227,3 +236,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
+
+### Ergonomics
+
+* [HU] [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0)
