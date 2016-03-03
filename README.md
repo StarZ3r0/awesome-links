@@ -23,6 +23,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
+* [HU] [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege)
+* [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/)
 
 ### Centering
 
