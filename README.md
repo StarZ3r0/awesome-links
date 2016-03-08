@@ -37,15 +37,27 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 * [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
+* [Jeet Grid System](https://github.com/mojotech/jeet)
 * [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
 
 ### Frameworks
 *Popular and less popular frontend frameworks*
 
+* [CSS Front-end Frameworks with comparison](http://usablica.github.io/front-end-frameworks/compare.html)
 * [Bootstrap](http://getbootstrap.com/) - most popular
 * [Skeleton](http://getskeleton.com/) - dead simple, ~400 lines
 * [Pure.css](http://purecss.io/) - tiny framework (4.0KB) by Yahoo
 * [Layers CSS](http://eiskis.net/layers/)
+* [Semantic UI](https://github.com/semantic-org/semantic-ui/)
+* [Basscss](https://github.com/basscss/basscss/)
+* [Ionic](https://github.com/driftyco/ionic)
+* [Assets Framework 2.0](http://assets.cms.gov/resources/framework/2.0/Pages/index.html) - 508 compliant framework
+
+### Resets
+
+* [normalize.css](https://github.com/necolas/normalize.css)
+* [typebase.css](https://github.com/devinhunt/typebase.css)
+* [sanitize.css](https://github.com/10up/sanitize.css)
 
 ### Icons
 *Web font icons*
@@ -57,6 +69,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Libraries / components
 *HTML / CSS libraries and components*
 
+* [CSSDB](http://cssdb.co/)
 * [Animate.css](https://github.com/daneden/animate.css)
 * [Loading...](https://github.com/jxnblk/loading) - animated svgs
 * [Colors](https://github.com/mrmrs/colors)
@@ -85,17 +98,22 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### SASS
 
 * [Bourbon](https://github.com/thoughtbot/bourbon)
+* [Susy](https://github.com/oddbird/susy)
+* [Buttons](https://github.com/alexwolfe/Buttons/)
 
 ### Bootstrap
 
 * [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
+* [Bootflat](https://github.com/bootflat/bootflat.github.io/)
 
 ### Resource
-*Frontend examples, snippets*
+*Frontend examples, snippets, comparsions*
 
 * [Google Web Starter Kit](https://github.com/google/web-starter-kit)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
+* [Compare CSS PREprocessors](https://csspre.com/compare/)
+* [HTML5 Video Player Comparison](https://praegnanz.de/html5video/)
 
 ## PHP
 *PHP related sites and articles* 
