@@ -26,6 +26,15 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HU] [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege)
 * [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/)
 
+### Responsive web design
+
+* [Responsive Web Design Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
+* [The Ultimate Responsive Web Design Beginners Resource List](http://www.targetlocal.co.uk/responsive-web-design-resources/)
+* [Responsive Navigation Patterns](http://bradfrost.com/blog/web/responsive-nav-patterns/)
+* [Techniques for Responsive Typography](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
+* [Responsive Tables in Pure CSS](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
+* [Media Queries](http://mediaqueri.es/) - nice examples
+
 ### Centering
 
 * [Seven Ways of Centering With CSS](http://thenewcode.com/723/Six-Ways-of-Centering-With-CSS)
@@ -94,6 +103,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Services
 
 * [Imagify](https://imagify.io/?ref=producthunt)
+* [Image Resizing Services and Projects](https://docs.google.com/spreadsheets/d/1e4qdGEoq7tqDCnY7iSSnl3OFoWkzhRfVAly-73A3uCc/edit#gid=0)
 
 ### SASS
 
@@ -199,6 +209,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather)
 * [Remodal](https://github.com/VodkaBears/Remodal)
 * [jQuery.fontFlex](https://github.com/nathco/jQuery.fontFlex)
+* [Chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
 
 ## UX
 *Articles and tools related to user experience.*
