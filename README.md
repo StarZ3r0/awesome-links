@@ -35,6 +35,15 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Responsive Tables in Pure CSS](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
 * [Media Queries](http://mediaqueri.es/) - nice examples
 
+### Mobil
+
+* [Google Developers Mobilbarát teszt](https://www.google.com/webmasters/tools/mobile-friendly/)
+* [The W3C Mobile Checker](https://validator.w3.org/mobile-alpha/)
+* [mydevice.io](http://mydevice.io/devices/) - common smartphones and tablets devices values
+* [ringmark](http://rng.io/)
+* [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+
+
 ### Centering
 
 * [Seven Ways of Centering With CSS](http://thenewcode.com/723/Six-Ways-of-Centering-With-CSS)
