@@ -120,6 +120,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Susy](https://github.com/oddbird/susy)
 * [Buttons](https://github.com/alexwolfe/Buttons/)
 
+### SVG
+
+* [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+* [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
+
 ### Bootstrap
 
 * [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
