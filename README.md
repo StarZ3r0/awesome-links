@@ -263,6 +263,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Hotjar](https://www.hotjar.com/)
 
+### Transactional email
+
+* [Elastic Email](http://elasticemail.com/)
+* [Pepipost](http://www.pepipost.com/)
+
 ## Productivity
 *Productivity articles, tips.*
 
@@ -274,6 +279,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Why use www?](http://www.yes-www.org/why-use-www/)
 * [GitHub Importer](https://import.github.com/new)
 * [gitignore.io](https://www.gitignore.io/)
+* [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
 
 ### Law
 
