@@ -35,13 +35,14 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Responsive Tables in Pure CSS](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
 * [Media Queries](http://mediaqueri.es/) - nice examples
 
-### Mobil
+### Mobile
 
 * [Google Developers Mobilbarát teszt](https://www.google.com/webmasters/tools/mobile-friendly/)
 * [The W3C Mobile Checker](https://validator.w3.org/mobile-alpha/)
 * [mydevice.io](http://mydevice.io/devices/) - common smartphones and tablets devices values
 * [ringmark](http://rng.io/)
 * [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+* [iOS 8 web apps](http://taylor.fausak.me/2015/01/27/ios-8-web-apps/)
 
 
 ### Centering
@@ -154,6 +155,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Sadness](http://phpsadness.com/)
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
+* [PHP's OPCache extension review](http://jpauli.github.io/2015/03/05/opcache.html)
 
 ### Collections
 
@@ -276,6 +278,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Elastic Email](http://elasticemail.com/)
 * [Pepipost](http://www.pepipost.com/)
+
+## Payments
+
+* [Braintree](https://www.braintreepayments.com/)
+* [Recurly](https://recurly.com/) - subscription management
 
 ## Productivity
 *Productivity articles, tips.*
