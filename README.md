@@ -278,6 +278,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Elastic Email](http://elasticemail.com/)
 * [Pepipost](http://www.pepipost.com/)
+* [maildocker](http://maildocker.com/)
 
 ## Payments
 
