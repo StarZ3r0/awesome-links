@@ -297,6 +297,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [gitignore.io](https://www.gitignore.io/)
 * [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
 
+### Learning
+
+* [HU] [Google Digital Workshop](https://digitalworkshop-hu.withgoogle.com/)
+
 ### Law
 
 * [How I implemented the EU cookie law](https://blog.opsbears.com/2015/12/24/how-i-implemented-eu-cookie-law/)
