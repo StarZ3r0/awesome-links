@@ -206,6 +206,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [PHP Versions](http://phpversions.info/)
 
+### APIs
+
+* [Yahoo Weather](https://developer.yahoo.com/weather/)
+
 ## SQL
 
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
