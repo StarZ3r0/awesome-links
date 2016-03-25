@@ -59,6 +59,23 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Jeet Grid System](https://github.com/mojotech/jeet)
 * [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
 
+### Performance
+
+* [Prebrowsing](http://www.stevesouders.com/blog/2013/11/07/prebrowsing/)
+* [Caching Tutorial](https://www.mnot.net/cache_docs/)
+* [Need for Speed – How to Improve your Website Performance](https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
+* [Book of Speed](http://www.bookofspeed.com/index.html)
+* [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/)
+* [How To Optimize Your Site With HTTP Caching](http://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)
+* [Perf.Rocks](http://www.perf.rocks/)
+* [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
+* [CDN performance in numbers - CDNperf](http://www.cdnperf.com/)
+* [YSlow Rules](http://checkmyws.github.io/yslow-rules/)
+* [Performance tooling today](http://www.perf-tooling.today/)
+* [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
+* [Web Tracing Framework](http://google.github.io/tracing-framework/index.html)
+* [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
+
 ### Frameworks
 *Popular and less popular frontend frameworks*
 
