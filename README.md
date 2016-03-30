@@ -161,7 +161,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Can I use...](http://caniuse.com/)
 * [HTML5test](http://html5test.com/)
-* [Wall of browser bugs](http://getbootstrap.com/browser-bugs/)
 * [IE Web Platform Status and Roadmap](http://status.modern.ie/)
 * [Chromium Platform Status](https://www.chromestatus.com/features)
 * [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
@@ -182,6 +181,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [StatCounter Global Stats](http://gs.statcounter.com/)
 * [HU] [gemiusRanking HU](http://rankings.hu/) - hungarian stats
 
+#### Bugs
+
+* [Wall of browser bugs](http://getbootstrap.com/browser-bugs/)
+* [Issue 582421 - chromium - Viewport width helper](https://bugs.chromium.org/p/chromium/issues/detail?id=582421)
 
 ### Resource
 *Frontend examples, snippets, comparsions*
