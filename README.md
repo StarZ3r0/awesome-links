@@ -157,6 +157,32 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
 * [Bootflat](https://github.com/bootflat/bootflat.github.io/)
 
+### Browsers
+
+* [Can I use...](http://caniuse.com/)
+* [HTML5test](http://html5test.com/)
+* [Wall of browser bugs](http://getbootstrap.com/browser-bugs/)
+* [IE Web Platform Status and Roadmap](http://status.modern.ie/)
+* [Chromium Platform Status](https://www.chromestatus.com/features)
+* [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+* [Modern.ie Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/)
+
+#### Dev Tools
+
+* [Chrome DevTools - Edit Styles](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/edit-styles)
+
+#### Chrome plugins
+
+* [SimpleFill](http://plugins.compzets.com/simplefill/)
+* [Responsive Web Design Testing Tool](http://www.dimensionstoolkit.com/)
+* [Dimensions](https://github.com/mrflix/dimensions)
+
+#### Stats
+
+* [StatCounter Global Stats](http://gs.statcounter.com/)
+* [HU] [gemiusRanking HU](http://rankings.hu/) - hungarian stats
+
+
 ### Resource
 *Frontend examples, snippets, comparsions*
 
