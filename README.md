@@ -130,11 +130,27 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Glue](https://github.com/jorgebastida/glue/) - command line tool to generate CSS sprites
 * [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
+* [SpritePad](http://spritepad.wearekiss.com/)
 * [CSSO](https://github.com/css/csso)
+* [Refresh-SF](http://gpbmike.github.io/refresh-sf/) - Online JavaScript/CSS/HTML Compressor
 * [draGGradients](http://elrumordelaluz.github.io/draGGradients/)
 * [CSS Gradient Animator](http://www.gradient-animator.com/)
 * [Formspree](http://formspree.io/) - Functional HTML forms
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+* [The CSS3 :nth-child Calculator](http://nth-calculator.com/)
+* [Nth-Test](http://nth-test.com/)
+* [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+* [MicroSoft Edge Browser screenshots](https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/)
+* [Quench](http://quenchjs.com/) - Gulp file generator
+* [Embed Responsively](http://embedresponsively.com/)
+* [Specificity Calculator](http://specificity.keegan.st/)
+* [SassMeister](http://sassmeister.com/)
+* [c^ret](http://lugolabs.com/caret)
+
+#### Typography
+
+* [HTML Arrow Symbol](http://htmlarrows.com/arrows/)
+* [Smart Quotes for Smart People](http://smartquotesforsmartpeople.com/)
 
 ### Services
 
@@ -247,6 +263,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [GenerateWP](https://generatewp.com/)
 * [Roots](https://roots.io/)
+* [WP Test](http://wptest.io/)
 
 ### Resource
 
