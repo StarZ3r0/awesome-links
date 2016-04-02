@@ -235,6 +235,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Laravel Collective](https://laravelcollective.com/)
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable)
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+* [Laravel 5 log viewer](https://github.com/rap2hpoutre/laravel-log-viewer)
 
 ### Laravel articles
 *Laravel articles, snippets, examples*
@@ -243,6 +244,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
 * [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
 * [What Are Laravel 5.0 Facades?](https://code.tutsplus.com/tutorials/what-are-laravel-50-facades--cms-25347)
+* [Laravel Tips](https://laraveltips.wordpress.com/)
+* [Laravel relationships cheatsheet](http://laraveltnt.com/laravel-relationships-cheatsheet/)
 
 ### Components
 *Használt csomagok és függvénykönyvtárak*
