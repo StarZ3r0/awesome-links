@@ -146,6 +146,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Specificity Calculator](http://specificity.keegan.st/)
 * [SassMeister](http://sassmeister.com/)
 * [c^ret](http://lugolabs.com/caret)
+* [TestMyCSS](http://www.testmycss.com/)
 
 #### Typography
 
@@ -218,6 +219,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 * [PHP's OPCache extension review](http://jpauli.github.io/2015/03/05/opcache.html)
+* [Introduction To PHP 7: What's New And What's Gone](https://www.toptal.com/php/php-7-performance-features)
+
+### News
+
+[Web Development Reading List](https://wdrl.info/archive)
 
 ### Collections
 
@@ -320,6 +326,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 
+### SSL
+
+* [Let’s Encrypt](https://letsencrypt.org/)
+
 ### Shells
 
 * [Z shell](http://zsh.sourceforge.net/)
@@ -368,6 +378,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [GitHub Importer](https://import.github.com/new)
 * [gitignore.io](https://www.gitignore.io/)
 * [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
+* [GIF Maker](http://giphy.com/create/gifmaker)
+
+### Math
+
+* [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
 ### Learning
 
@@ -389,3 +404,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Ergonomics
 
 * [HU] [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0)
+
+## Fun
+
+* [MapHub](https://maphub.net/)
+* [weblog.sh](https://weblog.sh/)
