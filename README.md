@@ -44,6 +44,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 * [iOS 8 web apps](http://taylor.fausak.me/2015/01/27/ios-8-web-apps/)
 
+### Flexbox
+
+* [What The FlexBox?!](http://flexbox.io/)
 
 ### Centering
 
@@ -75,6 +78,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
 * [Web Tracing Framework](http://google.github.io/tracing-framework/index.html)
 * [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
+* [How to Improve Your YSlow Score](https://www.keycdn.com/blog/yslow-score)
 
 ### Frameworks
 *Popular and less popular frontend frameworks*
@@ -168,6 +172,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
 * [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
+* [Everything You Need To Know About SVG](https://css-tricks.com/lodge/svg/)
 
 ### Bootstrap
 
@@ -253,6 +258,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Laravel Tips](https://laraveltips.wordpress.com/)
 * [Laravel relationships cheatsheet](http://laraveltnt.com/laravel-relationships-cheatsheet/)
 
+### Laravel realted sites
+
+* [Laravel Gurus](https://laravelgurus.com/)
+* [LaraVer{x.y.z}](https://laraver.xyz/)
+* [murze.be](https://murze.be/tag/laravel/)
+
 ### Components
 *Használt csomagok és függvénykönyvtárak*
 
@@ -325,6 +336,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
+* [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 
 ### SSL
 
@@ -336,6 +348,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Oh My Zsh](http://ohmyz.sh/)
 * [Zsh Tips, Tricks and Examples](http://www.rayninfo.co.uk/tips/zshtips.html)
 * [fish shell](http://fishshell.com/)
+
+### Static site generator
+
+* [Statamic](https://statamic.com/)
 
 ## SEO
 *Search engine optimization articles*
@@ -396,10 +412,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
 
-### Career
+### Career and work
 
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
+* [CodeHalf](https://codehalf.com/)
 
 ### Ergonomics
 
