@@ -19,13 +19,20 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Guides, articles
 
-* [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
+* [Front-End Developer Handbook](http://www.frontendhandbook.com/)
+* [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+* [Excess XSS](http://excess-xss.com/) - A comprehensive tutorial on cross-site scripting
+* [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Magic of CSS](http://adamschwartz.co/magic-of-css/)
+* [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
+* [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/)
 * [HU] [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege)
 * [HU] [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra)
-* [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/)
+
 
 ### Responsive web design
 
@@ -65,6 +72,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Performance
 
+* [Optimize CSS delivery](http://www.feedthebot.com/pagespeed/optimize-css-delivery.html)
 * [Prebrowsing](http://www.stevesouders.com/blog/2013/11/07/prebrowsing/)
 * [Caching Tutorial](https://www.mnot.net/cache_docs/)
 * [Need for Speed – How to Improve your Website Performance](https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
