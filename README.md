@@ -145,6 +145,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Colors](https://github.com/mrmrs/colors)
 * [Conditionizr](http://conditionizr.com/) - conditionally loading assets
 * [Animsition](https://github.com/blivesta/animsition/)
+* [Hint.css](https://github.com/chinchang/hint.css)
 
 ### Image optimizer
 
