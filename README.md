@@ -37,7 +37,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
-* [Youtube] [What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+* [Youtube] [What The Flexbox?!](http://flexbox.io/)
 
 ### Typography
 
@@ -63,10 +63,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [ringmark](http://rng.io/)
 * [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 * [iOS 8 web apps](http://taylor.fausak.me/2015/01/27/ios-8-web-apps/)
-
-### Flexbox
-
-* [What The FlexBox?!](http://flexbox.io/)
 
 ### Centering
 
