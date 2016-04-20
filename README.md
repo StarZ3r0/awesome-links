@@ -274,7 +274,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [murze.be](https://murze.be/tag/laravel/)
 
 ### Components
-*Használt csomagok és függvénykönyvtárak*
+*PHP packages and libraries*
 
 * [Intervention Image](http://image.intervention.io/) - Képek manipulációjához
 
