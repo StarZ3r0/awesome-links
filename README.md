@@ -39,6 +39,13 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Youtube] [What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
+### Typography
+
+* [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
+* [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography)
+* [Professional Web Typography](https://prowebtype.com/)
+* [The State of Web Type](http://stateofwebtype.com/)
+
 ### Responsive web design
 
 * [Responsive Web Design Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
