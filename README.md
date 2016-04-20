@@ -33,6 +33,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HU] [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege)
 * [HU] [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra)
 
+### Flexbox
+
+* [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* [Youtube] [What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
 ### Responsive web design
 
