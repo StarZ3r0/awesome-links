@@ -368,8 +368,13 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## UX
 *Articles and tools related to user experience.*
 
+* [UX Project Checklist](http://uxchecklist.github.io/)
+* [Why and How to Avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)
+* [The 10 Commandments of Good Form Design on the Web](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
+* [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
 * [HU] [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/)
+* [HU] [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/)
 
 ## Linux
 *Linux related articles and tools*
