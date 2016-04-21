@@ -208,6 +208,34 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
 * [Bootflat](https://github.com/bootflat/bootflat.github.io/)
 
+### HTML email
+
+* [Things I've Learned About Sending Email, For Web Designers And Developers](http://www.leemunroe.com/sending-email-designers-developers/)
+* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
+* [iOS Resolution Reference](http://iosres.com/)
+* [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
+* [Our Favorite Responsive and Mobile Email Resources](https://litmus.com/blog/our-favorite-responsive-and-mobile-email-resources)
+* [Email Design Reference - MailChimp](http://templates.mailchimp.com/)
+* [Emailology](http://www.emailology.org/)
+* [Bulletproof email buttons](https://buttons.cm/)
+* [HU] [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm)
+
+#### Responsive email
+
+* [Responsive HTML email: 9-step in-depth walkthrough from scratch](http://rmion.com/responsive-html-email/)
+* [Responsive Email Patterns](http://responsiveemailpatterns.com/)
+* [Cerberus](http://tedgoas.github.io/Cerberus/) - Patterns for Responsive HTML Email Templates
+* [Responsive email design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)
+* [Responsive Email Templates - ZURB](http://zurb.com/playground/responsive-email-templates)
+* [How to set the order of stacked columns in a responsive email design](https://www.campaignmonitor.com/blog/email-marketing/2014/10/order-stacked-columns-responsive-email/)
+
+#### Tools
+
+* [Premailer](http://premailer.dialect.ca/)
+* [Litmus PutsMail](https://putsmail.com/tests/new)
+* [Spam Score Test - PostMark](http://spamcheck.postmarkapp.com/)
+* [Grunt email design](https://github.com/leemunroe/grunt-email-workflow)
+
 ### Browsers
 
 * [Can I use...](http://caniuse.com/)
