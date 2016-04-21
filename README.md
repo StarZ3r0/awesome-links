@@ -26,12 +26,23 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Magic of CSS](http://adamschwartz.co/magic-of-css/)
-* [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [The Image Replacement Museum](https://css-tricks.com/the-image-replacement-museum/)
 * [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/)
+* [The Elements of HTML](http://w3c.github.io/elements-of-html/)
+* [CSS Selectors browser support](https://kimblim.dk/css-tests/selectors/)
+* [Structured Data - Google Developers](https://developers.google.com/structured-data/?rd=1)
+* [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
+* [WTF, forms?](http://wtfforms.com/)
+* [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
 * [HU] [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege)
 * [HU] [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra)
+
+### CSS Animations
+
+* [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
+* [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
+* [CSS3 = Awesome](http://css3.bradshawenterprises.com/)
 
 ### Flexbox
 
@@ -234,6 +245,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
 * [Compare CSS PREprocessors](https://csspre.com/compare/)
 * [HTML5 Video Player Comparison](https://praegnanz.de/html5video/)
+
+### Sites and tutorials
+
+* [CSS Layout Techniques Deep Dive](https://teamtreehouse.com/library/css-layout-techniques)
+* [Learn CSS Layout](http://learnlayout.com/)
+* [Learn CSS Selectors interactively](http://benhowdle.im/cssselectors/)
+* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
+* [QuizPoint - Quizzes for Web Geeks](http://quizpoint.com/#questions/3,59,74,1,67,66,88,86,117,14)
+* [FEDs Slack](https://feds.slack.com/messages/general/)
+* [HU] [Laki Ádám](http://adamlaki.com/)
+* [Codecademy](https://www.codecademy.com/)
+* [Magyarországi Web Konferencia](http://webconf.hu/2013/program/)
 
 ## PHP
 *PHP related sites and articles* 
