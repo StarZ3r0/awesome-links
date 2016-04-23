@@ -248,6 +248,14 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 #### Dev Tools
 
 * [Chrome DevTools - Edit Styles](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/edit-styles)
+* [Discover DevTools](http://discover-devtools.codeschool.com/)
+* [Chrome Developer Tools - Code School](https://www.codeschool.com/courses/discover-devtools)
+* [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
+* [Dev Tips](https://umaar.com/dev-tips/)
+* [DevTools Tips](http://devtoolstips.com/)
+* [Chrome Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
+* [DevTools Snippets](https://github.com/bgrins/devtools-snippets)
+* [Awesome ChromeDevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 #### Chrome plugins
 
@@ -264,6 +272,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Wall of browser bugs](http://getbootstrap.com/browser-bugs/)
 * [Issue 582421 - chromium - Viewport width helper](https://bugs.chromium.org/p/chromium/issues/detail?id=582421)
+
+### Grunt
+
+* [Grunt plugins](http://gruntjs.com/plugins)
+* [Essential Plugins for Grunt](http://ipestov.com/essential-plugins-for-grunt/)
 
 ### Resource
 *Frontend examples, snippets, comparsions*
