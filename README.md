@@ -399,12 +399,17 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
 
 ### jQuery plugins
-* [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
+
 * [Formstone](https://formstone.it/)
 * [simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather)
 * [Remodal](https://github.com/VodkaBears/Remodal)
 * [jQuery.fontFlex](https://github.com/nathco/jQuery.fontFlex)
 * [Chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
+
+#### Sliders
+* [bxSlider](https://github.com/stevenwanderski/bxslider-4)
+* [slick](https://github.com/kenwheeler/slick/)
+* [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
 
 ## UX
 *Articles and tools related to user experience.*
