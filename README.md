@@ -153,6 +153,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Conditionizr](http://conditionizr.com/) - conditionally loading assets
 * [Animsition](https://github.com/blivesta/animsition/)
 * [Hint.css](https://github.com/chinchang/hint.css)
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/)
 
 ### Image optimizer
 
