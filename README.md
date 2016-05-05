@@ -382,13 +382,28 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [(The only proper) PDO tutorial](https://phpdelusions.net/pdo)
 
 ## JavaScript
-*JavaScript related articles, tutorials*
+*JavaScript related guides, articles, tutorials*
 
+* [JS: The Right Way](http://jstherightway.org/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [Speaking JavaScript](http://speakingjs.com/)
+* [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
+* [JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.e474tqzrw)
+* [Javascript Puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
+* [HU] [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek)
 * [JS tips](https://github.com/loverajoel/jstips)
+
+### Collection
+
+* [JavaScripting](https://www.javascripting.com/)
+* [plainJS](https://plainjs.com/)
+* [Unheap](http://www.unheap.com/)
+* [You might not need jQuery](http://youmightnotneedjqueryplugins.com/)
+* [JavascriptOO](http://www.javascriptoo.com/)
 
 ### Libraries / components
 
@@ -397,7 +412,16 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### jQuery
 
+* [Try jQuery](http://try.jquery.com/)
+* [jQuery Learning Center](http://learn.jquery.com/about-jquery/)
+* [jQuery file size](https://mathiasbynens.be/demo/jquery-size)
+* [jQuery Fundamentals](http://jqfundamentals.com/)
+* [jQuery Coding Standards & Best Practices](http://lab.abhinayrathore.com/jquery-standards/)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [jQuery Cheatsheet](https://oscarotero.com/jquery/)
+* [FireQuery](http://firequery.binaryage.com/)
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
+* [Fixing These jQuery](http://fixingthesejquery.com/#slide1)
 
 ### jQuery plugins
 
@@ -406,11 +430,44 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Remodal](https://github.com/VodkaBears/Remodal)
 * [jQuery.fontFlex](https://github.com/nathco/jQuery.fontFlex)
 * [Chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
+* [timeago](http://timeago.yarp.com/)
+* [nanobar](http://nanobar.jacoborus.codes/) - Very lightweight progress bars.
+* [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
 
-#### Sliders
+#### Lightbox
+
+* [PhotoSwipe](http://photoswipe.com/)
+* [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+* [Swipebox](http://brutaldesign.github.io/swipebox/)
+* [fancyBox](http://fancyapps.com/fancybox/) - CC BY-NC 3.0 license!
+
+#### Form
+
+* [iCheck](http://icheck.fronteed.com/)
+* [noUiSlider](http://refreshless.com/nouislider/) - range slider
+* [rangeslider.js](http://rangeslider.js.org/)
+* [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
+
+#### Slider
 * [bxSlider](https://github.com/stevenwanderski/bxslider-4)
 * [slick](https://github.com/kenwheeler/slick/)
 * [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
+
+#### RWD
+
+* [FitVidJS](http://fitvidsjs.com/)
+* [Picturefill](http://scottjehl.github.io/picturefill/)
+* [PrettyEmbed.js](https://github.com/mike-zarandona/prettyembed.js)
+
+#### Sortable
+
+* [jQuery Sortable](http://johnny.github.io/jquery-sortable/) - A flexible, opinionated sorting plugin for jQuery
+* [Sortable](http://rubaxa.github.io/Sortable/)
+
+### Tools
+
+* [RequireJS](http://requirejs.org/)
+* [Online JavaScript beautifier](http://jsbeautifier.org/)
 
 ## UX
 *Articles and tools related to user experience.*
