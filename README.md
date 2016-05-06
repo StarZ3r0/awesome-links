@@ -505,8 +505,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Tools
 
-* [RequireJS](http://requirejs.org/)
 * [Online JavaScript beautifier](http://jsbeautifier.org/)
+
+#### Module loaders
+
+* [RequireJS](http://requirejs.org/)
+* [Browserify](http://browserify.org/)
+* [webpack](https://webpack.github.io/)
+
+### Test
+
+* [Mocha](https://mochajs.org/)
+* [Jasmine](http://jasmine.github.io/)
 
 ## UX
 *Articles and tools related to user experience.*
