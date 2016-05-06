@@ -187,6 +187,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HTML Arrow Symbol](http://htmlarrows.com/arrows/)
 * [Smart Quotes for Smart People](http://smartquotesforsmartpeople.com/)
 
+#### Test
+
+* [ngrok](https://ngrok.com/)
+* [Selenium](http://www.seleniumhq.org/)
+
 ### Services
 
 * [Imagify](https://imagify.io/?ref=producthunt)
@@ -377,6 +382,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Yahoo Weather](https://developer.yahoo.com/weather/)
 
+### Security
+
+* [Detectify](https://detectify.com/)
+
 ## SQL
 
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
@@ -471,6 +480,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [timeago](http://timeago.yarp.com/)
 * [nanobar](http://nanobar.jacoborus.codes/) - Very lightweight progress bars.
 * [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
+* [PNotify](https://sciactive.com/pnotify/) - Beautiful JavaScript notifications.
+* [Holder.js](http://imsky.github.io/holder/)
+* [Masked Input](http://digitalbush.com/projects/masked-input-plugin/)
 
 #### Lightbox
 
@@ -486,6 +498,16 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [rangeslider.js](http://rangeslider.js.org/)
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
 * [DataTables](https://www.datatables.net/)
+* [Countable](https://sacha.me/Countable/)
+
+### Bootstrap
+
+* [Awesome Bootstrap Checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox)
+* [Bootstrap Switch](http://www.bootstrap-switch.org/)
+* [Bootstrap-select](https://silviomoreto.github.io/bootstrap-select/)
+* [Bootstrap FileStyle](http://markusslima.github.io/bootstrap-filestyle/)
+* [X-editable](https://vitalets.github.io/x-editable/)
+* [Bootbox.js](http://bootboxjs.com/) - Bootstrap modals made easy.
 
 #### Slider
 * [bxSlider](https://github.com/stevenwanderski/bxslider-4)
@@ -559,6 +581,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Notes on Filtering Spam and Bots from Google Analytics](http://www.lunametrics.com/blog/2016/01/28/notes-on-filtering-spam-and-bots-from-google-analytics/)
 
 ## Marketing
+
+### Goole Analytics
+
+* [Scroll Depth](http://scrolldepth.parsnip.io/)
 
 ### Google AdWords
 
