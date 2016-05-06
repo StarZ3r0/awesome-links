@@ -389,17 +389,45 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Speaking JavaScript](http://speakingjs.com/)
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/)
+* [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
 * [Human JavaScript](http://read.humanjavascript.com/)
+* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [all this](http://bjorn.tipling.com/all-this)
 * [JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/)
+* [JavaScript best practices](https://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
+* [JavaScript Best Practices Part 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
+* [SurviveJS](http://survivejs.com/) - Learn Webpack and React
+* [JS tips](https://github.com/loverajoel/jstips)
+* [JS Parse and Execution Time](https://timkadlec.com/2014/09/js-parse-and-execution-time/)
+* [A Drip of JavaScript](http://adripofjavascript.com/archive.html)
+* [JavaScript Events Tutorial](http://vegibit.com/javascript-events-tutorial/)
+* [JavaScript Debugging for Beginners](http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/)
 * [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.e474tqzrw)
-* [Javascript Puzzlers](http://javascript-puzzlers.herokuapp.com/)
+* [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070#.gg9c7cnm1)
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
-* [HU] [Problémás JavaScript fejlesztői interjú kérdések](http://weblabor.hu/blog/20131217/problemas-javascript-fejlesztoi-interju-kerdesek)
 * [HU] [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek)
-* [JS tips](https://github.com/loverajoel/jstips)
+* [HU] [Objektumorientált programozás JavaScriptben](http://weblabor.hu/cikkek/objektumorientalt-programozas-javascriptben)
+* [HU] [Objektumorientált JavaScript programozás a felszín alatt](http://weblabor.hu/cikkek/oojsafelszinalatt)
+
+### Tutorials
+
+* [Code School - Javascript Roadtrip](http://javascript-roadtrip.codeschool.com/)
+* [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
+* [HU] [Webfejlesztés 2.](http://webprogramozas.inf.elte.hu/webfejl2.php#eloadas)
+* [A Javascript programozási nyelv - Prognyelvek portál](http://nyelvek.inf.elte.hu/leirasok/JavaScript/)
+
+### Interview
+* [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises)
+* [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises)
+* [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
+* [Javascript Puzzlers](http://javascript-puzzlers.herokuapp.com/)
+* [15 Essential jQuery Interview Questions](https://www.toptal.com/jquery/interview-questions)
+* [HU] [Problémás JavaScript fejlesztői interjú kérdések](http://weblabor.hu/blog/20131217/problemas-javascript-fejlesztoi-interju-kerdesek)
 
 ### Collection
 
@@ -408,6 +436,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Unheap](http://www.unheap.com/)
 * [You might not need jQuery](http://youmightnotneedjqueryplugins.com/)
 * [JavascriptOO](http://www.javascriptoo.com/)
+* [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
 
 ### Libraries / components
 
@@ -422,10 +451,14 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [jQuery Fundamentals](http://jqfundamentals.com/)
 * [jQuery Coding Standards & Best Practices](http://lab.abhinayrathore.com/jquery-standards/)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [jQuery Boilerplate](https://jqueryboilerplate.com/)
 * [jQuery Cheatsheet](https://oscarotero.com/jquery/)
 * [FireQuery](http://firequery.binaryage.com/)
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
 * [Fixing These jQuery](http://fixingthesejquery.com/#slide1)
+* [Few Tricks to Improve Jquery Performance](http://blog.biznespage.com/blog/few-tricks-to-improve-jquery-performance/)
+* [How to Create One-Time Events in JavaScript](http://www.sitepoint.com/create-one-time-events-javascript/)
+* [HU] [jQuery plugin készítés alapjai](http://webtuts.hu/tartalom/jquery-plugin-keszites-alapjai)
 
 ### jQuery plugins
 
