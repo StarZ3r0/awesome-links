@@ -208,6 +208,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
 * [Bootflat](https://github.com/bootflat/bootflat.github.io/)
+* [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 
 ### HTML email
 
@@ -484,6 +485,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [noUiSlider](http://refreshless.com/nouislider/) - range slider
 * [rangeslider.js](http://rangeslider.js.org/)
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
+* [DataTables](https://www.datatables.net/)
 
 #### Slider
 * [bxSlider](https://github.com/stevenwanderski/bxslider-4)
