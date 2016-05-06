@@ -410,13 +410,19 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [JavaScript best practices](https://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
 * [JavaScript Best Practices Part 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
+* [45 Useful JavaScript Tips, Tricks and Best Practices](http://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
+* [5 Array Methods That You Should Be Using Now](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
+* [Script-injected "async scripts" considered harmful](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
 * [SurviveJS](http://survivejs.com/) - Learn Webpack and React
 * [JS tips](https://github.com/loverajoel/jstips)
 * [JS Parse and Execution Time](https://timkadlec.com/2014/09/js-parse-and-execution-time/)
 * [A Drip of JavaScript](http://adripofjavascript.com/archive.html)
 * [JavaScript Events Tutorial](http://vegibit.com/javascript-events-tutorial/)
 * [JavaScript Debugging for Beginners](http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/)
+* [Immediately-invoked function expression](https://en.wikipedia.org/wiki/Immediately-invoked_function_expression)
 * [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.e474tqzrw)
+* [Detecting Scroll Position](http://blog.grayghostvisuals.com/js/detecting-scroll-position/)
+* [Angular Basics by ScriptyBooks](http://www.angularjsbook.com/angular-basics/chapters/introduction/)
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070#.gg9c7cnm1)
 * [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
 * [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
@@ -448,6 +454,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [JavascriptOO](http://www.javascriptoo.com/)
 * [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
 
+### NodeJS
+
+* [NodeSchool](http://nodeschool.io/)
+
 ### Libraries / components
 
 * [Nightmare](http://www.nightmarejs.org/)
@@ -464,10 +474,20 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [jQuery Boilerplate](https://jqueryboilerplate.com/)
 * [jQuery Cheatsheet](https://oscarotero.com/jquery/)
 * [FireQuery](http://firequery.binaryage.com/)
+* [jQuery Succinctly](http://code.tutsplus.com/series/jquery-succinctly--net-33742)
+* [jQuery Howto](http://jquery-howto.blogspot.hu/)
+* [11 Things You Might Not Know About jQuery](http://sixrevisions.com/javascript/things-about-jquery/)
 * [jQuery Selectors and Filters](http://vegibit.com/jquery-selectors-and-filters/)
 * [Fixing These jQuery](http://fixingthesejquery.com/#slide1)
 * [Few Tricks to Improve Jquery Performance](http://blog.biznespage.com/blog/few-tricks-to-improve-jquery-performance/)
 * [How to Create One-Time Events in JavaScript](http://www.sitepoint.com/create-one-time-events-javascript/)
+* [How to Use jQuery’s $.ajax() Function](http://www.sitepoint.com/use-jquerys-ajax-function/)
+* [18 Surprises From Reading jQuery’s Source Code](https://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code/)
+* [An Introduction to jQuery’s Shorthand Ajax Methods](http://www.sitepoint.com/introduction-jquery-shorthand-ajax-methods/)
+* [Simple Long Polling Example with JavaScript and jQuery](http://techoctave.com/c7/posts/60-simple-long-polling-example-with-javascript-and-jquery)
+* [Supersonic JavaScript](https://speakerdeck.com/ariya/supersonic-javascript)
+* [The Mystery Of The jQuery Object: A Basic Introduction](https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-introduction/)
+* [Video] [Dos and Don'ts in JavaScript: A few best practices for when you're learning the language](https://www.youtube.com/watch?v=zILmbcIYnfw)
 * [HU] [jQuery plugin készítés alapjai](http://webtuts.hu/tartalom/jquery-plugin-keszites-alapjai)
 
 ### jQuery plugins
@@ -539,6 +559,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Mocha](https://mochajs.org/)
 * [Jasmine](http://jasmine.github.io/)
+
+### Others
+
+* [Tessel 2](https://tessel.io/)
 
 ## UX
 *Articles and tools related to user experience.*
