@@ -635,6 +635,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Infinite scroll search-friendly recommendations](https://googlewebmastercentral.blogspot.hu/2014/02/infinite-scroll-search-friendly.html)
 * [Notes on Filtering Spam and Bots from Google Analytics](http://www.lunametrics.com/blog/2016/01/28/notes-on-filtering-spam-and-bots-from-google-analytics/)
 
+### Tools
+
+* [Search Console - URL feltérképezése](https://www.google.com/webmasters/tools/submit-url?hl=hu)
+
 ## Marketing
 
 ### Goole Analytics
