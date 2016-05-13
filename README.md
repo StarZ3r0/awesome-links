@@ -307,13 +307,32 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Magyarországi Web Konferencia](http://webconf.hu/2013/program/)
 
 ## PHP
-*PHP related sites and articles* 
+*PHP related guides, sites and articles* 
 
+* [PHP: The Right Way](http://www.phptherightway.com/)
+* [PHP Best Practices](https://phpbestpractices.org/)
+* [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
+* [Hacking with PHP](http://www.hackingwithphp.com/)
+* [PHP: rfc](https://wiki.php.net/rfc) - current RFCs for PHP
+* [PHP tips](http://www.martinstoeckli.ch/php/php.html)
 * [PHP Sadness](http://phpsadness.com/)
+* [URL Encoding](http://www.blooberry.com/indexdot/html/topics/urlencoding.htm)
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Migrating from PHP 5.5.x to PHP 5.6.x - New features](http://docs.php.net/manual/en/migration56.new-features.php)
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 * [PHP's OPCache extension review](http://jpauli.github.io/2015/03/05/opcache.html)
 * [Introduction To PHP 7: What's New And What's Gone](https://www.toptal.com/php/php-7-performance-features)
+* [Interpreted Languages](http://hyperpolyglot.org/scripting)
+* [HU] [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php)
+* [HU] [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig)
+* [HU] [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
+* [HU] [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
+
+### Composer
+
+* [Understand Composer Versions](http://qpleple.com/understand-composer-versions/)
+* [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
 
 ### News
 
