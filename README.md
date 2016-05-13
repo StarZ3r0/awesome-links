@@ -324,6 +324,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP's OPCache extension review](http://jpauli.github.io/2015/03/05/opcache.html)
 * [Introduction To PHP 7: What's New And What's Gone](https://www.toptal.com/php/php-7-performance-features)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
+* [Hashphp.org](http://wiki.hashphp.org/Main_Page)
 * [HU] [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php)
 * [HU] [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig)
 * [HU] [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
@@ -336,7 +337,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### News
 
-[Web Development Reading List](https://wdrl.info/archive)
+* [Web Development Reading List](https://wdrl.info/archive)
+* [Letscode.hu](https://www.letscode.hu/category/php)
+* [Refaktor Magazin](https://www.refaktor.hu/)
+* [fps blog | php](http://blog.fps.hu/tagged/php)
+* [Entity Webmester Fórum](http://entity.hu/)
+* [Vegibit | php](http://vegibit.com/tag/php/)
 
 ### Collections
 
@@ -400,6 +406,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### APIs
 
 * [Yahoo Weather](https://developer.yahoo.com/weather/)
+* [The Dark Sky Forecast API](https://developer.forecast.io/)
+* [VAT API](https://vatapi.com/)
+* [JSON IP and GeoIP REST API](http://www.telize.com/)
+* [GeoNames](http://www.geonames.org/export/)
+* [Open Exchange Rates](https://openexchangerates.org/)
+* [REST Countries](http://restcountries.eu/)
 
 ### Security
 
