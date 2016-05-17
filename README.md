@@ -416,6 +416,15 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Security
 
 * [Detectify](https://detectify.com/)
+* [Survive The Deep End: PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html)
+* [Authentication Cheat Sheet - OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
+* [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
+* [Exploiting PHP File Inclusion – Overview](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
+* [What is the best way to implement “remember me” for a website?](http://stackoverflow.com/questions/244882/what-is-the-best-way-to-implement-remember-me-for-a-website/244907#244907)
+* [Portable PHP password hashing framework](http://www.openwall.com/phpass/)
+* [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
+* [SQRL Secure Quick Reliable Login](https://www.grc.com/sqrl/sqrl.htm)
+* [Exploitable PHP functions](http://stackoverflow.com/questions/3115559/exploitable-php-functions)
 
 ## SQL
 
