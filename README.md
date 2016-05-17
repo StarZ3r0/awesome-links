@@ -319,6 +319,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [URL Encoding](http://www.blooberry.com/indexdot/html/topics/urlencoding.htm)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Migrating from PHP 5.5.x to PHP 5.6.x - New features](http://docs.php.net/manual/en/migration56.new-features.php)
+* [PHP: Supported Versions](http://php.net/supported-versions.php)
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
 * [PHP's OPCache extension review](http://jpauli.github.io/2015/03/05/opcache.html)
@@ -353,6 +354,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 *Popular PHP frameworks*
 
 * [Laravel 5.1 LTS](https://laravel.com/docs/5.1)
+* [Sylius](http://sylius.org/)
 
 #### Laravel components
 *Components for Laravel*
@@ -381,16 +383,27 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Components
 *PHP packages and libraries*
 
-* [Intervention Image](http://image.intervention.io/) - Képek manipulációjához
+* [Intervention Image](http://image.intervention.io/) - PHP image handling and manipulation library
+* [Imagine](https://github.com/avalanche123/Imagine) - PHP 5.3 Object Oriented image manipulation library
+* [The League of Extraordinary Packages](http://thephpleague.com/)
+* [Cartalyst](https://cartalyst.com/)
+* [Webiny Framework](http://www.webiny.com/webiny-framework/)
+* [HTML Purifier](http://htmlpurifier.org/)
+* [Munee](http://mun.ee/) - Standalone PHP 5.3 Asset Optimisation & Manipulation
+* [Mobile Detect](http://mobiledetect.net/) - The lightweight PHP class for detecting mobile devices (including tablets)
+* [htmLawed](http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/) - PHP code to purify & filter HTML
+* [libphonenumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - PHP version of Google's phone number handling library
 
 ### Testing
 
 * [A Gentle Introduction to Testing in PHP](http://taha-sh.com/blog/a-gentle-introduction-to-testing-in-php)
 
 ### Localization
+
 * [Best practice multi language website](http://stackoverflow.com/questions/19249159/best-practice-multi-language-website)
 
 ### Learning
+
 * [PHP School](http://www.phpschool.io/)
 
 ### WordPress
@@ -398,10 +411,16 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [GenerateWP](https://generatewp.com/)
 * [Roots](https://roots.io/)
 * [WP Test](http://wptest.io/)
+* [hookr.io](http://hookr.io/) - The WordPress Hook/API Index
 
 ### Resource
 
 * [PHP Versions](http://phpversions.info/)
+* [Online PHP shell](https://3v4l.org/)
+
+### IDEs
+
+* [Be Awesome in PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 
 ### APIs
 
@@ -425,6 +444,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 * [SQRL Secure Quick Reliable Login](https://www.grc.com/sqrl/sqrl.htm)
 * [Exploitable PHP functions](http://stackoverflow.com/questions/3115559/exploitable-php-functions)
+
+### Tools and services
+
+* [Blackfire](https://blackfire.io/)
+* [Codeception](http://codeception.com/) - Modern PHP testing for everyone.
+* [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
+
+### XAMPP
+
+* [XAMPP version history](http://code.stephenmorley.org/articles/xampp-version-history-apache-mysql-php/)
+* [Running ImageMagick on XAMPP 1.8.3 with Windows 7](http://stackoverflow.com/questions/21055786/running-imagemagick-on-xampp-1-8-3-with-windows-7)
+* [Installing and Configuring XAMPP with PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Installing+and+Configuring+XAMPP+with+PhpStorm+IDE)
 
 ## SQL
 
