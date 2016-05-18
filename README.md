@@ -457,6 +457,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Running ImageMagick on XAMPP 1.8.3 with Windows 7](http://stackoverflow.com/questions/21055786/running-imagemagick-on-xampp-1-8-3-with-windows-7)
 * [Installing and Configuring XAMPP with PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Installing+and+Configuring+XAMPP+with+PhpStorm+IDE)
 
+### Vagrant
+
+* [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
+* [Guest Additions Version error on VirtualBox5](https://github.com/Varying-Vagrant-Vagrants/VVV/issues/714)
+
 ## SQL
 
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
