@@ -56,6 +56,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 * [Youtube] [What The Flexbox?!](http://flexbox.io/)
 
 ### Typography
