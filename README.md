@@ -381,6 +381,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [What Are Laravel 5.0 Facades?](https://code.tutsplus.com/tutorials/what-are-laravel-50-facades--cms-25347)
 * [Laravel Tips](https://laraveltips.wordpress.com/)
 * [Laravel relationships cheatsheet](http://laraveltnt.com/laravel-relationships-cheatsheet/)
+* [The Ultimate Guide to Sending Email in Laravel](https://scotch.io/tutorials/ultimate-guide-on-sending-email-in-laravel)
 
 ### Laravel realted sites
 
