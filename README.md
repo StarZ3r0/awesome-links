@@ -68,7 +68,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Mobile
 
-* [Google Developers Mobilbarát teszt](https://www.google.com/webmasters/tools/mobile-friendly/)
+* [Google Search Console - Mobilbarát jelleget vizsgáló teszt](https://search.google.com/search-console/mobile-friendly)
 * [The W3C Mobile Checker](https://validator.w3.org/mobile-alpha/)
 * [mydevice.io](http://mydevice.io/devices/) - common smartphones and tablets devices values
 * [ringmark](http://rng.io/)
