@@ -2,6 +2,7 @@
 A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend on GitHub.
 
 ## Table of Contents
+- [Dev](#dev)
 - [Frontend](#frontend)
 - [PHP](#php)
 - [SQL](#sql)
@@ -13,6 +14,13 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [Services](#services)
 - [Productivity](#productivity)
 - [Other](#other)
+
+## Dev
+*General web development sites, tools, articles and more*
+
+### Hosting
+
+* [HostingFacts](https://hostingfacts.com)
 
 ## Frontend
 *HTML & CSS related things*
