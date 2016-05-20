@@ -3,6 +3,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ## Table of Contents
 - [Dev](#dev)
+- [Operations](#operations)
 - [Frontend](#frontend)
 - [PHP](#php)
 - [SQL](#sql)
@@ -18,9 +19,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Dev
 *General web development sites, tools, articles and more*
 
+* [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
+
 ### Hosting
 
 * [HostingFacts](https://hostingfacts.com)
+
+## Operations
+
+### Email testing
+
+* [smtp4dev](http://smtp4dev.codeplex.com/)
+* [Mailtrap.io](https://mailtrap.io/)
 
 ## Frontend
 *HTML & CSS related things*
