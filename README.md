@@ -544,6 +544,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Collection
 
 * [JavaScripting](https://www.javascripting.com/)
+* [Vanilla List](http://www.vanillalist.com/) - The Vanilla Javascript Repository
 * [plainJS](https://plainjs.com/)
 * [Unheap](http://www.unheap.com/)
 * [You might not need jQuery](http://youmightnotneedjqueryplugins.com/)
