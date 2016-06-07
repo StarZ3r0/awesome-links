@@ -780,3 +780,4 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [MapHub](https://maphub.net/)
 * [weblog.sh](https://weblog.sh/)
+* [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
