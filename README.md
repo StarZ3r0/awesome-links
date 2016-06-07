@@ -94,6 +94,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Google Search Console - Mobilbarát jelleget vizsgáló teszt](https://search.google.com/search-console/mobile-friendly)
 * [The W3C Mobile Checker](https://validator.w3.org/mobile-alpha/)
 * [mydevice.io](http://mydevice.io/devices/) - common smartphones and tablets devices values
+* [DPI love](http://dpi.lv/) - easily find the DPI/PPI of any screen
 * [ringmark](http://rng.io/)
 * [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 * [iOS 8 web apps](http://taylor.fausak.me/2015/01/27/ios-8-web-apps/)
