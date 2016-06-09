@@ -408,6 +408,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Components
 *PHP packages and libraries*
 
+* [$] [Arsenal - Cartalyst](https://cartalyst.com/) - Framework agnostic composer packages for developers
 * [Intervention Image](http://image.intervention.io/) - PHP image handling and manipulation library
 * [Imagine](https://github.com/avalanche123/Imagine) - PHP 5.3 Object Oriented image manipulation library
 * [The League of Extraordinary Packages](http://thephpleague.com/)
