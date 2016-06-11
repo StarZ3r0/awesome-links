@@ -752,6 +752,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
 * [GIF Maker](http://giphy.com/create/gifmaker)
 
+### Conference
+
+* [Balabit Open Academy](https://www.youtube.com/playlist?list=PL4C41194CED00D8CD)
+
 ### Math
 
 * [An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
