@@ -723,6 +723,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ## Services
 
+* [Gupshup](https://www.gupshup.io/developer/home)
+
 ### Analytics
 
 * [Hotjar](https://www.hotjar.com/)
@@ -732,6 +734,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Elastic Email](http://elasticemail.com/)
 * [Pepipost](http://www.pepipost.com/)
 * [maildocker](http://maildocker.com/)
+
+### Messaging
+
+* [MessageBird](https://www.messagebird.com/hu-hu/)
 
 ## Payments
 
