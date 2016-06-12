@@ -216,7 +216,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [ngrok](https://ngrok.com/)
 * [Selenium](http://www.seleniumhq.org/)
 
-### Services
+### Image manipulating services
 
 * [Imagify](https://imagify.io/?ref=producthunt)
 * [Image Resizing Services and Projects](https://docs.google.com/spreadsheets/d/1e4qdGEoq7tqDCnY7iSSnl3OFoWkzhRfVAly-73A3uCc/edit#gid=0)
