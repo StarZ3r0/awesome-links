@@ -713,6 +713,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ## Marketing
 
+### Articles
+
+* [HU] [Kutatás: Emailezési és email marketing szokások](http://www.online-marketing-akademia.hu/blog/2016/06/kutatas-emailezesi-es-email-marketing-szokasok/)
+
 ### Goole Analytics
 
 * [Scroll Depth](http://scrolldepth.parsnip.io/)
