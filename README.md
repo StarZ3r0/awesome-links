@@ -606,6 +606,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PNotify](https://sciactive.com/pnotify/) - Beautiful JavaScript notifications.
 * [Holder.js](http://imsky.github.io/holder/)
 * [Masked Input](http://digitalbush.com/projects/masked-input-plugin/)
+* [The Final Countdown](http://hilios.github.io/jQuery.countdown/) - A simple and html agnostic date countdown plugin for jQuery
 
 #### Lightbox
 
