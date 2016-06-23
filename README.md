@@ -113,6 +113,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Jeet Grid System](https://github.com/mojotech/jeet)
 * [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
 
+### Optimizing CSS
+
+* [CSSO](https://css.github.io/csso/csso.html) - CSS minifier with strutural optimizations
+* [PurifyCSS](https://github.com/purifycss/purifycss) - Remove unused CSS
+
 ### Performance
 
 * [Optimize CSS delivery](http://www.feedthebot.com/pagespeed/optimize-css-delivery.html)
