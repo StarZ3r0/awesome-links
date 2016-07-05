@@ -136,6 +136,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Web Tracing Framework](http://google.github.io/tracing-framework/index.html)
 * [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 * [How to Improve Your YSlow Score](https://www.keycdn.com/blog/yslow-score)
+* [HU] [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/)
 
 ### Frameworks
 *Popular and less popular frontend frameworks*
