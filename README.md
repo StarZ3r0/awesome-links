@@ -793,6 +793,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [CodeHalf](https://codehalf.com/)
+* [HU] [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/)
 
 ### Ergonomics
 
