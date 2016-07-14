@@ -143,6 +143,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [CSS Front-end Frameworks with comparison](http://usablica.github.io/front-end-frameworks/compare.html)
 * [Bootstrap](http://getbootstrap.com/) - most popular
+* [Foundation](http://foundation.zurb.com/) - second most popular
 * [Skeleton](http://getskeleton.com/) - dead simple, ~400 lines
 * [Pure.css](http://purecss.io/) - tiny framework (4.0KB) by Yahoo
 * [Layers CSS](http://eiskis.net/layers/)
@@ -571,9 +572,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Nightmare](http://www.nightmarejs.org/)
 * [Feature.js](http://featurejs.com/) - feature detection library in 1kb
+* [Sprint.js](https://github.com/bendc/sprint) - a tiny, lightning fast jQuery-like library
 
 ### jQuery
 
+* [jQuery](http://jquery.com/) - write less, do more
 * [Try jQuery](http://try.jquery.com/)
 * [jQuery Learning Center](http://learn.jquery.com/about-jquery/)
 * [jQuery file size](https://mathiasbynens.be/demo/jquery-size)
@@ -602,6 +605,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### jQuery plugins
 
 * [Formstone](https://formstone.it/)
+* [DropzoneJS](http://www.dropzonejs.com/) - drag’n’drop file uploads with image previews
 * [simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather)
 * [Remodal](https://github.com/VodkaBears/Remodal)
 * [jQuery.fontFlex](https://github.com/nathco/jQuery.fontFlex)
@@ -613,6 +617,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Holder.js](http://imsky.github.io/holder/)
 * [Masked Input](http://digitalbush.com/projects/masked-input-plugin/)
 * [The Final Countdown](http://hilios.github.io/jQuery.countdown/) - A simple and html agnostic date countdown plugin for jQuery
+* [Stupid jQuery Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - small and simple jQuery table sorter plugin
 
 #### Lightbox
 
@@ -754,6 +759,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Braintree](https://www.braintreepayments.com/)
 * [Recurly](https://recurly.com/) - subscription management
+
+## CDN
+
+* [KeyCDN](https://www.keycdn.com/)
+
+## PHP-related
+
+* [Blackfire](https://blackfire.io/) - Continuous PHP Performance Testing
+
+## Other
+
+* [Cachet](https://cachethq.io/) - status page system
 
 ## Productivity
 *Productivity articles, tips.*
