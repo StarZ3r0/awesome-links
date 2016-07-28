@@ -785,6 +785,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [gitignore.io](https://www.gitignore.io/)
 * [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
 * [GIF Maker](http://giphy.com/create/gifmaker)
+* [';--have i been pwned?](https://haveibeenpwned.com/)
 
 ### Conference
 
