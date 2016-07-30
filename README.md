@@ -154,6 +154,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Accessibility
 
+* [HTML5 Accessibility](http://www.html5accessibility.com/)
 * [The Accessibility Project](http://a11yproject.com/)
 * [Mobile accessibility checklist](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist)
 * [Web Accessibility and Semantic Heading Structures in HTML 5](http://accessiblehtmlheadings.com/)
