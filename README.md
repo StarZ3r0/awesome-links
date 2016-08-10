@@ -699,6 +699,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Linux
 *Linux related articles and tools*
 
+* [Server Naming Schemes](https://namingschemes.com/)
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
