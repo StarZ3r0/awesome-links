@@ -261,6 +261,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Email Design Reference - MailChimp](http://templates.mailchimp.com/)
 * [Emailology](http://www.emailology.org/)
 * [Bulletproof email buttons](https://buttons.cm/)
+* [Improve your transactional emails with Gmail Inbox Actions](https://postmarkapp.com/guides/improve-your-transactional-emails-with-gmail-inbox-actions)
 * [HU] [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm)
 
 #### Responsive email
