@@ -359,6 +359,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP: Supported Versions](http://php.net/supported-versions.php)
 * [Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
 * [Upgrade Guide: Facebook PHP SDK v4.0 to v5](https://www.sammyk.me/upgrading-the-facebook-php-sdk-from-v4-to-v5)
+* [Anonymous Classes With PHP](https://phpro.org/tutorials/Anonymous-Classes-With-PHP.html)
 * [PHP's OPCache extension review](http://jpauli.github.io/2015/03/05/opcache.html)
 * [Introduction To PHP 7: What's New And What's Gone](https://www.toptal.com/php/php-7-performance-features)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
@@ -367,6 +368,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HU] [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig)
 * [HU] [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
 * [HU] [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
+
+### Learning sites
+
+* [Laracasts](https://laracasts.com/)
+* [Codecourse](https://www.codecourse.com)
 
 ### Composer
 
