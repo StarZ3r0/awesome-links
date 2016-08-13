@@ -398,6 +398,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Laravel 5.1 LTS](https://laravel.com/docs/5.1)
 * [Sylius](http://sylius.org/)
+* [Slim](http://www.slimframework.com/)
+
+#### Slim articles
+
+* [PDF] [Getting started with
+Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-started-with-slim-3.pdf)
 
 #### Laravel components
 *Components for Laravel*
