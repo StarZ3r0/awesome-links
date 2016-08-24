@@ -821,6 +821,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Law
 
 * [How I implemented the EU cookie law](https://blog.opsbears.com/2015/12/24/how-i-implemented-eu-cookie-law/)
+* [Cookie Consent](https://silktide.com/tools/cookie-consent/) - The most popular solution to the EU Cookie Law.
 
 ### Books
 
