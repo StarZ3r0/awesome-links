@@ -729,6 +729,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Best nginx configuration for improved security (and performance)](https://gist.github.com/plentz/6737338)
 * [Nginx Tuning For Best Performance](Nginx Tuning For Best Performance)
 * [How to Configure Nginx for Optimized Performance](https://www.linode.com/docs/websites/nginx/configure-nginx-for-optimized-performance)
+* [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
 
 ### Shells
 
