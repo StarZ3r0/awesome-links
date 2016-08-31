@@ -402,8 +402,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 #### Slim articles
 
-* [PDF] [Getting started with
-Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-started-with-slim-3.pdf)
+* [Getting started with
+Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-started-with-slim-3.pdf) `PDF`
 
 #### Laravel components
 *Components for Laravel*
@@ -433,7 +433,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Components
 *PHP packages and libraries*
 
-* [$] [Arsenal - Cartalyst](https://cartalyst.com/) - Framework agnostic composer packages for developers
+* [Arsenal - Cartalyst](https://cartalyst.com/) - Framework agnostic composer packages for developers `$`
 * [Intervention Image](http://image.intervention.io/) - PHP image handling and manipulation library
 * [Imagine](https://github.com/avalanche123/Imagine) - PHP 5.3 Object Oriented image manipulation library
 * [The League of Extraordinary Packages](http://thephpleague.com/)
