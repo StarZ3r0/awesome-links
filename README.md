@@ -61,8 +61,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 * [WTF, forms?](http://wtfforms.com/)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
-* [HU] [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege)
-* [HU] [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra)
+* [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege) `HU`
+* [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra) `HU`
 
 ### CSS Animations
 
@@ -140,7 +140,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Web Tracing Framework](http://google.github.io/tracing-framework/index.html)
 * [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 * [How to Improve Your YSlow Score](https://www.keycdn.com/blog/yslow-score)
-* [HU] [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/)
+* [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/) `HU`
 
 ### Frameworks
 *Popular and less popular frontend frameworks*
@@ -163,8 +163,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Mobile accessibility checklist](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist)
 * [Web Accessibility and Semantic Heading Structures in HTML 5](http://accessiblehtmlheadings.com/)
 * [Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)
-* [HU] [Technikák a WCAG 2.0-hoz](http://www.w3c.hu/forditasok/WCAG20-TECHS/Overview.html#contents)
 * [Tenon.io](https://tenon.io/index.php)
+* [Technikák a WCAG 2.0-hoz](http://www.w3c.hu/forditasok/WCAG20-TECHS/Overview.html#contents) `HU`
 
 ### Resets
 
@@ -262,7 +262,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Emailology](http://www.emailology.org/)
 * [Bulletproof email buttons](https://buttons.cm/)
 * [Improve your transactional emails with Gmail Inbox Actions](https://postmarkapp.com/guides/improve-your-transactional-emails-with-gmail-inbox-actions)
-* [HU] [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm)
+* [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm) `HU`
 
 #### Responsive email
 
@@ -310,7 +310,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 #### Stats
 
 * [StatCounter Global Stats](http://gs.statcounter.com/)
-* [HU] [gemiusRanking HU](http://rankings.hu/) - hungarian stats
+* [gemiusRanking HU](http://rankings.hu/) - hungarian stats `HU`
 
 #### Bugs
 
@@ -339,9 +339,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Front End Web Development Quiz](http://davidshariff.com/quiz/)
 * [QuizPoint - Quizzes for Web Geeks](http://quizpoint.com/#questions/3,59,74,1,67,66,88,86,117,14)
 * [FEDs Slack](https://feds.slack.com/messages/general/)
-* [HU] [Laki Ádám](http://adamlaki.com/)
 * [Codecademy](https://www.codecademy.com/)
-* [Magyarországi Web Konferencia](http://webconf.hu/2013/program/)
+* [Magyarországi Web Konferencia](http://webconf.hu/2013/program/) `HU`
+* [Laki Ádám](http://adamlaki.com/) `HU`
 
 ## PHP
 *PHP related guides, sites and articles* 
@@ -364,8 +364,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Introduction To PHP 7: What's New And What's Gone](https://www.toptal.com/php/php-7-performance-features)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Hashphp.org](http://wiki.hashphp.org/Main_Page)
-* [HU] [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php)
-* [HU] [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig)
+* [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php) `HU`
+* [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig) `HU`
 * `HU` [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
 * `HU` [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
 
@@ -551,17 +551,17 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Detecting Scroll Position](http://blog.grayghostvisuals.com/js/detecting-scroll-position/)
 * [Angular Basics by ScriptyBooks](http://www.angularjsbook.com/angular-basics/chapters/introduction/)
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070#.gg9c7cnm1)
-* [HU] [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz)
-* [HU] [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz)
-* [HU] [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek)
-* [HU] [Objektumorientált programozás JavaScriptben](http://weblabor.hu/cikkek/objektumorientalt-programozas-javascriptben)
-* [HU] [Objektumorientált JavaScript programozás a felszín alatt](http://weblabor.hu/cikkek/oojsafelszinalatt)
+* [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz) `HU`
+* [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz) `HU`
+* [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek) `HU`
+* [Objektumorientált programozás JavaScriptben](http://weblabor.hu/cikkek/objektumorientalt-programozas-javascriptben) `HU`
+* [Objektumorientált JavaScript programozás a felszín alatt](http://weblabor.hu/cikkek/oojsafelszinalatt) `HU`
 
 ### Tutorials
 
 * [Code School - Javascript Roadtrip](http://javascript-roadtrip.codeschool.com/)
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
-* [HU] [Webfejlesztés 2.](http://webprogramozas.inf.elte.hu/webfejl2.php#eloadas)
+* [Webfejlesztés 2.](http://webprogramozas.inf.elte.hu/webfejl2.php#eloadas) `HU`
 * [A Javascript programozási nyelv - Prognyelvek portál](http://nyelvek.inf.elte.hu/leirasok/JavaScript/)
 
 ### Interview
@@ -570,7 +570,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 * [Javascript Puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [15 Essential jQuery Interview Questions](https://www.toptal.com/jquery/interview-questions)
-* [HU] [Problémás JavaScript fejlesztői interjú kérdések](http://weblabor.hu/blog/20131217/problemas-javascript-fejlesztoi-interju-kerdesek)
+* [Problémás JavaScript fejlesztői interjú kérdések](http://weblabor.hu/blog/20131217/problemas-javascript-fejlesztoi-interju-kerdesek) `HU`
 
 ### Collection
 
@@ -618,7 +618,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Supersonic JavaScript](https://speakerdeck.com/ariya/supersonic-javascript)
 * [The Mystery Of The jQuery Object: A Basic Introduction](https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-introduction/)
 * [Video] [Dos and Don'ts in JavaScript: A few best practices for when you're learning the language](https://www.youtube.com/watch?v=zILmbcIYnfw)
-* [HU] [jQuery plugin készítés alapjai](http://webtuts.hu/tartalom/jquery-plugin-keszites-alapjai)
+* [jQuery plugin készítés alapjai](http://webtuts.hu/tartalom/jquery-plugin-keszites-alapjai) `HU`
 
 ### jQuery plugins
 
@@ -705,8 +705,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The 10 Commandments of Good Form Design on the Web](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
-* [HU] [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/)
-* [HU] [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/)
+* [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
+* [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
 
 ## Linux
 *Linux related articles and tools*
@@ -756,7 +756,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Articles
 
-* [HU] [Kutatás: Emailezési és email marketing szokások](http://www.online-marketing-akademia.hu/blog/2016/06/kutatas-emailezesi-es-email-marketing-szokasok/)
+* [Kutatás: Emailezési és email marketing szokások](http://www.online-marketing-akademia.hu/blog/2016/06/kutatas-emailezesi-es-email-marketing-szokasok/) `HU`
 
 ### Goole Analytics
 
@@ -826,7 +826,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Learning
 
-* [HU] [Google Digital Workshop](https://digitalworkshop-hu.withgoogle.com/)
+* [Google Digital Workshop](https://digitalworkshop-hu.withgoogle.com/) `HU`
 
 ### Law
 
@@ -842,11 +842,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [CodeHalf](https://codehalf.com/)
-* [HU] [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/)
+* [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 
 ### Ergonomics
 
-* [HU] [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0)
+* [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0) `HU`
 
 ## Fun
 
