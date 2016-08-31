@@ -366,8 +366,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Hashphp.org](http://wiki.hashphp.org/Main_Page)
 * [HU] [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php)
 * [HU] [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig)
-* [HU] [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
-* [HU] [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
+* `HU` [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
+* `HU` [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
 
 ### Learning sites
 
