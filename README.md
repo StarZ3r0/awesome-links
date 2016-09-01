@@ -141,6 +141,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 * [How to Improve Your YSlow Score](https://www.keycdn.com/blog/yslow-score)
 * [Optimising the Critical Rendering Path](http://patrickhamann.com/workshops/performance/tasks/start.html)
+* [Google PageSpeed Insights – Scoring 100/100 with WordPress](https://www.keycdn.com/blog/google-pagespeed-insights-wordpress/)
 * [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/) `HU`
 
 ### Frameworks
