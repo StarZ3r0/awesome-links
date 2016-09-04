@@ -725,6 +725,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Is TLS Fast Yet?](https://istlsfastyet.com/)
 * [Qualys SSL Labs - SSL Server Test](https://www.ssllabs.com/ssltest/analyze.html)
 * [Strong SSL Security on nginx](https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html)
+* [Analyzing HTTPS Performance Overhead](https://www.keycdn.com/blog/https-performance-overhead/)
 
 ### Nginx
 
@@ -732,6 +733,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Nginx Tuning For Best Performance](Nginx Tuning For Best Performance)
 * [How to Configure Nginx for Optimized Performance](https://www.linode.com/docs/websites/nginx/configure-nginx-for-optimized-performance)
 * [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
+* [NGINX SSL Performance](https://assets.wp.nginx.com/wp-content/uploads/2014/07/NGINX-SSL-Performance.pdf) `PDF`
+* [Testing Performance](http://gwan.ch/en_apachebench_httperf.html)
 
 ### Shells
 
