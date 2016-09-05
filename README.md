@@ -21,6 +21,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 
+### Security
+
+* [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+
 ### VMs
 
 * [Drupal VM](https://www.drupalvm.com/)
