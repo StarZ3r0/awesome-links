@@ -3,7 +3,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ## Table of Contents
 - [Dev](#dev)
-- [Operations](#operations)
 - [Frontend](#frontend)
 - [PHP](#php)
 - [SQL](#sql)
@@ -37,12 +36,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [HostingFacts](https://hostingfacts.com)
 
-## Operations
-
-### Email testing
+## Desktop softwares
 
 * [smtp4dev](http://smtp4dev.codeplex.com/)
-* [Mailtrap.io](https://mailtrap.io/)
 
 ## Frontend
 *HTML & CSS related things*
@@ -711,6 +707,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The 10 Commandments of Good Form Design on the Web](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
+* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.5yjfdgb3f) - Common mistakes designers make and how to fix them
 * [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
 * [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
 
@@ -778,6 +775,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ## Services
 
 * [Gupshup](https://www.gupshup.io/developer/home)
+
+### Email testing
+
+* [Mailtrap.io](https://mailtrap.io/)
 
 ### Analytics
 
