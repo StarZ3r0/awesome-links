@@ -419,6 +419,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Laravel articles
 *Laravel articles, snippets, examples*
 
+* [Creating a password-less, Medium-style, email-only authentication system in Laravel](https://blog.tighten.co/creating-a-password-less-medium-style-email-only-authentication-system-in-laravel)
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
 * [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
 * [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
@@ -729,6 +730,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Qualys SSL Labs - SSL Server Test](https://www.ssllabs.com/ssltest/analyze.html)
 * [Strong SSL Security on nginx](https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html)
 * [Analyzing HTTPS Performance Overhead](https://www.keycdn.com/blog/https-performance-overhead/)
+* [How To Secure Nginx with Let's Encrypt on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
 
 ### Nginx
 
