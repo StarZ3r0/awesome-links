@@ -27,6 +27,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### VMs
 
 * [Drupal VM](https://www.drupalvm.com/)
+* [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
 
 ### Github
 
@@ -708,6 +709,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.5yjfdgb3f) - Common mistakes designers make and how to fix them
+* [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.10ze3cr56)
 * [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
 * [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
 
