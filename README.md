@@ -29,7 +29,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Drupal VM](https://www.drupalvm.com/)
 * [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
 
-### Github
+### Git
+
+* [Git Hot Tips](http://wesbos.com/git-hot-tips/)
+
+#### Github
 
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
