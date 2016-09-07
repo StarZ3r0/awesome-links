@@ -525,6 +525,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ## SQL
 
+* [SQLBolt](https://sqlbolt.com/) - Learn SQL with simple, interactive exercises.
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 * [(The only proper) PDO tutorial](https://phpdelusions.net/pdo)
 
