@@ -32,9 +32,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Git
 
 * [Git Hot Tips](http://wesbos.com/git-hot-tips/)
+* [gitignore.io](https://www.gitignore.io/)
 
 #### Github
 
+* [GitHub Importer](https://import.github.com/new)
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
 ### Hosting
@@ -828,8 +830,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 *Other tools and articles*
 
 * [Why use www?](http://www.yes-www.org/why-use-www/)
-* [GitHub Importer](https://import.github.com/new)
-* [gitignore.io](https://www.gitignore.io/)
 * [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
 * [GIF Maker](http://giphy.com/create/gifmaker)
 * [';--have i been pwned?](https://haveibeenpwned.com/)
