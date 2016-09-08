@@ -53,6 +53,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Guides, articles
 
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
+* [MarkSheet](http://marksheet.io/)
 * [Front-End Developer Handbook](http://www.frontendhandbook.com/)
 * [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 * [Excess XSS](http://excess-xss.com/) - A comprehensive tutorial on cross-site scripting
