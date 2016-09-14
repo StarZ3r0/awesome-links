@@ -862,6 +862,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [CodeHalf](https://codehalf.com/)
+* [Cost of living](http://www.numbeo.com/cost-of-living/)
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 
 ### Ergonomics
