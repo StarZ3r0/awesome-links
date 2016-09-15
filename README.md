@@ -524,6 +524,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
 * [Guest Additions Version error on VirtualBox5](https://github.com/Varying-Vagrant-Vagrants/VVV/issues/714)
 
+### Ecommerce
+
+* [PayPal API Integration Integration Guides](https://devtools-paypal.com/tryit)
+
 ## SQL
 
 * [SQLBolt](https://sqlbolt.com/) - Learn SQL with simple, interactive exercises.
