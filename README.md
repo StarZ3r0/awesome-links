@@ -839,6 +839,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Lists of Hosts and Their Email Sending Limits](https://support.mailpoet.com/knowledgebase/lists-of-hosts-and-their-sending-limits/)
 * [GIF Maker](http://giphy.com/create/gifmaker)
 * [';--have i been pwned?](https://haveibeenpwned.com/)
+* [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 
 ### Conference
 
