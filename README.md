@@ -12,7 +12,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [SEO](#seo)
 - [Marketing](#marketing)
 - [Services](#services)
-- [Productivity](#productivity)
 - [Other](#other)
 
 ## Dev
