@@ -815,27 +815,18 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [MessageBird](https://www.messagebird.com/hu-hu/)
 
-## Payments
+### Payments
 
 * [Braintree](https://www.braintreepayments.com/)
 * [Recurly](https://recurly.com/) - subscription management
 
-## CDN
+### CDN
 
 * [KeyCDN](https://www.keycdn.com/)
 
-## PHP-related
+### PHP-related
 
 * [Blackfire](https://blackfire.io/) - Continuous PHP Performance Testing
-
-## Other
-
-* [Cachet](https://cachethq.io/) - status page system
-
-## Productivity
-*Productivity articles, tips.*
-
-* [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
 
 ## Other
 *Other tools and articles*
@@ -845,6 +836,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [GIF Maker](http://giphy.com/create/gifmaker)
 * [';--have i been pwned?](https://haveibeenpwned.com/)
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
+* [Cachet](https://cachethq.io/) - status page system
+
+### Productivity
+*Productivity articles, tips.*
+
+* [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
 
 ### Conference
 
@@ -880,7 +877,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0) `HU`
 
-## Fun
+### Fun
 
 * [MapHub](https://maphub.net/)
 * [weblog.sh](https://weblog.sh/)
