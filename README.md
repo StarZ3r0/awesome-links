@@ -19,14 +19,19 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 
+### Theory
+
+* [Why are zero-based arrays the norm?](http://programmers.stackexchange.com/questions/110804/why-are-zero-based-arrays-the-norm)
+
 ### Security
 
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
-### VMs
+### VMs and environments
 
 * [Drupal VM](https://www.drupalvm.com/)
 * [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
+* [Laragon](https://forum.laragon.org/)
 
 ### Git
 
