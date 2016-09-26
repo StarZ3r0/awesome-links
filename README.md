@@ -850,11 +850,24 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### English
 
+* [Duolingo](https://www.duolingo.com/)
+* [English Language & Usage ](http://english.stackexchange.com/)
 * [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
+* [Verb Tense Tutorial](http://www.englishpage.com/verbpage/verbtenseintro.html)
+* [50 000+ Free ESL, EFL worksheets](https://en.islcollective.com/)
+* [Gyűjtőnevek az angol nyelvben](http://plastik.hu/2013/05/23/gyujtonevek-az-angol-nyelvben/) `HU`
+* [New English File hanganyag](https://elt.oup.com/general_content/hu/nef?cc=hu&selLanguage=hu) `HU`
+* [IELTS nyelvvizsga](http://www.pappito.com/2012/05/01/ielts/)
 * [beszeljangolul.com](http://beszeljangolul.com/) `HU`
 * [Don't Panic Angol](http://dontpanicangol.com/beszedtrening-video1) `HU`
 * [Az 1000 leggyakoribb angol szó](http://online-angol-tanulas.blog.hu/2015/05/14/1200_angol_szo_amit_biztosan_tudnod_kell) `HU`
 * [Angol tematikus szószedet](https://hu.speaklanguages.com/angol/sz%C3%B3szedet/) `HU`
+* [200 mintamondat hivatalos angol levelezéshez](http://nyelvkonyvbolt.hu/angol-segedanyagok/200-mintamondat-hivatalos-angol-levelezeshez) `HU`
+
+### Tools
+
+* [Hemingway](http://www.hemingwayapp.com/)
+* [Grammarly](https://www.grammarly.com/)
 
 ### Productivity
 *Productivity articles, tips.*
@@ -890,6 +903,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Cost of living](http://www.numbeo.com/cost-of-living/)
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/)
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
+* [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) - Professzionális Kivándorlási Kézikönyv London 2007
 
 ### Ergonomics
 
