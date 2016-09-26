@@ -22,6 +22,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Theory
 
 * [Why are zero-based arrays the norm?](http://programmers.stackexchange.com/questions/110804/why-are-zero-based-arrays-the-norm)
+* [How can I sort arrays and data in PHP?](http://stackoverflow.com/questions/17364127/how-can-i-sort-arrays-and-data-in-php)
 
 ### Security
 
