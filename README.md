@@ -31,6 +31,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Drupal VM](https://www.drupalvm.com/)
 * [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
+
+#### Laravel
+
+* [Homestead](https://github.com/laravel/homestead)
+* [Scotch Box](https://box.scotch.io/)
 * [Laragon](https://forum.laragon.org/)
 
 ### Git
