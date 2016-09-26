@@ -848,6 +848,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 
+### English
+
+* [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
+* [beszeljangolul.com](http://beszeljangolul.com/) `HU`
+* [Don't Panic Angol](http://dontpanicangol.com/beszedtrening-video1) `HU`
+* [Az 1000 leggyakoribb angol szó](http://online-angol-tanulas.blog.hu/2015/05/14/1200_angol_szo_amit_biztosan_tudnod_kell) `HU`
+* [Angol tematikus szószedet](https://hu.speaklanguages.com/angol/sz%C3%B3szedet/) `HU`
+
 ### Productivity
 *Productivity articles, tips.*
 
