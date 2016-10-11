@@ -550,6 +550,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [JS: The Right Way](http://jstherightway.org/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 * [Speaking JavaScript](http://speakingjs.com/)
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -561,6 +562,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [all this](http://bjorn.tipling.com/all-this)
+* [JS features](https://jsfeatures.in/)
 * [JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [JavaScript best practices](https://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
 * [JavaScript Best Practices Part 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
