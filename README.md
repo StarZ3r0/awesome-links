@@ -370,6 +370,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
+* [PHP 7.1: introduction and release cycle](https://blog.pascal-martin.fr/post/php71-en-introduction-and-release-cycle.html)
 * [PHP: rfc](https://wiki.php.net/rfc) - current RFCs for PHP
 * [PHP tips](http://www.martinstoeckli.ch/php/php.html)
 * [PHP Sadness](http://phpsadness.com/)
@@ -562,6 +563,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [all this](http://bjorn.tipling.com/all-this)
+* [The State Of JavaScript 2016](http://stateofjs.com/2016/introduction/)
 * [JS features](https://jsfeatures.in/)
 * [JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/)
 * [JavaScript best practices](https://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
@@ -580,6 +582,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Detecting Scroll Position](http://blog.grayghostvisuals.com/js/detecting-scroll-position/)
 * [Angular Basics by ScriptyBooks](http://www.angularjsbook.com/angular-basics/chapters/introduction/)
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070#.gg9c7cnm1)
+* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ry9a9rq61)
 * [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz) `HU`
 * [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz) `HU`
 * [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek) `HU`
@@ -590,6 +593,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Code School - Javascript Roadtrip](http://javascript-roadtrip.codeschool.com/)
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
+* [egghead.io](https://egghead.io/)
 * [Webfejlesztés 2.](http://webprogramozas.inf.elte.hu/webfejl2.php#eloadas) `HU`
 * [A Javascript programozási nyelv - Prognyelvek portál](http://nyelvek.inf.elte.hu/leirasok/JavaScript/)
 
@@ -812,6 +816,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ## Services
 
 * [Gupshup](https://www.gupshup.io/developer/home)
+
+### Reports
+
+* [Issue Tracking Tools Survey 2016](https://www.jetbrains.com/youtrack/specials/tracking-tools-report-2016/)
 
 ### Email testing
 
