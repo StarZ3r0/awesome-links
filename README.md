@@ -915,6 +915,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [CodeHalf](https://codehalf.com/)
 * [Cost of living](http://www.numbeo.com/cost-of-living/)
+* [6,000 freelancers talk about money, happiness, and their hopes for the future](https://medium.freecodecamp.com/6-000-freelancers-talk-about-money-happiness-and-their-hopes-for-the-future-ec36cfc81bb9#.r6f57du7o)
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/)
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) - Professzionális Kivándorlási Kézikönyv London 2007
