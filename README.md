@@ -17,7 +17,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Dev
 *General web development sites, tools, articles and more*
 
+### Fonts
+
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
+* [Top 5 Programming Fonts](https://laravel-news.com/2016/10/top-5-programming-fonts)
 
 ### Theory
 
@@ -517,6 +520,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 * [SQRL Secure Quick Reliable Login](https://www.grc.com/sqrl/sqrl.htm)
 * [Exploitable PHP functions](http://stackoverflow.com/questions/3115559/exploitable-php-functions)
+* [Vault by HashiCorp](https://www.vaultproject.io/)
 
 ### Tools and services
 
@@ -752,6 +756,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 
+### Docker
+
+* [Secrets: write-up best practices, do's and don'ts, roadmap](https://github.com/docker/docker/issues/13490)
+
 ### SSL
 
 * [Let’s Encrypt](https://letsencrypt.org/)
@@ -794,6 +802,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Tools
 
 * [Search Console - URL feltérképezése](https://www.google.com/webmasters/tools/submit-url?hl=hu)
+* [SEMrush](https://www.semrush.com/)
 
 ## Marketing
 
