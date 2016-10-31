@@ -35,6 +35,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Drupal VM](https://www.drupalvm.com/)
 * [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
+* [PuPHPet](https://puphpet.com/)
 
 #### Laravel
 
@@ -756,6 +757,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 
+### DNS
+
+* [March 2016 DNS Speed Comparison Report](http://www.solvedns.com/dns-comparison/2016/03)
+
 ### Docker
 
 * [Secrets: write-up best practices, do's and don'ts, roadmap](https://github.com/docker/docker/issues/13490)
@@ -788,6 +793,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Static site generator
 
 * [Statamic](https://statamic.com/)
+
+### Tools
+
+* [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)
+* [pageres](https://github.com/sindresorhus/pageres)
 
 ## SEO
 *Search engine optimization articles and recommendations*
@@ -860,6 +870,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### PHP-related
 
 * [Blackfire](https://blackfire.io/) - Continuous PHP Performance Testing
+
+### Performance
+
+* [Sitespeed.io](https://www.sitespeed.io/)
 
 ## Other
 *Other tools and articles*
