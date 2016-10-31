@@ -757,12 +757,18 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 
+### Monitoring
+
+* [Scout Realtime](http://scoutapp.github.io/scout_realtime/)
+* [Monit](https://mmonit.com/monit/)
+
 ### DNS
 
 * [March 2016 DNS Speed Comparison Report](http://www.solvedns.com/dns-comparison/2016/03)
 
 ### Docker
 
+* [Docker](https://www.docker.com/)
 * [Secrets: write-up best practices, do's and don'ts, roadmap](https://github.com/docker/docker/issues/13490)
 
 ### SSL
@@ -794,10 +800,27 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Statamic](https://statamic.com/)
 
+### ACL
+
+* [mod_geoip2](http://dev.maxmind.com/geoip/legacy/mod_geoip2/)
+* [CIPB - Create Country ACL](https://www.countryipblocks.net/country_selection.php)
+
+### Backup
+
+* [duplicity](http://duplicity.nongnu.org/index.html)
+* [Tarsnap](http://www.tarsnap.com/)
+* [rsnapshot](http://rsnapshot.org/)
+* [HashBackup](http://www.hashbackup.com/home)
+* [Command Line S3 Client](http://s3tools.org/s3cmd)
+
 ### Tools
 
 * [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)
 * [pageres](https://github.com/sindresorhus/pageres)
+* [Directory Lister](https://github.com/DirectoryLister/DirectoryLister)
+* [Apaxy](http://adamwhitcroft.com/apaxy/)
+* [speedtest-cli](https://github.com/sivel/speedtest-cli)
+* [Vesta Control Panel](http://vestacp.com/)
 
 ## SEO
 *Search engine optimization articles and recommendations*
