@@ -845,6 +845,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Intro to Tmux](https://code.tutsplus.com/tutorials/intro-to-tmux--net-33889)
 * [tmux & screen cheat-sheet](http://www.dayid.org/comp/tm.html)
 
+### Git
+
+* [GitLab](https://gitlab.com)
+
 ### Tools
 
 * [Cool, but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
@@ -854,6 +858,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Apaxy](http://adamwhitcroft.com/apaxy/)
 * [speedtest-cli](https://github.com/sivel/speedtest-cli)
 * [Vesta Control Panel](http://vestacp.com/)
+* [Lychee](https://lychee.electerious.com/) - photo management
+* [Tails](https://tails.boum.org/)
 
 ## SEO
 *Search engine optimization articles and recommendations*
