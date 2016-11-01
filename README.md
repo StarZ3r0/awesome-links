@@ -756,9 +756,18 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
+* [rsync - exclude files and folders](http://articles.slicehost.com/2007/10/10/rsync-exclude-files-and-folders)
+* [screen keyboard shortcuts](http://www.pixelbeat.org/lkdb/screen.html)
+* [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
+
+### Learning
+
+* [Servers for Hackers](https://serversforhackers.com/)
+* [Netacademia / ITFactory - Ingyenes Hálózatbiztonsági alapozó](http://www.netacademia.hu/Info/freesec?pastCourse=True) `HU`
 
 ### Monitoring
 
+* [20 Linux System Monitoring Tools](http://www.cyberciti.biz/tips/top-linux-monitoring-tools.html)
 * [Scout Realtime](http://scoutapp.github.io/scout_realtime/)
 * [Monit](https://mmonit.com/monit/)
 
@@ -813,8 +822,25 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [HashBackup](http://www.hashbackup.com/home)
 * [Command Line S3 Client](http://s3tools.org/s3cmd)
 
+### Chat
+
+* [WeeChat](http://weechat.org/)
+* [Irssi](https://irssi.org/)
+
+### Vim
+
+* [A vim Tutorial and Primer](https://danielmiessler.com/study/vim/#gs.dglrsFU)
+* [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity)
+* [VimAwesome](http://vimawesome.com/)
+* [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
+* [A Good Vimrc](https://dougblack.io/words/a-good-vimrc.html)
+* [VimGenius](http://www.vimgenius.com/)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Vim: hatékonyság mindenekfelett!](https://logout.hu/cikk/vim_hatekonysag_mindenekfelett/bevezeto.html) `HU`
+
 ### Tools
 
+* [Cool, but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 * [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)
 * [pageres](https://github.com/sindresorhus/pageres)
 * [Directory Lister](https://github.com/DirectoryLister/DirectoryLister)
