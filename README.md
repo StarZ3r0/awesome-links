@@ -838,6 +838,13 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim: hatékonyság mindenekfelett!](https://logout.hu/cikk/vim_hatekonysag_mindenekfelett/bevezeto.html) `HU`
 
+### Tmux
+
+* [Practical Tmux](https://mutelight.org/practical-tmux)
+* [10 Killer Tmux Tips](https://www.sitepoint.com/10-killer-tmux-tips)
+* [Intro to Tmux](https://code.tutsplus.com/tutorials/intro-to-tmux--net-33889)
+* [tmux & screen cheat-sheet](http://www.dayid.org/comp/tm.html)
+
 ### Tools
 
 * [Cool, but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
