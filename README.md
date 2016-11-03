@@ -43,6 +43,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Scotch Box](https://box.scotch.io/)
 * [Laragon](https://forum.laragon.org/)
 
+#### Email
+
+* [MailCatcher](https://mailcatcher.me/)
+* [MailHog](https://github.com/mailhog/MailHog)
+* [MailDev](http://danfarrelly.nyc/MailDev/)
+
 ### Git
 
 * [Git Hot Tips](http://wesbos.com/git-hot-tips/)
