@@ -632,6 +632,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Libraries / components
 
+* [Vanilla List](http://www.vanillalist.com/) - The Vanilla Javascript Repository
 * [Nightmare](http://www.nightmarejs.org/)
 * [Feature.js](http://featurejs.com/) - feature detection library in 1kb
 * [Sprint.js](https://github.com/bendc/sprint) - a tiny, lightning fast jQuery-like library
