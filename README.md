@@ -263,11 +263,17 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Imagify](https://imagify.io/?ref=producthunt)
 * [Image Resizing Services and Projects](https://docs.google.com/spreadsheets/d/1e4qdGEoq7tqDCnY7iSSnl3OFoWkzhRfVAly-73A3uCc/edit#gid=0)
 
-### SASS
+### Preprocessors
+
+#### SASS
 
 * [Bourbon](https://github.com/thoughtbot/bourbon)
 * [Susy](https://github.com/oddbird/susy)
 * [Buttons](https://github.com/alexwolfe/Buttons/)
+
+#### PostCSS
+
+* [PostCSS.parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
 
 ### SVG
 
@@ -443,6 +449,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable)
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 * [Laravel 5 log viewer](https://github.com/rap2hpoutre/laravel-log-viewer)
+* [Spatie's Laravel packages](https://spatie.be/en/opensource/laravel)
 
 ### Laravel articles
 *Laravel articles, snippets, examples*
@@ -874,6 +881,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Infinite scroll search-friendly recommendations](https://googlewebmastercentral.blogspot.hu/2014/02/infinite-scroll-search-friendly.html)
 * [Notes on Filtering Spam and Bots from Google Analytics](http://www.lunametrics.com/blog/2016/01/28/notes-on-filtering-spam-and-bots-from-google-analytics/)
+* [Definitive Guide to Removing All Google Analytics Spam](http://help.analyticsedge.com/spam-filter/definitive-guide-to-removing-google-analytics-spam/)
 
 ### Technologies
 
