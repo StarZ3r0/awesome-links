@@ -324,7 +324,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [IE Web Platform Status and Roadmap](http://status.modern.ie/)
 * [Chromium Platform Status](https://www.chromestatus.com/features)
 * [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-* [Modern.ie Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/)
+* [Modern.ie Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
 #### Dev Tools
 
@@ -503,6 +503,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Roots](https://roots.io/)
 * [WP Test](http://wptest.io/)
 * [hookr.io](http://hookr.io/) - The WordPress Hook/API Index
+* [A tökéletes WordPress fejlesztői környezet](https://sjozsef.com/tokeletes-wordpress-fejlesztoi-kornyezet/) `HU`
 
 ### Resource
 
