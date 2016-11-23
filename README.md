@@ -12,6 +12,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [SEO](#seo)
 - [Marketing](#marketing)
 - [Services](#services)
+- [Design](#design)
 - [Other](#other)
 
 ## Dev
@@ -463,6 +464,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel Tips](https://laraveltips.wordpress.com/)
 * [Laravel relationships cheatsheet](http://laraveltnt.com/laravel-relationships-cheatsheet/)
 * [The Ultimate Guide to Sending Email in Laravel](https://scotch.io/tutorials/ultimate-guide-on-sending-email-in-laravel)
+* [Why Laravel Is Slow](http://hocza.com/2016-11-04/why-laravel-is-slow/)
 
 ### Laravel realted sites
 
@@ -503,6 +505,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Roots](https://roots.io/)
 * [WP Test](http://wptest.io/)
 * [hookr.io](http://hookr.io/) - The WordPress Hook/API Index
+* [WordPress SEO Checklist – 45 Tips for 2017](https://kinsta.com/blog/wordpress-seo-checklist/)
 * [A tökéletes WordPress fejlesztői környezet](https://sjozsef.com/tokeletes-wordpress-fejlesztoi-kornyezet/) `HU`
 
 ### Resource
@@ -955,6 +958,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Performance
 
 * [Sitespeed.io](https://www.sitespeed.io/)
+
+## Design
+
+### Typography
+
+* [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
 
 ## Other
 *Other tools and articles*
