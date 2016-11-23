@@ -144,6 +144,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 * [Easy Responsive CSS Grid Layouts: 4 Methods](http://www.sitepoint.com/easy-responsive-css-grid-layouts/)
+* [CSS Grid, Flexbox And Box Alignment: Our New System For Web Layout](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/)
 * [Jeet Grid System](https://github.com/mojotech/jeet)
 * [Grid displayer](http://alefeuvre.github.io/foundation-grid-displayer/)
 
