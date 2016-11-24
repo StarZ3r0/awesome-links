@@ -830,6 +830,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Static site generator
 
 * [Statamic](https://statamic.com/)
+* [Jekyll](https://jekyllrb.com/)
+* [Hexo](https://hexo.io/)
 
 ### ACL
 
@@ -882,11 +884,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Vesta Control Panel](http://vestacp.com/)
 * [Lychee](https://lychee.electerious.com/) - photo management
 * [Tails](https://tails.boum.org/)
-
-#### Static site generators
-
-* [Jekyll](https://jekyllrb.com/)
-* [Hexo](https://hexo.io/)
 
 ## SEO
 *Search engine optimization articles and recommendations*
