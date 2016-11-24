@@ -156,6 +156,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Performance
 
 * [Optimize CSS delivery](http://www.feedthebot.com/pagespeed/optimize-css-delivery.html)
+* [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
 * [Prebrowsing](http://www.stevesouders.com/blog/2013/11/07/prebrowsing/)
 * [Caching Tutorial](https://www.mnot.net/cache_docs/)
 * [Need for Speed – How to Improve your Website Performance](https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
@@ -784,6 +785,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Learning
 
 * [Servers for Hackers](https://serversforhackers.com/)
+* [Introduction to DevOps: Transforming and Improving Operations | edX](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
+* [Linux Akadémia](https://linuxakademia.hu/) `HU`
 * [Netacademia / ITFactory - Ingyenes Hálózatbiztonsági alapozó](http://www.netacademia.hu/Info/freesec?pastCourse=True) `HU`
 
 ### Monitoring
