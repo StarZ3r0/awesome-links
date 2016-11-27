@@ -18,6 +18,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Dev
 *General web development sites, tools, articles and more*
 
+### UTF-8
+
+* [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
+
 ### Fonts
 
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
