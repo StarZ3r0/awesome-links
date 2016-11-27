@@ -32,6 +32,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
+### Mobile apps development
+
+* [Cloud-alapú app tesztelés bevezetése](https://medium.com/mito/mobil-app-teszteles-test-cloud-calabash-xamarin-e18ffe020b6b#.oi9uygub6) `HU`
+
 ### VMs and environments
 
 * [Drupal VM](https://www.drupalvm.com/)
