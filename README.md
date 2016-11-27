@@ -7,12 +7,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 - [PHP](#php)
 - [SQL](#sql)
 - [JavaScript](#javascript)
+- [Design](#design)
 - [UX](#ux)
 - [Linux](#linux)
 - [SEO](#seo)
 - [Marketing](#marketing)
 - [Services](#services)
-- [Design](#design)
 - [Other](#other)
 
 ## Dev
@@ -757,18 +757,36 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Tessel 2](https://tessel.io/)
 
+## Design
+
+* [Mobile Design Best Practices](https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe#.wyehdqojr)
+* [The New Generation of Prototyping Tools (Part 2/2)](https://medium.com/@kunalslab/the-new-generation-of-prototyping-tools-part-2-2-a799ff2188fa#.8dqyycvxv)
+* [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/)
+
+### Typography
+
+* [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
+
 ## UX
 *Articles and tools related to user experience.*
 
 * [UX Project Checklist](http://uxchecklist.github.io/)
-* [Why and How to Avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)
 * [The 10 Commandments of Good Form Design on the Web](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
-* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.5yjfdgb3f) - Common mistakes designers make and how to fix them
 * [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.10ze3cr56)
 * [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
 * [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
+
+### Forms
+
+* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.5yjfdgb3f) - Common mistakes designers make and how to fix them
+* [7 Web Form Optimization Insights from Testing Hundreds of Forms](http://conversionxl.com/web-form-optimization/)
+
+### Hamburger menu
+
+* [Why and How to Avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)
+* [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.3ng29pher)
 
 ## Linux
 *Linux related articles and tools*
@@ -906,6 +924,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ## Marketing
 
+* [15 Incredible Facebook Ad Tools We Love](http://www.ppchero.com/15-incredible-facebook-ad-tools-we-love/)
+
 ### Gurus
 
 * [Online Katapult](http://www.onlinekatapult.hu/) `HU`
@@ -964,12 +984,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Performance
 
 * [Sitespeed.io](https://www.sitespeed.io/)
-
-## Design
-
-### Typography
-
-* [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
 
 ## Other
 *Other tools and articles*
