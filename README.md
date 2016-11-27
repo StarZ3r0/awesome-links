@@ -64,6 +64,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [GitHub Importer](https://import.github.com/new)
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
+#### Workflow
+
+* [GitFlow](https://github.com/nvie/gitflow)
+* [HubFlow](https://westurner.org/tools/#hubflow)
+
 ### Hosting
 
 * [HostingFacts](https://hostingfacts.com)
