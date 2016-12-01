@@ -264,6 +264,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [SassMeister](http://sassmeister.com/)
 * [c^ret](http://lugolabs.com/caret)
 * [TestMyCSS](http://www.testmycss.com/)
+* [StyleStats](http://www.stylestats.org/)
 
 #### Typography
 
@@ -562,6 +563,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [IP Address Details](http://ipinfo.io/)
 * [Codeception](http://codeception.com/) - Modern PHP testing for everyone.
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
+* [Strftime](http://strftime.net/)
 
 ### XAMPP
 
@@ -755,6 +757,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Tools
 
 * [Online JavaScript beautifier](http://jsbeautifier.org/)
+* [Online JavaScript/CSS/HTML Compressor](http://refresh-sf.com/)
+* [JSNice](http://www.jsnice.org/)
 
 #### Module loaders
 
@@ -818,6 +822,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Bash
 
 * [ShellCheck](http://www.shellcheck.net/) - Online shell script analyzer
+* [explainshell](http://explainshell.com/)
 
 ### Learning
 
@@ -947,6 +952,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [15 Incredible Facebook Ad Tools We Love](http://www.ppchero.com/15-incredible-facebook-ad-tools-we-love/)
 
+### Domains
+
+* [Domainr](https://domainr.com/)
+* [Domain Name Generator For Perfectionists](http://www.namemesh.com/)
+* [Namebird](http://kayosz.com/namebird)
+
 ### Gurus
 
 * [Online Katapult](http://www.onlinekatapult.hu/) `HU`
@@ -966,6 +977,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ## Services
 
 * [Gupshup](https://www.gupshup.io/developer/home)
+* [QR Code Generator](http://goqr.me/)
+* [Omni Calculator](https://www.omnicalculator.com/)
+* [Time.is](http://time.is/)
+* [MailDrop](http://maildrop.cc/)
 
 ### Reports
 
@@ -1005,6 +1020,15 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Performance
 
 * [Sitespeed.io](https://www.sitespeed.io/)
+
+### Google
+
+* [Google MapBuildr](https://mapbuildr.com/)
+
+### Cloud convert
+
+* [Smallpdf](http://smallpdf.com/)
+* [CloudConvert](https://cloudconvert.com/)
 
 ## Other
 *Other tools and articles*
