@@ -529,6 +529,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [PHP Versions](http://phpversions.info/)
 * [Online PHP shell](https://3v4l.org/)
 
+### Caching
+
+* [Varnish](https://www.varnish-cache.org/)
+
 ### IDEs
 
 * [Be Awesome in PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
@@ -560,6 +564,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Tools and services
 
 * [Blackfire](https://blackfire.io/)
+* [Detectify](https://detectify.com/)
 * [IP Address Details](http://ipinfo.io/)
 * [Codeception](http://codeception.com/) - Modern PHP testing for everyone.
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
@@ -586,6 +591,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 * [(The only proper) PDO tutorial](https://phpdelusions.net/pdo)
 * [MySQL Index](https://logout.hu/bejegyzes/sonar/mysql_index.html) `HU`
+
+### Tools
+
+* [dbv.php](https://dbv.vizuina.com/)
 
 ## JavaScript
 *JavaScript related guides, articles, tutorials*
@@ -823,6 +832,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [ShellCheck](http://www.shellcheck.net/) - Online shell script analyzer
 * [explainshell](http://explainshell.com/)
+* [showterm](http://showterm.io/)
+* [asciinema](https://asciinema.org/)
 
 ### Learning
 
@@ -856,6 +867,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Strong SSL Security on nginx](https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html)
 * [Analyzing HTTPS Performance Overhead](https://www.keycdn.com/blog/https-performance-overhead/)
 * [How To Secure Nginx with Let's Encrypt on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
+* [How's My SSL?](https://www.howsmyssl.com/)
 
 ### Nginx
 
@@ -1013,6 +1025,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [KeyCDN](https://www.keycdn.com/)
 
+### 2FA
+
+* [Authy](https://www.authy.com/)
+
 ### PHP-related
 
 * [Blackfire](https://blackfire.io/) - Continuous PHP Performance Testing
@@ -1062,9 +1078,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Grammarly](https://www.grammarly.com/)
 
 ### Productivity
-*Productivity articles, tips.*
+*Productivity articles, tips and tools*
 
 * [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
+* [WakaTime](https://wakatime.com/)
 
 ### Conference
 
