@@ -801,6 +801,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [HTML5 UP!](https://html5up.net/)
 
+### Software
+
+* [Subform](https://subformapp.com/)
+* [Affinity Designer](https://affinity.serif.com/en-us/)
+
 ## UX
 *Articles and tools related to user experience.*
 
