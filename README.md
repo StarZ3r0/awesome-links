@@ -270,6 +270,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [HTML Arrow Symbol](http://htmlarrows.com/arrows/)
 * [Smart Quotes for Smart People](http://smartquotesforsmartpeople.com/)
+* [Type Nugget](http://beta.typenugget.com/) - CSS Typography & Typesetting Tool
 
 #### Test
 
