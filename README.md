@@ -211,6 +211,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Web Accessibility and Semantic Heading Structures in HTML 5](http://accessiblehtmlheadings.com/)
 * [Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)
 * [Tenon.io](https://tenon.io/index.php)
+* [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 * [Technikák a WCAG 2.0-hoz](http://www.w3c.hu/forditasok/WCAG20-TECHS/Overview.html#contents) `HU`
 
 ### Resets
@@ -406,6 +407,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
 * [PHP 7.1: introduction and release cycle](https://blog.pascal-martin.fr/post/php71-en-introduction-and-release-cycle.html)
+* [Upcoming changes in PHP 7.1](https://dotdev.co/upcoming-changes-in-php-7-1-76ebea53b820#.56482yrrk)
 * [PHP: rfc](https://wiki.php.net/rfc) - current RFCs for PHP
 * [PHP tips](http://www.martinstoeckli.ch/php/php.html)
 * [PHP Sadness](http://phpsadness.com/)
@@ -794,6 +796,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Typography
 
 * [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
+
+### Templates
+
+* [HTML5 UP!](https://html5up.net/)
 
 ## UX
 *Articles and tools related to user experience.*
