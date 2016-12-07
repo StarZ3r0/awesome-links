@@ -451,6 +451,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP heads](https://blog.fortrabbit.com/php-heads)
 * [PHP resources](https://docs.google.com/spreadsheets/d/1hl1vemsuFsnKNaJHJbKlovi0MnU8Pj6O4RIg4DOFcRs/edit#gid=0)
 
+### Ecommerce
+
+* [Sylius](http://sylius.org/)
+
 ### Frameworks
 *Popular PHP frameworks*
 
