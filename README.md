@@ -954,7 +954,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [speedtest-cli](https://github.com/sivel/speedtest-cli)
 * [Vesta Control Panel](http://vestacp.com/)
 * [Lychee](https://lychee.electerious.com/) - photo management
-* [Tails](https://tails.boum.org/)
+* [Tails](https://tails.boum.org/) - the amnesic incognito live system
+* [Sysdig](http://www.sysdig.org/)
 
 ## SEO
 *Search engine optimization articles and recommendations*
