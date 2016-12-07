@@ -792,6 +792,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mobile Design Best Practices](https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe#.wyehdqojr)
 * [The New Generation of Prototyping Tools (Part 2/2)](https://medium.com/@kunalslab/the-new-generation-of-prototyping-tools-part-2-2-a799ff2188fa#.8dqyycvxv)
 * [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/)
+* [Hogyan segítsd a fejlesztőt 2.](https://blog.fps.hu/hogyan-segitsd-a-fejlesztot-2/) `HU`
 
 ### Typography
 
