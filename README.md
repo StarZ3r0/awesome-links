@@ -832,6 +832,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 *Linux related articles and tools*
 
 * [Server Naming Schemes](https://namingschemes.com/)
+* [htop explained](https://peteris.rocks/blog/htop/#htop-on-ubuntu-server-16-04-x64)
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
