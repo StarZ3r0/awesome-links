@@ -423,6 +423,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Introduction To PHP 7: What's New And What's Gone](https://www.toptal.com/php/php-7-performance-features)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Hashphp.org](http://wiki.hashphp.org/Main_Page)
+* [MySQL, PHP and Timezones](https://www.mettle.io/blog/post/mysql-php-timezone/)
 * [Reference - What does this symbol mean in PHP?](http://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php)
 * [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php) `HU`
 * [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig) `HU`
