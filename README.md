@@ -93,6 +93,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 * [Excess XSS](http://excess-xss.com/) - A comprehensive tutorial on cross-site scripting
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
+* [The State of Front-End Tooling 2016](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 * [Mastering the :nth-child](http://nthmaster.com/)
