@@ -995,6 +995,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Gurus
 
 * [Online Katapult](http://www.onlinekatapult.hu/) `HU`
+* [Marketinginnovátor Megoldások](http://marketinginnovator.hu/megoldasok/) `HU`
 
 ### Articles
 
