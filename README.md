@@ -281,7 +281,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Image manipulating services
 
-* [Imagify](https://imagify.io/?ref=producthunt)
+* [Zimage](https://zimage.io/)
+* [Imagify](https://imagify.io/)
 * [Image Resizing Services and Projects](https://docs.google.com/spreadsheets/d/1e4qdGEoq7tqDCnY7iSSnl3OFoWkzhRfVAly-73A3uCc/edit#gid=0)
 
 ### Preprocessors
