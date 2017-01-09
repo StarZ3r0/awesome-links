@@ -1005,6 +1005,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Goole Analytics
 
+* [Google Analytics Demos & Tools](https://ga-dev-tools.appspot.com/)
 * [Scroll Depth](http://scrolldepth.parsnip.io/)
 
 ### Google AdWords
