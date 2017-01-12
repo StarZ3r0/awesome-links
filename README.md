@@ -189,6 +189,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Optimising the Critical Rendering Path](http://patrickhamann.com/workshops/performance/tasks/start.html)
 * [Google PageSpeed Insights – Scoring 100/100 with WordPress](https://www.keycdn.com/blog/google-pagespeed-insights-wordpress/)
 * [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/) `HU`
+* [Magento frontend sebesség gyorsítás és mérése](https://aionhill.com/magento-teljesitmeny-oldal-gyorsitas) `HU`
 
 ### Frameworks
 *Popular and less popular frontend frameworks*
@@ -1006,6 +1007,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Goole Analytics
 
+* [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei)
 * [Google Analytics Demos & Tools](https://ga-dev-tools.appspot.com/)
 * [Scroll Depth](http://scrolldepth.parsnip.io/)
 
