@@ -1007,9 +1007,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Goole Analytics
 
-* [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei)
 * [Google Analytics Demos & Tools](https://ga-dev-tools.appspot.com/)
 * [Scroll Depth](http://scrolldepth.parsnip.io/)
+* [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei) `HU`
+* [Webshop konverziós ráta: optimalizálás és tévhitek](https://aionhill.com/konverzios-rata) `HU`
 
 ### Google AdWords
 
