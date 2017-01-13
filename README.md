@@ -975,6 +975,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Infinite scroll search-friendly recommendations](https://googlewebmastercentral.blogspot.hu/2014/02/infinite-scroll-search-friendly.html)
 * [Notes on Filtering Spam and Bots from Google Analytics](http://www.lunametrics.com/blog/2016/01/28/notes-on-filtering-spam-and-bots-from-google-analytics/)
 * [Definitive Guide to Removing All Google Analytics Spam](http://help.analyticsedge.com/spam-filter/definitive-guide-to-removing-google-analytics-spam/)
+* [Kulcsszókutatás: webáruházad keresőoptimalizálásának alapja](https://aionhill.com/kulcsszokutatas-webaruhaz) `HU`
+* [9 ok, amiért lepattannak weboldaladról a látogatók](https://aionhill.com/9-ok-amiert-lepattannak-a-latogatok) `HU`
 
 ### Technologies
 
