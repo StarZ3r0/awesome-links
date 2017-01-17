@@ -851,6 +851,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [rsync - exclude files and folders](http://articles.slicehost.com/2007/10/10/rsync-exclude-files-and-folders)
 * [screen keyboard shortcuts](http://www.pixelbeat.org/lkdb/screen.html)
 * [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
+* [Raymii.org](https://raymii.org/s/index.html) - linux related articles
 
 ### Bash
 
