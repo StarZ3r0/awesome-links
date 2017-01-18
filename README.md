@@ -500,6 +500,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [LaraVer{x.y.z}](https://laraver.xyz/)
 * [murze.be](https://murze.be/tag/laravel/)
 
+### Eloquent
+
+* [Eloquent by Example](http://eloquentbyexample.com/)
+
 ### Components
 *PHP packages and libraries*
 
@@ -661,6 +665,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [A Javascript programozási nyelv - Prognyelvek portál](http://nyelvek.inf.elte.hu/leirasok/JavaScript/)
 
 ### Interview
+
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises)
 * [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises)
 * [25 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
@@ -681,6 +686,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### NodeJS
 
 * [NodeSchool](http://nodeschool.io/)
+* [You Don't Know Node | Node.University](http://node.university/p/you-dont-know-node)
 
 ### Libraries / components
 
