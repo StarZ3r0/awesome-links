@@ -853,6 +853,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
 * [Raymii.org](https://raymii.org/s/index.html) - linux related articles
 * [The Perfect Server - Ubuntu 16.04](https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/) - set up Ubuntu 16.04 server with ISPConfig 3.1
+* [Vesta Control Panel](https://vestacp.com/)
 
 ### Bash
 
