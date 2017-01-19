@@ -303,6 +303,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
 * [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
 * [Everything You Need To Know About SVG](https://css-tricks.com/lodge/svg/)
+* [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
+* [SVG tananyag](http://svg.elte.hu/) `HU`
 
 ### Bootstrap
 
