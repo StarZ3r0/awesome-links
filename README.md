@@ -31,6 +31,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Why are zero-based arrays the norm?](http://programmers.stackexchange.com/questions/110804/why-are-zero-based-arrays-the-norm)
 * [How can I sort arrays and data in PHP?](http://stackoverflow.com/questions/17364127/how-can-i-sort-arrays-and-data-in-php)
+* [Algoritmusok és adatszerkezetek I](http://www.inf.u-szeged.hu/~cimreh/alg.htm) `HU`
 
 ### Security
 
@@ -136,6 +137,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Techniques for Responsive Typography](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
 * [Responsive Tables in Pure CSS](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
 * [Media Queries](http://mediaqueri.es/) - nice examples
+* [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
 ### Mobile
 
