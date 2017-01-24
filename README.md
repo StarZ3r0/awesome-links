@@ -256,6 +256,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSSO](https://github.com/css/csso)
 * [Refresh-SF](http://gpbmike.github.io/refresh-sf/) - Online JavaScript/CSS/HTML Compressor
 * [draGGradients](http://elrumordelaluz.github.io/draGGradients/)
+* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [CSS Gradient Animator](http://www.gradient-animator.com/)
 * [Formspree](http://formspree.io/) - Functional HTML forms
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
@@ -270,6 +271,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [c^ret](http://lugolabs.com/caret)
 * [TestMyCSS](http://www.testmycss.com/)
 * [StyleStats](http://www.stylestats.org/)
+* [Real Favicon Generator](http://realfavicongenerator.net/)
 
 #### Typography
 
@@ -1109,6 +1111,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [';--have i been pwned?](https://haveibeenpwned.com/)
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
+* [What browser am I using?](http://www.whatsmybrowser.org/)
 
 ### English
 
