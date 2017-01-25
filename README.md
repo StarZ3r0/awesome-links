@@ -253,7 +253,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Glue](https://github.com/jorgebastida/glue/) - command line tool to generate CSS sprites
 * [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 * [SpritePad](http://spritepad.wearekiss.com/)
+* [Sprite Cow](http://www.spritecow.com/)
 * [CSSO](https://github.com/css/csso)
+* [CSSO – CSS optimizer](https://css.github.io/csso/csso.html)
 * [Refresh-SF](http://gpbmike.github.io/refresh-sf/) - Online JavaScript/CSS/HTML Compressor
 * [draGGradients](http://elrumordelaluz.github.io/draGGradients/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
@@ -272,6 +274,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [TestMyCSS](http://www.testmycss.com/)
 * [StyleStats](http://www.stylestats.org/)
 * [Real Favicon Generator](http://realfavicongenerator.net/)
+* [@font-face kit generator](http://fontface.codeandmore.com/)
+* [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+* [Base64 Image Encoder](https://www.base64-image.de/)
+* [File to Base64 Encoder](https://www.giftofspeed.com/base64-encoder/)
+* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
 #### Typography
 
@@ -1113,6 +1120,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
+
+### Google Chrome
+
+* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 
 ### English
 
