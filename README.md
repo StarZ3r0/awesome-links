@@ -301,6 +301,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 #### SASS
 
+* [The Sass Way](http://thesassway.com/)
 * [Bourbon](https://github.com/thoughtbot/bourbon)
 * [Susy](https://github.com/oddbird/susy)
 * [Buttons](https://github.com/alexwolfe/Buttons/)
@@ -695,6 +696,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [You might not need jQuery](http://youmightnotneedjqueryplugins.com/)
 * [JavascriptOO](http://www.javascriptoo.com/)
 * [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
+* [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
 
 ### NodeJS
 
