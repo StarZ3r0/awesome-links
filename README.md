@@ -975,6 +975,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [VimGenius](http://www.vimgenius.com/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [VIM Adventures](https://vim-adventures.com/)
+* [VimGolf](http://www.vimgolf.com/)
 * [Vim: hatékonyság mindenekfelett!](https://logout.hu/cikk/vim_hatekonysag_mindenekfelett/bevezeto.html) `HU`
 
 ### Tmux
