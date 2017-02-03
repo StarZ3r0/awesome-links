@@ -18,6 +18,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Dev
 *General web development sites, tools, articles and more*
 
+### Articles
+
+* [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
+
 ### UTF-8
 
 * [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
@@ -335,6 +339,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Emailology](http://www.emailology.org/)
 * [Bulletproof email buttons](https://buttons.cm/)
 * [Improve your transactional emails with Gmail Inbox Actions](https://postmarkapp.com/guides/improve-your-transactional-emails-with-gmail-inbox-actions)
+* [Making Responsive HTML Email Coding Easy With MJML](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
 * [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm) `HU`
 
 #### Responsive email
@@ -846,6 +851,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Designing a landing page that sells](https://blog.activecollab.com/designing-a-landing-page-that-sells-2102afc67024)
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
 * [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.10ze3cr56)
+* [Date-Input Form Fields: UX Design Guidelines](https://www.nngroup.com/articles/date-input/)
 * [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.5hb3epyhb)
 * [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
 * [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
@@ -1044,12 +1050,15 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Google Analytics Demos & Tools](https://ga-dev-tools.appspot.com/)
 * [Scroll Depth](http://scrolldepth.parsnip.io/)
+* [Google Analytics User Permissions Exploring Tool](https://www.thyngster.com/tools/governance/main/login)
+* [Top 15 Enhanced Ecommerce Implementation Best Practices and Tips](http://online-metrics.com/enhanced-ecommerce-implementation/)
 * [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei) `HU`
 * [Webshop konverziós ráta: optimalizálás és tévhitek](https://aionhill.com/konverzios-rata) `HU`
 
 ### Google AdWords
 
-* [A Google találati lista átalakulása](http://optimizer.hu/a-google-talalati-lista-atalakulasa)
+* [The Secrets of AdWords CTR in 5 Charts](http://www.wordstream.com/blog/ws/2017/01/24/adwords-ctr-secrets)
+* [A Google találati lista átalakulása](http://optimizer.hu/a-google-talalati-lista-atalakulasa) `HU`
 
 ## Services
 
@@ -1202,3 +1211,4 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [MapHub](https://maphub.net/)
 * [weblog.sh](https://weblog.sh/)
 * [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+* [Faces of Power](http://www.facesofpower.net/)
