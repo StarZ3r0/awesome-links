@@ -94,7 +94,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HTML 5.1](https://www.w3.org/TR/html51/) - W3C Recommendation, 1 November 2016
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [MarkSheet](http://marksheet.io/)
-* [Front-End Developer Handbook](http://www.frontendhandbook.com/)
+* [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 * [Excess XSS](http://excess-xss.com/) - A comprehensive tutorial on cross-site scripting
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
