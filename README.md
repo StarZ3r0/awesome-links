@@ -760,6 +760,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Masked Input](http://digitalbush.com/projects/masked-input-plugin/)
 * [The Final Countdown](http://hilios.github.io/jQuery.countdown/) - A simple and html agnostic date countdown plugin for jQuery
 * [Stupid jQuery Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - small and simple jQuery table sorter plugin
+* [Select2](https://select2.github.io/) - The jQuery replacement for select boxes
 
 #### Lightbox
 
