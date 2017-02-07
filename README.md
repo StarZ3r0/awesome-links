@@ -625,12 +625,15 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [SQLBolt](https://sqlbolt.com/) - Learn SQL with simple, interactive exercises.
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
+* [What are the options for storing hierarchical data in a relational database?](http://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database)
 * [(The only proper) PDO tutorial](https://phpdelusions.net/pdo)
 * [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 * [What Is New in MySQL 5.7](https://dev.mysql.com/doc/refman/5.7/en/mysql-nutshell.html)
 * [The SQL Injection Knowledge Base](http://www.websec.ca/kb/sql_injection)
 * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
+* [Khan Academy: Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+* [What's the difference between utf8_general_ci and utf8_unicode_ci](http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci)
 * [MySQL Index](https://logout.hu/bejegyzes/sonar/mysql_index.html) `HU`
 * [Triggerek használata MySQL-ben](https://rimelek.hu/triggerek-hasznalata-mysql-ben) `HU`
 * [Siki Zoltán: Adatbáziskezelés és tervezés](http://www.agt.bme.hu/szakm/adatb/adatb.htm) `HU`
