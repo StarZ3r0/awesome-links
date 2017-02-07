@@ -891,17 +891,32 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 *Linux related articles and tools*
 
 * [Server Naming Schemes](https://namingschemes.com/)
+* [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
 * [htop explained](https://peteris.rocks/blog/htop/#htop-on-ubuntu-server-16-04-x64)
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
+* [Copying Files](https://serversforhackers.com/copying-files)
 * [rsync - exclude files and folders](http://articles.slicehost.com/2007/10/10/rsync-exclude-files-and-folders)
 * [screen keyboard shortcuts](http://www.pixelbeat.org/lkdb/screen.html)
 * [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
 * [Raymii.org](https://raymii.org/s/index.html) - linux related articles
 * [The Perfect Server - Ubuntu 16.04](https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/) - set up Ubuntu 16.04 server with ISPConfig 3.1
+* [Samba File Server](https://help.ubuntu.com/lts/serverguide/samba-fileserver.html)
+* [How To Use Find and Locate to Search for Files on a Linux](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps)
 * [Vesta Control Panel](https://vestacp.com/)
+
+### DevOps
+
+* [How To Add Swap Space on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-16-04)
+* [Backup and Compress a MySQL Database With One Command](https://longren.io/backup-and-compress-mysql-in-one-command/)
+
+### Security
+
+* [What permissions should my website files/folders have on a Linux webserver?](http://serverfault.com/questions/357108/what-permissions-should-my-website-files-folders-have-on-a-linux-webserver)
+* [Are You Prepared Against A Hack?](https://www.smashingmagazine.com/2014/05/are-you-prepared-against-a-hack/)
+* [Beyond Permissions: Linux ACLs](https://serversforhackers.com/beyond-permissions-linux-acls)
 
 ### Bash
 
@@ -958,6 +973,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
 * [NGINX SSL Performance](https://assets.wp.nginx.com/wp-content/uploads/2014/07/NGINX-SSL-Performance.pdf) `PDF`
 * [Testing Performance](http://gwan.ch/en_apachebench_httperf.html)
+* [Nginx Caching](https://serversforhackers.com/nginx-caching)
+* [Apache vagy Nginx: gyakorlati szempontok](https://www.rackhost.hu/wiki/Apache_vagy_Nginx:_gyakorlati_szempontok) `HU`
 
 ### Shells
 
