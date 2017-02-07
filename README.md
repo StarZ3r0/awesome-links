@@ -1053,6 +1053,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [dnswl.org](https://www.dnswl.org/) - the leading email whitelist, also called DNS whitelist (DNSWL)
 * [Google Postmaster Tools](https://postmaster.google.com/u/0/managedomains?pli=1)
 
+### Others
+
+* [How To Setup a Shoutcast Server on Ubuntu](https://www.vultr.com/docs/how-to-setup-a-shoutcast-server-on-ubuntu)
+
 ## SEO
 *Search engine optimization articles and recommendations*
 
