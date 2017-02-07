@@ -924,11 +924,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Scout Realtime](http://scoutapp.github.io/scout_realtime/)
 * [Monit](https://mmonit.com/monit/)
 
-### DNS
+### DNS and domains
 
 * [intoDNS](https://intodns.com/)
 * [DNS Inspect](http://www.dnsinspect.com/)
 * [March 2016 DNS Speed Comparison Report](http://www.solvedns.com/dns-comparison/2016/03)
+* [ICANN-Accredited Registrars](https://www.icann.org/registrar-reports/accredited-list.html)
+* [IANA — Root Zone Database](http://www.iana.org/domains/root/db)
+* [How to host your DNS with FastMail](https://www.fastmail.com/help/receive/dns.html?domain=fastmail.fm)
 
 ### Docker
 
@@ -1023,6 +1026,15 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Lychee](https://lychee.electerious.com/) - photo management
 * [Tails](https://tails.boum.org/) - the amnesic incognito live system
 * [Sysdig](http://www.sysdig.org/)
+
+### Spam
+
+* [The complete IP check for sending Mailservers](http://multirbl.valli.org/lookup/)
+* [SenderBase](http://www.senderbase.org/) - The world's largest Email and Web traffic monitoring network
+* [Barracuda IP / Domain Lookups](http://barracudacentral.org/lookups/lookup-reputation)
+* [Symantec IP Reputation Investigation](http://ipremoval.sms.symantec.com/lookup/)
+* [dnswl.org](https://www.dnswl.org/) - the leading email whitelist, also called DNS whitelist (DNSWL)
+* [Google Postmaster Tools](https://postmaster.google.com/u/0/managedomains?pli=1)
 
 ## SEO
 *Search engine optimization articles and recommendations*
