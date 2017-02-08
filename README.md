@@ -1124,8 +1124,13 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Freenom](http://www.freenom.com/en/index.html?lang=en) - free .tk, .ml, .ga, .cf, .gq domain registration
 * [Domainr](https://domainr.com/)
+* [Instant Domain Search](https://instantdomainsearch.com/)
 * [Domain Name Generator For Perfectionists](http://www.namemesh.com/)
 * [Namebird](http://kayosz.com/namebird)
+* [TLD List](https://tld-list.com/)
+* [domcomp](https://www.domcomp.com/)
+* [2 letter Domain Names](https://catechgory.com/)
+* [Launchaco](http://launchaco.com/)
 
 ### Gurus
 
