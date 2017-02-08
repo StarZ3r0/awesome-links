@@ -33,6 +33,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Theory
 
+* [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
 * [Why are zero-based arrays the norm?](http://programmers.stackexchange.com/questions/110804/why-are-zero-based-arrays-the-norm)
 * [How can I sort arrays and data in PHP?](http://stackoverflow.com/questions/17364127/how-can-i-sort-arrays-and-data-in-php)
 * [Algoritmusok és adatszerkezetek I](http://www.inf.u-szeged.hu/~cimreh/alg.htm) `HU`
@@ -891,22 +892,41 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ## Linux
 *Linux related articles and tools*
 
+* [Oliver | An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
+* [LPI Linux Certification](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 * [Server Naming Schemes](https://namingschemes.com/)
 * [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
 * [htop explained](https://peteris.rocks/blog/htop/#htop-on-ubuntu-server-16-04-x64)
 * [PHP 7.0 (and 5.6) on Ubuntu](http://www.lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu)
-* [Ubuntu Packages Search](http://packages.ubuntu.com/)
-* [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
+* [screen keyboard shortcuts](http://www.pixelbeat.org/lkdb/screen.html)
+* [Raymii.org](https://raymii.org/s/index.html) - linux related articles
+* [Add a DMARC record](https://support.google.com/a/answer/2466563?hl=en&ref_topic=2759254) - Prevent outgoing spam with DMARC
+* [Linux tricks](http://cfenollosa.com/misc/tricks.txt)
+
+### Hungarian articles
+
+* [Linux parancsok, kezdőknek](http://letix.hu/)
+* [EKOP Rendszergazdai tankönyvek](http://szabadszoftver.kormany.hu/sajat-oktatasi-anyagok/)
+* [A DNS működése](http://unixlinux.tmit.bme.hu/A_DNS_m%C5%B1k%C3%B6d%C3%A9se)
+* [DNS - elv és konfiguráció](http://szabilinux.hu/dns/)
+* [Egyszerű email-szerver építése](http://unixlinux.tmit.bme.hu/Egyszer%C5%B1_email-szerver_%C3%A9p%C3%ADt%C3%A9se)
+* [POSIX ACL](http://unixlinux.tmit.bme.hu/POSIX_ACL)
+* [SzitWiki](http://szit.hu/doku.php?id=oktatas:linux)
+* [Gyakorló feladatok - UNIX](http://progkor.inf.elte.hu/unix/gyak_u.html)
+
+### Howtos
+
+* [Email with Postfix, Dovecot, and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql)
+* [How to set up a mail server on a GNU / Linux system](http://flurdy.com/docs/postfix/)
+* [A Mailserver on Ubuntu 14.04: Postfix, Dovecot, MySQL](https://www.exratione.com/2014/05/a-mailserver-on-ubuntu-1404-postfix-dovecot-mysql/)
+* [How to Send Email Like a Startup](https://www.sendwithus.com/resources/guide)
+* [NGINX reverse proxy in front of Apache](http://dangerousprototypes.com/docs/NGINX_reverse_proxy_in_front_of_Apache:_hardened,_high_performance_dedicated_server_setup)
 * [Copying Files](https://serversforhackers.com/copying-files)
 * [rsync - exclude files and folders](http://articles.slicehost.com/2007/10/10/rsync-exclude-files-and-folders)
-* [screen keyboard shortcuts](http://www.pixelbeat.org/lkdb/screen.html)
-* [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
-* [Raymii.org](https://raymii.org/s/index.html) - linux related articles
 * [The Perfect Server - Ubuntu 16.04](https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/) - set up Ubuntu 16.04 server with ISPConfig 3.1
 * [Samba File Server](https://help.ubuntu.com/lts/serverguide/samba-fileserver.html)
 * [How To Use Find and Locate to Search for Files on a Linux](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps)
-* [Vesta Control Panel](https://vestacp.com/)
 
 ### DevOps
 
@@ -1054,6 +1074,9 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Lychee](https://lychee.electerious.com/) - photo management
 * [Tails](https://tails.boum.org/) - the amnesic incognito live system
 * [Sysdig](http://www.sysdig.org/)
+* [Ubuntu Packages Search](http://packages.ubuntu.com/)
+* [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
+* [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
 
 ### Spam
 
