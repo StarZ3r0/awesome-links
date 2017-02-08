@@ -518,6 +518,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel Gurus](https://laravelgurus.com/)
 * [LaraVer{x.y.z}](https://laraver.xyz/)
 * [murze.be](https://murze.be/tag/laravel/)
+* [Laracon Online](https://laracon.net/)
 
 ### Eloquent
 
