@@ -963,14 +963,17 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Analyzing HTTPS Performance Overhead](https://www.keycdn.com/blog/https-performance-overhead/)
 * [How To Secure Nginx with Let's Encrypt on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
 * [How's My SSL?](https://www.howsmyssl.com/)
+* [SSL Certificate Checker](https://www.digicert.com/help/)
 
 #### Providers
 
 * [Let’s Encrypt](https://letsencrypt.org/)
+* [SSLMate](https://sslmate.com/)
 * [Namecheap](https://www.namecheap.com/security/ssl-certificates/)
-* [StartSSL](https://startssl.com/)
 * [SSLs.com](https://www.ssls.com/)
+* [StartSSL](https://startssl.com/)
 * [Cheap SSL](https://www.cheapsslshop.com/)
+
 
 ### Nginx
 
