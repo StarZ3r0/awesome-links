@@ -956,7 +956,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### SSL
 
-* [Let’s Encrypt](https://letsencrypt.org/)
 * [Certbot](https://certbot.eff.org/#ubuntuxenial-nginx)
 * [Is TLS Fast Yet?](https://istlsfastyet.com/)
 * [Qualys SSL Labs - SSL Server Test](https://www.ssllabs.com/ssltest/analyze.html)
@@ -964,6 +963,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Analyzing HTTPS Performance Overhead](https://www.keycdn.com/blog/https-performance-overhead/)
 * [How To Secure Nginx with Let's Encrypt on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
 * [How's My SSL?](https://www.howsmyssl.com/)
+
+#### Providers
+
+* [Let’s Encrypt](https://letsencrypt.org/)
+* [Namecheap](https://www.namecheap.com/security/ssl-certificates/)
+* [StartSSL](https://startssl.com/)
+* [SSLs.com](https://www.ssls.com/)
+* [Cheap SSL](https://www.cheapsslshop.com/)
 
 ### Nginx
 
