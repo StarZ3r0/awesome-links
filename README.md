@@ -506,7 +506,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Spatie's Laravel packages](https://spatie.be/en/opensource/laravel)
 
 ### Laravel articles
-*Laravel articles, snippets, examples*
+*Laravel tutorials, articles, snippets, examples*
 
 * [Creating a password-less, Medium-style, email-only authentication system in Laravel](https://blog.tighten.co/creating-a-password-less-medium-style-email-only-authentication-system-in-laravel)
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
@@ -517,6 +517,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel relationships cheatsheet](http://laraveltnt.com/laravel-relationships-cheatsheet/)
 * [The Ultimate Guide to Sending Email in Laravel](https://scotch.io/tutorials/ultimate-guide-on-sending-email-in-laravel)
 * [Why Laravel Is Slow](http://hocza.com/2016-11-04/why-laravel-is-slow/)
+* [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017)
 
 ### Laravel realted sites
 
@@ -950,6 +951,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [showterm](http://showterm.io/)
 * [asciinema](https://asciinema.org/)
 * [.bashrc PS1 generator](http://bashrcgenerator.com/)
+* [Command line challenge](https://cmdchallenge.com/)
 
 ### Learning
 
