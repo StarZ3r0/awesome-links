@@ -1154,6 +1154,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Scroll Depth](http://scrolldepth.parsnip.io/)
 * [Google Analytics User Permissions Exploring Tool](https://www.thyngster.com/tools/governance/main/login)
 * [Top 15 Enhanced Ecommerce Implementation Best Practices and Tips](http://online-metrics.com/enhanced-ecommerce-implementation/)
+* [Google Analytics: Using Goals, Funnels to Improve Conversions](http://www.practicalecommerce.com/articles/131420-Google-Analytics-Using-Goals-Funnels-to-Improve-Conversions)
 * [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei) `HU`
 * [Webshop konverziós ráta: optimalizálás és tévhitek](https://aionhill.com/konverzios-rata) `HU`
 
