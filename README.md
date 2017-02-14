@@ -422,6 +422,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Magyarországi Web Konferencia](http://webconf.hu/2013/program/) `HU`
 * [Laki Ádám](http://adamlaki.com/) `HU`
 
+### Pratical examples
+
+* [Prevent body scrolling but allow overlay scrolling](http://stackoverflow.com/questions/9280258/prevent-body-scrolling-but-allow-overlay-scrolling)
+
 ## PHP
 *PHP related guides, sites and articles* 
 
