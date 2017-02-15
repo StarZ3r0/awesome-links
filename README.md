@@ -133,6 +133,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography)
 * [Professional Web Typography](https://prowebtype.com/)
 * [The State of Web Type](http://stateofwebtype.com/)
+* [Get the Balance Right: Responsive Display Text](https://24ways.org/2016/responsive-display-text/)
 
 ### Responsive web design
 
