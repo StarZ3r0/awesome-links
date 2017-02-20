@@ -882,6 +882,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/)
 * [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.10ze3cr56)
 * [Date-Input Form Fields: UX Design Guidelines](https://www.nngroup.com/articles/date-input/)
+* [The Current State of Homepage & Category UX ](https://baymard.com/blog/current-state-of-ecommerce-category-ux)
+* [Tools for UX and CRO: The Ultimate Guide for 2017](http://www.conversion-rate-experts.com/conversion-tools/)
 * [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.5hb3epyhb)
 * [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
 * [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
@@ -1157,6 +1159,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google Analytics User Permissions Exploring Tool](https://www.thyngster.com/tools/governance/main/login)
 * [Top 15 Enhanced Ecommerce Implementation Best Practices and Tips](http://online-metrics.com/enhanced-ecommerce-implementation/)
 * [Google Analytics: Using Goals, Funnels to Improve Conversions](http://www.practicalecommerce.com/articles/131420-Google-Analytics-Using-Goals-Funnels-to-Improve-Conversions)
+* [The Ultimate List of Google Analytics Certification Resources (Updated 2017)](https://www.jeffalytics.com/google-analytics-certification/)
 * [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei) `HU`
 * [Webshop konverziós ráta: optimalizálás és tévhitek](https://aionhill.com/konverzios-rata) `HU`
 
