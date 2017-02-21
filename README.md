@@ -614,6 +614,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Codeception](http://codeception.com/) - Modern PHP testing for everyone.
 * [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyser for vulnerabilities in PHP scripts
 * [Strftime](http://strftime.net/)
+* [PHP strtotime Testing Tool](http://strtotime.co.uk/)
 
 ### XAMPP
 
