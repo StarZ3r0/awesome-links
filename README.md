@@ -81,6 +81,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Hosting
 
+* [•fortrabbit](https://www.fortrabbit.com/pricing)
 * [HostingFacts](https://hostingfacts.com)
 
 ### Desktop softwares
