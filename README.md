@@ -126,6 +126,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+* [Even more about how Flexbox works](https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.a17nflkqq) - explained in big, colorful, animated gifs
 * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 * [Youtube] [What The Flexbox?!](http://flexbox.io/)
 
