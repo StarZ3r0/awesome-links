@@ -1236,6 +1236,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [mLab](https://mlab.com/)
 
+### Useful
+
+* [Kitestring](https://www.kitestring.io/)
+* [Change.org](https://www.change.org/)
+* [Zencastr](https://zencastr.com/)
+* [Google Flights](https://www.google.com/flights/)
+
+
 ## Other
 *Other tools and articles*
 
@@ -1246,6 +1254,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
+
+### Phones
+
+* [Unlockapedia](https://www.giffgaff.com/unlock)
+* [Will My Phone Work?](http://willmyphonework.net/)
+* [StockDroids](https://www.stockdroids.com/)
 
 ### Google Chrome
 
