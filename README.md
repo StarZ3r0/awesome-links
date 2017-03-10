@@ -714,9 +714,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Code School - Javascript Roadtrip](http://javascript-roadtrip.codeschool.com/)
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
+* [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.y185h9t37)
 * [egghead.io](https://egghead.io/)
 * [Webfejlesztés 2.](http://webprogramozas.inf.elte.hu/webfejl2.php#eloadas) `HU`
-* [A Javascript programozási nyelv - Prognyelvek portál](http://nyelvek.inf.elte.hu/leirasok/JavaScript/)
+* [A Javascript programozási nyelv - Prognyelvek portál](http://nyelvek.inf.elte.hu/leirasok/JavaScript/) `HU`
 
 ### Interview
 
