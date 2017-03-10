@@ -1319,6 +1319,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Career and work
 
+* [How I Work - Taylor Otwell](https://medium.com/@taylorotwell/how-i-work-a22010d1ad82#.2hl5421gq)
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Not An Imposter: Fighting Front-End Fatigue](https://www.smashingmagazine.com/2016/11/not-an-imposter-fighting-front-end-fatigue/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
