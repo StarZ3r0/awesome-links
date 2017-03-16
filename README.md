@@ -84,6 +84,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [•fortrabbit](https://www.fortrabbit.com/pricing)
 * [HostingFacts](https://hostingfacts.com)
+* [Magento AWS hoszting](https://aionhill.com/magento-aws-hoszting) `HU`
 
 ### Desktop softwares
 
