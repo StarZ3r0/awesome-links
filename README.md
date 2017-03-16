@@ -1265,7 +1265,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Online kampányok csúcsra járatva](https://www.onlinekatapult.hu/okcs/) `HU`
 * [UX DESIGN - Pásztor Dávid](https://uxstudioteam.com/ux-konyv/) `HU`
-* [Google AdWords - Gál Kristóf](http://www.klikkmarketing.hu/termekek/google-adwords-konyv)
+* [Google AdWords - Gál Kristóf](http://www.klikkmarketing.hu/termekek/google-adwords-konyv) `HU`
 
 ### Phones
 
