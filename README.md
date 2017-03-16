@@ -21,6 +21,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Articles
 
 * [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
+* [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/)
 
 ### UTF-8
 
@@ -1081,6 +1082,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Tools
 
+* [GraphicsMagick](http://www.graphicsmagick.org/) - ImageMagick fork
 * [Cool, but obscure unix tools](http://kkovacs.eu/cool-but-obscure-unix-tools)
 * [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)
 * [pageres](https://github.com/sindresorhus/pageres)
@@ -1258,6 +1260,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
+
+### Books
+
+* [Online kampányok csúcsra járatva](https://www.onlinekatapult.hu/okcs/) `HU`
+* [UX DESIGN - Pásztor Dávid](https://uxstudioteam.com/ux-konyv/) `HU`
+* [Google AdWords - Gál Kristóf](http://www.klikkmarketing.hu/termekek/google-adwords-konyv)
 
 ### Phones
 
