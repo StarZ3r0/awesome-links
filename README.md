@@ -651,6 +651,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
 * [Khan Academy: Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 * [What's the difference between utf8_general_ci and utf8_unicode_ci](http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci)
+* [How (not) to kill your MySQL infrastructure](https://www.slideshare.net/MiklosSzel/how-not-to-kill-your-mysql-infrastructure)
 * [MySQL Index](https://logout.hu/bejegyzes/sonar/mysql_index.html) `HU`
 * [Triggerek használata MySQL-ben](https://rimelek.hu/triggerek-hasznalata-mysql-ben) `HU`
 * [Siki Zoltán: Adatbáziskezelés és tervezés](http://www.agt.bme.hu/szakm/adatb/adatb.htm) `HU`
