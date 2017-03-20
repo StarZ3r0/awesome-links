@@ -93,8 +93,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Frontend
 *HTML & CSS related things*
 
-### Guides, articles
+### Guides, articles, sites
 
+* [CSS-Tricks](https://css-tricks.com)
 * [HTML 5.1](https://www.w3.org/TR/html51/) - W3C Recommendation, 1 November 2016
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [MarkSheet](http://marksheet.io/)
