@@ -997,6 +997,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### DNS and domains
 
 * [intoDNS](https://intodns.com/)
+* [DNS Spy](https://dnsspy.io/)
 * [DNS Inspect](http://www.dnsinspect.com/)
 * [March 2016 DNS Speed Comparison Report](http://www.solvedns.com/dns-comparison/2016/03)
 * [ICANN-Accredited Registrars](https://www.icann.org/registrar-reports/accredited-list.html)
