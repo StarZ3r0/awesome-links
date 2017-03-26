@@ -35,6 +35,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Theory
 
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Why are zero-based arrays the norm?](http://programmers.stackexchange.com/questions/110804/why-are-zero-based-arrays-the-norm)
 * [How can I sort arrays and data in PHP?](http://stackoverflow.com/questions/17364127/how-can-i-sort-arrays-and-data-in-php)
 * [Algoritmusok és adatszerkezetek I](http://www.inf.u-szeged.hu/~cimreh/alg.htm) `HU`
@@ -74,6 +75,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [GitHub Importer](https://import.github.com/new)
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
+#### Clients
+
+* [Tower](https://www.git-tower.com/windows/)
 
 #### Workflow
 
@@ -1258,7 +1263,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Zencastr](https://zencastr.com/)
 * [Google Flights](https://www.google.com/flights/)
 
-
 ## Other
 *Other tools and articles*
 
@@ -1343,12 +1347,17 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [CodeHalf](https://codehalf.com/)
 * [Cost of living](http://www.numbeo.com/cost-of-living/)
 * [6,000 freelancers talk about money, happiness, and their hopes for the future](https://medium.freecodecamp.com/6-000-freelancers-talk-about-money-happiness-and-their-hopes-for-the-future-ec36cfc81bb9#.r6f57du7o)
+* [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
 * [musicForProgramming](http://musicforprogramming.net/)
 * [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ao4917u1g)
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/)
 * [SMarthu – Kreatív Közösképviselet](http://smarthu.org/)
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
+
+### Startups
+
+* [End Down](https://kalmarpeter.wordpress.com/2017/03/21/end-down/) `HU` - Yummber. Élt 20 hónapot. Rest in peace.
 
 ### Ergonomics
 
