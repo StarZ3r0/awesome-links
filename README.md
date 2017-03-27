@@ -121,6 +121,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Structured Data - Google Developers](https://developers.google.com/structured-data/?rd=1)
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 * [WTF, forms?](http://wtfforms.com/)
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
 * [A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.f59y2pypb)
 * [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege) `HU`
