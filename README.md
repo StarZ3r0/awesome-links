@@ -148,6 +148,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Professional Web Typography](https://prowebtype.com/)
 * [The State of Web Type](http://stateofwebtype.com/)
 * [Get the Balance Right: Responsive Display Text](https://24ways.org/2016/responsive-display-text/)
+* [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 
 ### Responsive web design
 
