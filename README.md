@@ -318,6 +318,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [File to Base64 Encoder](https://www.giftofspeed.com/base64-encoder/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
+#### Responsive web design
+
+* [BreakpointTester](http://breakpointtester.com/)
+* [ScreenQueries](http://beta.screenqueri.es/)
+* [Multi Screen Test](http://whatismyscreenresolution.net/multi-screen-test)
+
 #### Typography
 
 * [HTML Arrow Symbol](http://htmlarrows.com/arrows/)
