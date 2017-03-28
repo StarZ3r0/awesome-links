@@ -95,6 +95,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [smtp4dev](http://smtp4dev.codeplex.com/)
 
+### HTTP requests testing
+
+* [Postman](http://www.getpostman.com/)
+* [Hurl.it](https://www.hurl.it/)
+* [RequestBin](http://requestb.in/)
+
 ## Frontend
 *HTML & CSS related things*
 
