@@ -107,6 +107,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### HTTP requests testing
 
+* [Hookbin](https://hookbin.com/)
 * [Postman](http://www.getpostman.com/)
 * [Hurl.it](https://www.hurl.it/)
 * [RequestBin](http://requestb.in/)
@@ -285,6 +286,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Compressor.io](https://compressor.io/compress)
 * [Kraken Image Optimizer](https://kraken.io/)
+* [Jpeg.io](https://www.jpeg.io/)
 
 ### Tools
 
