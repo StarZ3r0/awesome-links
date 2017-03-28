@@ -26,6 +26,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### UTF-8
 
 * [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
+* [Unicode character table](https://unicode-table.com/en/)
 
 ### Fonts
 
@@ -47,6 +48,15 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Mobile apps development
 
 * [Cloud-alapú app tesztelés bevezetése](https://medium.com/mito/mobil-app-teszteles-test-cloud-calabash-xamarin-e18ffe020b6b#.oi9uygub6) `HU`
+
+### Regexp
+
+* [Regular Expressions](https://qntm.org/files/re/re.html) - Learn regular expressions in about 55 minutes
+* [RegExr](http://regexr.com/)
+* [regex101](https://regex101.com/)
+* [Regexper](https://regexper.com/)
+* [Debuggex](https://www.debuggex.com/)
+
 
 ### VMs and environments
 
@@ -313,6 +323,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HTML Arrow Symbol](http://htmlarrows.com/arrows/)
 * [Smart Quotes for Smart People](http://smartquotesforsmartpeople.com/)
 * [Type Nugget](http://beta.typenugget.com/) - CSS Typography & Typesetting Tool
+* [Entity Lookup](http://entity-lookup.leftlogic.com/)
+* [Character Codes](http://character-code.com/)
+* [Loripsum.net](http://loripsum.net/)
 
 #### Test
 
