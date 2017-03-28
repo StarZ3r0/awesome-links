@@ -100,6 +100,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Postman](http://www.getpostman.com/)
 * [Hurl.it](https://www.hurl.it/)
 * [RequestBin](http://requestb.in/)
+* [HTTP Status Code Checker](http://httpstatus.io/)
 
 ## Frontend
 *HTML & CSS related things*
@@ -1005,6 +1006,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### DNS and domains
 
 * [intoDNS](https://intodns.com/)
+* [DNS - zzzz](https://zzzz.io)
 * [DNS Spy](https://dnsspy.io/)
 * [DNS Inspect](http://www.dnsinspect.com/)
 * [March 2016 DNS Speed Comparison Report](http://www.solvedns.com/dns-comparison/2016/03)
