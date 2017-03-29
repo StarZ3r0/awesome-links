@@ -56,7 +56,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [regex101](https://regex101.com/)
 * [Regexper](https://regexper.com/)
 * [Debuggex](https://www.debuggex.com/)
-
+* [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
+* [Regex Crossword](https://regexcrossword.com/)
+* [Regex Golf](https://alf.nu/RegexGolf)
 
 ### VMs and environments
 
@@ -78,13 +80,23 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Git
 
+* [Getting Git Right](https://www.atlassian.com/git)
+* [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 * [Git Hot Tips](http://wesbos.com/git-hot-tips/)
 * [gitignore.io](https://www.gitignore.io/)
+* [Git Radar](https://github.com/michaeldfallen/git-radar)
+* [First Aid git](http://firstaidgit.io/#/)
+* [git leírás](https://pastebin.com/Vf4y508h) `HU`
 
 #### Github
 
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [GitHub Importer](https://import.github.com/new)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+* [GistBox](http://www.gistboxapp.com/) - The Beautiful Way to Organize Code Snippets
+* [Astral](https://astralapp.com/) - Organize Your Github Stars With Ease
 
 #### Clients
 
@@ -94,6 +106,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [GitFlow](https://github.com/nvie/gitflow)
 * [HubFlow](https://westurner.org/tools/#hubflow)
+* [a simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912)
+* [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) - visual
+* [Miért jobb a Git, mint X](http://www.starlingone.hu/whygitisbetter/) `HU`
 
 ### Hosting
 
