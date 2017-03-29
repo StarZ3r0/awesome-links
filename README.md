@@ -1263,6 +1263,28 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Omni Calculator](https://www.omnicalculator.com/)
 * [Time.is](http://time.is/)
 * [MailDrop](http://maildrop.cc/)
+* [Sodaphonic](https://sodaphonic.com/) - online audio editor
+
+### Management
+
+* [Taiga](https://taiga.io/)
+* [Teamweek](https://teamweek.com/)
+* [A web whiteboard](https://awwapp.com/)
+* [UFr.ee](http://ufr.ee/)
+* [AddEvent](https://www.addevent.com/) - an Add to Calendar button
+* [tlk.io](https://tlk.io/) - A simple web chat
+
+#### Meeting
+
+* [Cisco Spark](https://notes.ciscospark.com/) - meeting notes
+* [GoToMeeting](https://free.gotomeeting.com/)
+* [Screenhero](https://screenhero.com/)
+
+### Communicate
+
+* [Flarum](http://flarum.org/) - Forums made simple.
+* [Discourse](http://www.discourse.org/)
+* [Disqus](https://disqus.com/)
 
 ### Reports
 
@@ -1338,10 +1360,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
-
-### Services
-
-* [Sodaphonic](https://sodaphonic.com/) - online audio editor
 
 ### Books
 
