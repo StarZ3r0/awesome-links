@@ -18,6 +18,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## Dev
 *General web development sites, tools, articles and more*
 
+### Collections
+
+* [awesome](https://github.com/sindresorhus/awesome)
+* [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [DevDocs](http://devdocs.io/)
+
 ### Articles
 
 * [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
@@ -568,6 +574,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Laravel articles
 *Laravel tutorials, articles, snippets, examples*
 
+* [Laravel 5.1 LTS Cheat Sheet](http://www.linxiang.info/l5-cs/)
 * [Creating a password-less, Medium-style, email-only authentication system in Laravel](https://blog.tighten.co/creating-a-password-less-medium-style-email-only-authentication-system-in-laravel)
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
 * [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
