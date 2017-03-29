@@ -134,6 +134,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [RequestBin](http://requestb.in/)
 * [HTTP Status Code Checker](http://httpstatus.io/)
 
+### Tools
+
+* [CyberChef](https://gchq.github.io/CyberChef/)
+
 ## Frontend
 *HTML & CSS related things*
 
@@ -337,9 +341,14 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Real Favicon Generator](http://realfavicongenerator.net/)
 * [@font-face kit generator](http://fontface.codeandmore.com/)
 * [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+* [Blend](http://colinkeany.com/blend/)
+
+#### Base64
+
+* [BSE64 | Base64 Image Convertor](http://bse64.com/)
 * [Base64 Image Encoder](https://www.base64-image.de/)
 * [File to Base64 Encoder](https://www.giftofspeed.com/base64-encoder/)
-* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
 #### Responsive web design
 
@@ -947,6 +956,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Subform](https://subformapp.com/)
 * [Affinity Designer](https://affinity.serif.com/en-us/)
+* [Epic Pen](http://epic-pen.com)
 
 ## UX
 *Articles and tools related to user experience.*
@@ -1328,6 +1338,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
+
+### Services
+
+* [Sodaphonic](https://sodaphonic.com/) - online audio editor
 
 ### Books
 
