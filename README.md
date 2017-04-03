@@ -597,6 +597,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Laravel realted sites
 
+* [Laravel Announcements](https://medium.com/laravel-announcements)
 * [Laravel Gurus](https://laravelgurus.com/)
 * [LaraVer{x.y.z}](https://laraver.xyz/)
 * [murze.be](https://murze.be/tag/laravel/)
@@ -828,6 +829,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Feature.js](http://featurejs.com/) - feature detection library in 1kb
 * [Sprint.js](https://github.com/bendc/sprint) - a tiny, lightning fast jQuery-like library
 * [Paper.js](http://paperjs.org/) - vector graphics scripting framework
+* [jsTimezoneDetect](https://bitbucket.org/pellepim/jstimezonedetect)
 
 ### jQuery
 
@@ -1175,6 +1177,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Ubuntu Packages Search](http://packages.ubuntu.com/)
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
+* [crontab.guru](https://crontab.guru/)
 
 ### Spam
 
@@ -1256,6 +1259,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The Secrets of AdWords CTR in 5 Charts](http://www.wordstream.com/blog/ws/2017/01/24/adwords-ctr-secrets)
 * [A Google találati lista átalakulása](http://optimizer.hu/a-google-talalati-lista-atalakulasa) `HU`
 
+### Content management
+
+* [Readable](https://www.webpagefx.com/tools/read-able/)
+* [Adobe Spark](https://spark.adobe.com/)
+* [Canva](https://www.canva.com/)
+
 ## Services
 
 * [Gupshup](https://www.gupshup.io/developer/home)
@@ -1271,6 +1280,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Teamweek](https://teamweek.com/)
 * [A web whiteboard](https://awwapp.com/)
 * [UFr.ee](http://ufr.ee/)
+* [CoSchedule](https://coschedule.com/)
 * [AddEvent](https://www.addevent.com/) - an Add to Calendar button
 * [tlk.io](https://tlk.io/) - A simple web chat
 
