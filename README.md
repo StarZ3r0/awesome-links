@@ -1326,8 +1326,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Payments
 
+* [Stripe](https://stripe.com/)
 * [Braintree](https://www.braintreepayments.com/)
 * [Recurly](https://recurly.com/) - subscription management
+
+### Money
+
+* [TransferWise](https://transferwise.com/)
+* [CurrencyFair](https://www.currencyfair.com/)
 
 ### CDN
 
@@ -1370,12 +1376,25 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [mLab](https://mlab.com/)
 
-### Useful
+### Booking
+
+* [Booking.com](https://www.booking.com)
+* [Airbnb](https://www.airbnb.hu/)
+
+### Other useful
 
 * [Kitestring](https://www.kitestring.io/)
 * [Change.org](https://www.change.org/)
 * [Zencastr](https://zencastr.com/)
+* [Google Cloud Print](https://www.google.com/cloudprint/learn/index.html)
+* [Sticker Mule](https://www.stickermule.com/)
+* [Rentalcars.com](http://www.rentalcars.com/)
+* [Scribd](https://www.scribd.com/)
 * [Google Flights](https://www.google.com/flights/)
+* [Skyscanner](https://www.skyscanner.hu/) `HU`
+* [NetPincér](http://www.netpincer.hu/) `HU`
+* [zsibvásár](http://www.zsibvasar.hu/) `HU`
+* [BikeSage](https://bikesafe.hu/site/index) `HU` - Országos kerékpár regisztráció
 
 ## Other
 *Other tools and articles*
