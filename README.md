@@ -954,6 +954,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [HTML5 UP!](https://html5up.net/)
 
+### Tools
+
+* [Symu](https://symu.co/) - Present your design in a professional way.
+
 ### Software
 
 * [Subform](https://subformapp.com/)
@@ -1328,6 +1332,17 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### CDN
 
 * [KeyCDN](https://www.keycdn.com/)
+* [CDNify](https://cdnify.com/)
+
+### File uploading and migration
+
+* [Transloadit](https://transloadit.com/)
+* [Uploadcare](https://uploadcare.com/)
+* [Mover](https://mover.io/)
+
+### PO editor
+
+* [POEditor](https://poeditor.com/)
 
 ### 2FA
 
