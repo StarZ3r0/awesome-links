@@ -1213,6 +1213,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ## Marketing
 
 * [15 Incredible Facebook Ad Tools We Love](http://www.ppchero.com/15-incredible-facebook-ad-tools-we-love/)
+* [Facebook ad preferences](https://www.facebook.com/ads/preferences/edit)
 * [Gleam](https://gleam.io/) - Marketing apps designed to help you grow your business
 
 ### Stats
