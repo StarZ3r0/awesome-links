@@ -475,6 +475,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Grunt plugins](http://gruntjs.com/plugins)
 * [Essential Plugins for Grunt](http://ipestov.com/essential-plugins-for-grunt/)
 
+### WYSIWYG
+
+* [Redactor](https://imperavi.com/redactor/)
+* [Froala](https://www.froala.com/wysiwyg-editor)
+
 ### Resource
 *Frontend examples, snippets, comparsions*
 
@@ -1279,6 +1284,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Time.is](http://time.is/)
 * [MailDrop](http://maildrop.cc/)
 * [Sodaphonic](https://sodaphonic.com/) - online audio editor
+* [Infogram](https://infogr.am/) - infographics and charts
 
 ### Management
 
@@ -1309,16 +1315,33 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Email testing
 
 * [Mailtrap.io](https://mailtrap.io/)
+* [Litmus](http://litmus.com/)
 
-### Analytics
+### Prevent spam
 
-* [Hotjar](https://www.hotjar.com/)
+* [MailRoute](https://www.mailroute.net/)
+* [spam Zabáló](https://spamzabalo.hu/) `HU`
 
 ### Transactional email
 
 * [Elastic Email](http://elasticemail.com/)
 * [Pepipost](http://www.pepipost.com/)
 * [maildocker](http://maildocker.com/)
+* [Mailgun](https://www.mailgun.com/)
+* [SendGrid](http://sendgrid.com/)
+* [Postmark](https://postmarkapp.com/)
+* [Mailjet](https://www.mailjet.com/)
+* [SparkPost](https://www.sparkpost.com/)
+
+### SMS
+
+* [Nexmo](https://www.nexmo.com/)
+* [Twilio](https://www.twilio.com/)
+* [SeeMe](https://seeme.hu/) `HU`
+
+### Analytics
+
+* [Hotjar](https://www.hotjar.com/)
 
 ### Messaging
 
@@ -1357,7 +1380,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### PHP-related
 
 * [Blackfire](https://blackfire.io/) - Continuous PHP Performance Testing
-* [Uploadcare](https://uploadcare.com/)
+
+### Forms
+
+* [Typeform](https://www.typeform.com/)
 
 ### Performance
 
