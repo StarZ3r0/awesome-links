@@ -28,6 +28,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
 * [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/)
+* [Programmer 97-things](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book), [Part 2](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions), [Part 3](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_in_Progress)
 
 ### UTF-8
 
@@ -101,6 +102,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [GitHub Importer](https://import.github.com/new)
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+* [Github tips](https://blog.wyrihaximus.net/2016/08/github-tips/)
 * [GistBox](http://www.gistboxapp.com/) - The Beautiful Way to Organize Code Snippets
 * [Astral](https://astralapp.com/) - Organize Your Github Stars With Ease
 
@@ -124,6 +126,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Desktop softwares
 
+* [Insomnia REST Client](https://insomnia.rest/)
 * [smtp4dev](http://smtp4dev.codeplex.com/)
 
 ### HTTP requests testing
@@ -138,6 +141,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [CyberChef](https://gchq.github.io/CyberChef/)
 
+### Themes
+
+* [Dracula](https://draculatheme.com/) - A dark theme for x
+
 ## Frontend
 *HTML & CSS related things*
 
@@ -149,6 +156,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [MarkSheet](http://marksheet.io/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * [frontend.directory](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [CSS Reference](http://cssreference.io/)
 * [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 * [Excess XSS](http://excess-xss.com/) - A comprehensive tutorial on cross-site scripting
 * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
@@ -343,6 +351,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 * [Blend](http://colinkeany.com/blend/)
+* [ish. yet another viewport resizer](http://bradfrost.com/demo/ish/#m)
 
 #### Base64
 
@@ -1349,6 +1358,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Messaging
 
+* [Discord](https://discordapp.com/)
 * [MessageBird](https://www.messagebird.com/hu-hu/)
 
 ### Payments
@@ -1513,8 +1523,9 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
 * [musicForProgramming](http://musicforprogramming.net/)
 * [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ao4917u1g)
-* [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/)
-* [SMarthu – Kreatív Közösképviselet](http://smarthu.org/)
+* [Gainlo](http://www.gainlo.co/#!/) - Mock Interview With Professionals
+* [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/) `HU`
+* [SMarthu – Kreatív Közösképviselet](http://smarthu.org/) `HU`
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 
@@ -1522,8 +1533,9 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [End Down](https://kalmarpeter.wordpress.com/2017/03/21/end-down/) `HU` - Yummber. Élt 20 hónapot. Rest in peace.
 
-### Conferences
+### Conferences, events
 
+* [Hour of code](https://hourofcode.com/hu)
 * [bigmarketingday](http://bigmarketingday.hu/) `HU`
 
 ### Ergonomics
