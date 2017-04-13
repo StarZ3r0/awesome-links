@@ -517,6 +517,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ## PHP
 *PHP related guides, sites and articles* 
 
+* [PHP Manual](http://php.net/manual/en/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
