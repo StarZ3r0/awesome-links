@@ -750,6 +750,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Wikipedia dump](https://dumps.wikimedia.org/huwiki/)
 * [MySQL Example Databases](https://dev.mysql.com/doc/index-other.html)
 
+### Trash
+
+* [$PHP = 💩;](https://medium.com/fuzz/php-a0d0b1d365d8)
+
 ## JavaScript
 *JavaScript related guides, articles, tutorials*
 
@@ -1517,6 +1521,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Startups
 
 * [End Down](https://kalmarpeter.wordpress.com/2017/03/21/end-down/) `HU` - Yummber. Élt 20 hónapot. Rest in peace.
+
+### Conferences
+
+* [bigmarketingday](http://bigmarketingday.hu/) `HU`
 
 ### Ergonomics
 
