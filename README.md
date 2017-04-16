@@ -265,6 +265,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/) `HU`
 * [Magento frontend sebesség gyorsítás és mérése](https://aionhill.com/magento-teljesitmeny-oldal-gyorsitas) `HU`
 
+### Validation services
+
+* [W3C Markup Validation Service](https://validator.w3.org/)
+* [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
+
 ### Frameworks
 *Popular and less popular frontend frameworks*
 
