@@ -30,6 +30,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/)
 * [Programmer 97-things](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book), [Part 2](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions), [Part 3](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_in_Progress)
 
+### Documentations
+
+* [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+
 ### UTF-8
 
 * [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
@@ -145,6 +149,28 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Dracula](https://draculatheme.com/) - A dark theme for x
 
+### Music
+
+* [musicForProgramming](https://musicforprogramming.net/)
+* [Hipstersound](http://hipstersound.com/)
+* [Programming - Spotify](https://play.spotify.com/user/johanbrook/playlist/2mtlhuFVOFMn6Ho3JmrLc2)
+
+### Learning sites
+
+* [Free Code Camp](https://www.freecodecamp.com/)
+* [Codecademy](https://www.codecademy.com/)
+* [Code School](https://www.codeschool.com/)
+* [Codecourse](https://www.codecourse.com/)
+* [CodeBerry Programozó Iskola](https://codeberryschool.com/hu/) `HU`
+
+### Coding challenges
+
+* [CodeFights](https://codefights.com/)
+
+### Snippets
+
+* [GitHub Discover gists](https://gist.github.com/discover)
+
 ## Frontend
 *HTML & CSS related things*
 
@@ -243,6 +269,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Performance
 
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Optimize CSS delivery](http://www.feedthebot.com/pagespeed/optimize-css-delivery.html)
 * [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
 * [Prebrowsing](http://www.stevesouders.com/blog/2013/11/07/prebrowsing/)
@@ -372,6 +399,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 #### Typography
 
+* [Google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts/)
 * [HTML Arrow Symbol](http://htmlarrows.com/arrows/)
 * [Smart Quotes for Smart People](http://smartquotesforsmartpeople.com/)
 * [Type Nugget](http://beta.typenugget.com/) - CSS Typography & Typesetting Tool
@@ -910,6 +938,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 #### Form
 
+* [Parsley](http://parsleyjs.org/) - the ultimate JavaScript form validation library
 * [iCheck](http://icheck.fronteed.com/)
 * [noUiSlider](http://refreshless.com/nouislider/) - range slider
 * [rangeslider.js](http://rangeslider.js.org/)
@@ -927,6 +956,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Bootbox.js](http://bootboxjs.com/) - Bootstrap modals made easy.
 
 #### Slider
+
 * [bxSlider](https://github.com/stevenwanderski/bxslider-4)
 * [slick](https://github.com/kenwheeler/slick/)
 * [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
@@ -1534,6 +1564,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [SMarthu – Kreatív Közösképviselet](http://smarthu.org/) `HU`
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
+* [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
 
 ### Startups
 
