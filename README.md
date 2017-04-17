@@ -54,6 +54,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Security
 
+* [Keybase](https://keybase.io/)
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
 ### Mobile apps development
@@ -155,21 +156,37 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Hipstersound](http://hipstersound.com/)
 * [Programming - Spotify](https://play.spotify.com/user/johanbrook/playlist/2mtlhuFVOFMn6Ho3JmrLc2)
 
+### News
+
+* [Web Development Reading List](https://wdrl.info/archive)
+* [Entity Webmester Fórum](http://entity.hu/) `HU`
+
 ### Learning sites
 
 * [Free Code Camp](https://www.freecodecamp.com/)
 * [Codecademy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
 * [Codecourse](https://www.codecourse.com/)
+* [Refaktor Magazin](https://www.refaktor.hu/) `HU` - Fejlesztésről, üzemeltetésről, magyarul
 * [CodeBerry Programozó Iskola](https://codeberryschool.com/hu/) `HU`
 
 ### Coding challenges
 
 * [CodeFights](https://codefights.com/)
+* [HackerRank](https://www.hackerrank.com/HackerRank)
+* [Coderbyte | Programming Challenges](https://www.coderbyte.com/challenges/)
+* [Project Euler - Problems](https://projecteuler.net/archives)
+* [Commit](https://github.com/enkidevs/commit)
+* [Programming Puzzles & Code Golf Stack Exchange](https://codegolf.stackexchange.com/)
+* [the cryptopals crypto challenges](http://cryptopals.com/)
+* [XSS game: Level 1](https://xss-game.appspot.com/level1)
+* [LeetCode Online Judge](https://leetcode.com/)
+* [RankIT](http://rankit.hu/) `HU`
 
 ### Snippets
 
 * [GitHub Discover gists](https://gist.github.com/discover)
+* [JSFiddle](https://jsfiddle.net/)
 
 ## Frontend
 *HTML & CSS related things*
@@ -393,6 +410,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 #### Responsive web design
 
+* [Blisk](https://blisk.io/) - a browser for web developers
 * [BreakpointTester](http://breakpointtester.com/)
 * [ScreenQueries](http://beta.screenqueri.es/)
 * [Multi Screen Test](http://whatismyscreenresolution.net/multi-screen-test)
@@ -579,10 +597,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * `HU` [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
 * `HU` [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
 
-### Learning sites
+### Learning
 
 * [Laracasts](https://laracasts.com/)
-* [Codecourse](https://www.codecourse.com)
+* [PHP School](http://www.phpschool.io/)
 
 ### Composer
 
@@ -591,21 +609,23 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### News
 
-* [Web Development Reading List](https://wdrl.info/archive)
-* [Letscode.hu](https://www.letscode.hu/category/php)
-* [Refaktor Magazin](https://www.refaktor.hu/)
-* [fps blog | php](http://blog.fps.hu/tagged/php)
-* [Entity Webmester Fórum](http://entity.hu/)
 * [Vegibit | php](http://vegibit.com/tag/php/)
+* [Letscode.hu](https://www.letscode.hu/category/php) `HU`
+* [fps blog | php](http://blog.fps.hu/tagged/php) `HU`
 
 ### Collections
 
 * [PHP heads](https://blog.fortrabbit.com/php-heads)
 * [PHP resources](https://docs.google.com/spreadsheets/d/1hl1vemsuFsnKNaJHJbKlovi0MnU8Pj6O4RIg4DOFcRs/edit#gid=0)
+* [PHP Package Checklist](http://phppackagechecklist.com/)
 
 ### Ecommerce
 
 * [Sylius](http://sylius.org/)
+
+### Facebook
+
+* [Debugger - Facebook for Developers](https://developers.facebook.com/tools/debug/)
 
 ### Frameworks
 *Popular PHP frameworks*
@@ -677,10 +697,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Localization
 
 * [Best practice multi language website](http://stackoverflow.com/questions/19249159/best-practice-multi-language-website)
-
-### Learning
-
-* [PHP School](http://www.phpschool.io/)
 
 ### WordPress
 
