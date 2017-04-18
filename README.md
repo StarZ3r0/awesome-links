@@ -1429,10 +1429,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [KeyCDN](https://www.keycdn.com/)
 * [CDNify](https://cdnify.com/)
 
-### File uploading and migration
+### File / image uploading, transformation and migration
 
 * [Transloadit](https://transloadit.com/)
 * [Uploadcare](https://uploadcare.com/)
+* [Filestack](https://www.filestack.com/)
+* [Cloudinary](http://cloudinary.com/)
 * [Mover](https://mover.io/)
 
 ### PO editor
