@@ -72,6 +72,17 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Regex Crossword](https://regexcrossword.com/)
 * [Regex Golf](https://alf.nu/RegexGolf)
 
+### Progrmaming fonts
+
+* [Free Programming Fonts](https://github.com/sixrevisions/free-programming-fonts)
+* [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Input: Fonts for Code](http://input.fontbureau.com/)
+* [Hack](http://sourcefoundry.org/hack/)
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+* [Monoid](https://github.com/larsenwork/monoid)
+* [Hasklig](https://github.com/i-tu/Hasklig) - a code font with monospaced ligatures
+
 ### VMs and environments
 
 * [Drupal VM](https://www.drupalvm.com/)
@@ -145,10 +156,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Tools
 
 * [CyberChef](https://gchq.github.io/CyberChef/)
+* [ShortcutFoo](https://www.shortcutfoo.com/) - Learn Shortcuts. Work Smarter.
+
+### Typing
+
+* [Ratatype](http://www.ratatype.com/)
+* [typing.io](https://typing.io/) - Typing Practice for Programmers
+* [Typing Master](http://www.typingmaster.com/)
 
 ### Themes
 
 * [Dracula](https://draculatheme.com/) - A dark theme for x
+* [Predawn](https://github.com/jamiewilson/predawn) - A dark interface and syntax theme for Sublime Text and Atom.
 
 ### Music
 
@@ -1598,8 +1617,9 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Hour of code](https://hourofcode.com/hu)
 * [bigmarketingday](http://bigmarketingday.hu/) `HU`
 
-### Ergonomics
+### Ergonomics and health
 
+* [The Scientific 7-Minute Workout](https://www.nytimes.com/interactive/projects/well/workouts/)
 * [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0) `HU`
 
 ### Fun
