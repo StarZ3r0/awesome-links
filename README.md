@@ -40,11 +40,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
 * [Unicode character table](https://unicode-table.com/en/)
 
-### Fonts
-
-* [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
-* [Top 5 Programming Fonts](https://laravel-news.com/2016/10/top-5-programming-fonts)
-
 ### Theory
 
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
@@ -75,6 +70,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Progrmaming fonts
 
+* [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
+* [Top 5 Programming Fonts](https://laravel-news.com/2016/10/top-5-programming-fonts)
 * [Free Programming Fonts](https://github.com/sixrevisions/free-programming-fonts)
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Input: Fonts for Code](http://input.fontbureau.com/)
