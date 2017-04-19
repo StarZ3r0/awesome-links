@@ -29,6 +29,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
 * [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/)
 * [Programmer 97-things](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book), [Part 2](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions), [Part 3](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_in_Progress)
+* [A szoftverfejlesztés gyakran elfeledett alapigazságai ](http://infokukac.com/2010/01/a-szoftverfejlesztes-gyakran-elfeledett-alapigazsagai-forditas/) `HU`
 
 ### Documentations
 
