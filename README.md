@@ -490,7 +490,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 #### Tools
 
 * [Premailer](http://premailer.dialect.ca/)
+* [Litmus](https://litmus.com/) - Email Testing and Email Marketing Analytic
 * [Litmus PutsMail](https://putsmail.com/tests/new)
+* [Email on Acid](https://www.emailonacid.com/) - Email Testing & Rendering Tools
 * [Spam Score Test - PostMark](http://spamcheck.postmarkapp.com/)
 * [Grunt email design](https://github.com/leemunroe/grunt-email-workflow)
 
@@ -520,6 +522,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [SimpleFill](http://plugins.compzets.com/simplefill/)
 * [Responsive Web Design Testing Tool](http://www.dimensionstoolkit.com/)
 * [Dimensions](https://github.com/mrflix/dimensions)
+* [CSSPeeper](https://csspeeper.com/) - Smart CSS viewer
 
 #### Stats
 
@@ -1386,6 +1389,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Prevent spam
 
 * [MailRoute](https://www.mailroute.net/)
+* [ReturnPath](https://returnpath.com/)
 * [spam Zabáló](https://spamzabalo.hu/) `HU`
 
 ### Transactional email
