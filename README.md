@@ -466,20 +466,21 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### HTML email
 
 * [Things I've Learned About Sending Email, For Web Designers And Developers](http://www.leemunroe.com/sending-email-designers-developers/)
+* [Email Design Reference - MailChimp](http://templates.mailchimp.com/)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
 * [iOS Resolution Reference](http://iosres.com/)
 * [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
-* [Our Favorite Responsive and Mobile Email Resources](https://litmus.com/blog/our-favorite-responsive-and-mobile-email-resources)
-* [Email Design Reference - MailChimp](http://templates.mailchimp.com/)
 * [Emailology](http://www.emailology.org/)
+* [EOA Email Development](https://www.emailonacid.com/blog/email-development)
 * [Bulletproof email buttons](https://buttons.cm/)
 * [Improve your transactional emails with Gmail Inbox Actions](https://postmarkapp.com/guides/improve-your-transactional-emails-with-gmail-inbox-actions)
-* [Making Responsive HTML Email Coding Easy With MJML](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
 * [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm) `HU`
 
 #### Responsive email
 
-* [Responsive HTML email: 9-step in-depth walkthrough from scratch](http://rmion.com/responsive-html-email/)
+* [MJML](https://mjml.io/)
+* [Making Responsive HTML Email Coding Easy With MJML](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
+* [Our Favorite Responsive and Mobile Email Resources](https://litmus.com/blog/our-favorite-responsive-and-mobile-email-resources)
 * [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 * [Cerberus](http://tedgoas.github.io/Cerberus/) - Patterns for Responsive HTML Email Templates
 * [Responsive email design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)
