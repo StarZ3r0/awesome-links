@@ -52,6 +52,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Keybase](https://keybase.io/)
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Learn to Hack](https://www.hacksplaining.com/)
 
 ### Mobile apps development
 
@@ -871,6 +872,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Angular Basics by ScriptyBooks](http://www.angularjsbook.com/angular-basics/chapters/introduction/)
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070#.gg9c7cnm1)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ry9a9rq61)
+* [JavaScript Patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q) `YouTube`
 * [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz) `HU`
 * [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz) `HU`
 * [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek) `HU`
