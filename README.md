@@ -185,6 +185,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Codecademy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
 * [Codecourse](https://www.codecourse.com/)
+* [SoloLearn](https://www.sololearn.com/)
 * [Refaktor Magazin](https://www.refaktor.hu/) `HU` - Fejlesztésről, üzemeltetésről, magyarul
 * [CodeBerry Programozó Iskola](https://codeberryschool.com/hu/) `HU`
 
@@ -903,6 +904,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Vanilla List](http://www.vanillalist.com/) - The Vanilla Javascript Repository
 * [plainJS](https://plainjs.com/)
 * [Unheap](http://www.unheap.com/)
+* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [You might not need jQuery](http://youmightnotneedjqueryplugins.com/)
 * [JavascriptOO](http://www.javascriptoo.com/)
 * [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
