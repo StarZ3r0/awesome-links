@@ -236,6 +236,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [WTF, forms?](http://wtfforms.com/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
+* [Auto Complete Attribute Will Improve Your Profit (And Forms)](https://greenido.wordpress.com/2015/05/06/auto-complete-attribute-will-improve-your-profit/)
 * [A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.f59y2pypb)
 * [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege) `HU`
 * [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra) `HU`
