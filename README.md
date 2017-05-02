@@ -276,6 +276,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Mobile
 
+* [Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 * [Google Search Console - Mobilbarát jelleget vizsgáló teszt](https://search.google.com/search-console/mobile-friendly)
 * [The W3C Mobile Checker](https://validator.w3.org/mobile-alpha/)
 * [mydevice.io](http://mydevice.io/devices/) - common smartphones and tablets devices values
