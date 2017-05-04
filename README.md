@@ -1620,6 +1620,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
 
+### Salaries
+
+* [Ennyit keresnek a menő informatikusok Magyarországon](https://forbes.hu/uzlet/magyar-informatika-fizetes/) `HU`
+
 ### Startups
 
 * [End Down](https://kalmarpeter.wordpress.com/2017/03/21/end-down/) `HU` - Yummber. Élt 20 hónapot. Rest in peace.
