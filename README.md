@@ -1380,6 +1380,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Sodaphonic](https://sodaphonic.com/) - online audio editor
 * [Infogram](https://infogr.am/) - infographics and charts
 
+### Collection
+
+* [Manifold](https://www.manifold.co/) - a place to find, buy, and manage cloud services.
+
 ### Management
 
 * [Taiga](https://taiga.io/)
