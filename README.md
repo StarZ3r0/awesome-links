@@ -991,6 +991,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
 * [DataTables](https://www.datatables.net/)
 * [Countable](https://sacha.me/Countable/)
+* [Inputmask](https://github.com/RobinHerbots/Inputmask)
 
 ### Bootstrap
 
@@ -1620,6 +1621,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
+
+### Useful
+
+* [KAYAK Explore](https://www.kayak.co.uk/explore/BUD/20170430,20170507)
+* [Google Flights](https://www.google.com/flights/)
 
 ### Salaries
 
