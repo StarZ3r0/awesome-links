@@ -539,8 +539,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Chrome Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
 * [DevTools Snippets](https://github.com/bgrins/devtools-snippets)
 * [Awesome ChromeDevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 
-#### Chrome plugins
+#### Chrome dev plugins
 
 * [SimpleFill](http://plugins.compzets.com/simplefill/)
 * [Responsive Web Design Testing Tool](http://www.dimensionstoolkit.com/)
@@ -1550,9 +1551,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Will My Phone Work?](http://willmyphonework.net/)
 * [StockDroids](https://www.stockdroids.com/)
 
-### Google Chrome
+### Google Chrome extensions
 
-* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
+* [Honey](https://www.joinhoney.com/)
+* [What are must-have Chrome Extensions?](https://www.producthunt.com/ask/814-what-are-must-have-chrome-extensions)
 
 ### English
 
