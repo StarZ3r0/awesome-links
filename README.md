@@ -179,8 +179,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Web Development Reading List](https://wdrl.info/archive)
 * [Entity Webmester Fórum](http://entity.hu/) `HU`
 
-### Learning sites
+### Learning method / sites
 
+* [We asked 20,000 people who they are and how they’re learning to code](https://medium.freecodecamp.com/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969)
 * [Free Code Camp](https://www.freecodecamp.com/)
 * [Codecademy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
