@@ -33,6 +33,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [A szoftverfejlesztés gyakran elfeledett alapigazságai ](http://infokukac.com/2010/01/a-szoftverfejlesztes-gyakran-elfeledett-alapigazsagai-forditas/) `HU`
 
+### News, sites, blogs
+
+* [the new code](http://thenewcode.com/)
+
 ### Documentations
 
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
