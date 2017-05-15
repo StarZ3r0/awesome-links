@@ -75,7 +75,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Regex Crossword](https://regexcrossword.com/)
 * [Regex Golf](https://alf.nu/RegexGolf)
 
-### Progrmaming fonts
+### Programming fonts
 
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 * [Top 5 Programming Fonts](https://laravel-news.com/2016/10/top-5-programming-fonts)
