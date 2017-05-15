@@ -44,7 +44,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Unicode character table](https://unicode-table.com/en/)
 * [Unicode, UTF-8](http://www.cs.bme.hu/~egmont/utf8/) `HU`
 * [Ékezetes FAQ webművészek számára](http://web.axelero.hu/lzsiga/ekezet.html) `HU`
-* [Rémtörténet a karakterkódolásokról](https://infoc.eet.bme.hu/karakterkodolas/)
+* [Rémtörténet a karakterkódolásokról](https://infoc.eet.bme.hu/karakterkodolas/) `HU`
 
 ### Theory
 
