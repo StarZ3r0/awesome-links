@@ -29,6 +29,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
 * [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/)
 * [Programmer 97-things](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book), [Part 2](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions), [Part 3](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_in_Progress)
+* [What technical details should a programmer of a web application consider before making the site public?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+* [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [A szoftverfejlesztés gyakran elfeledett alapigazságai ](http://infokukac.com/2010/01/a-szoftverfejlesztes-gyakran-elfeledett-alapigazsagai-forditas/) `HU`
 
 ### Documentations
@@ -37,8 +39,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### UTF-8
 
+* [UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8)
 * [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
 * [Unicode character table](https://unicode-table.com/en/)
+* [Unicode, UTF-8](http://www.cs.bme.hu/~egmont/utf8/) `HU`
+* [Ékezetes FAQ webművészek számára](http://web.axelero.hu/lzsiga/ekezet.html) `HU`
+* [Rémtörténet a karakterkódolásokról](https://infoc.eet.bme.hu/karakterkodolas/)
 
 ### Theory
 
@@ -182,6 +188,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Learning method / sites
 
 * [We asked 20,000 people who they are and how they’re learning to code](https://medium.freecodecamp.com/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969)
+* [Algorithms | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [Free Code Camp](https://www.freecodecamp.com/)
 * [Codecademy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
@@ -189,6 +196,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [SoloLearn](https://www.sololearn.com/)
 * [Refaktor Magazin](https://www.refaktor.hu/) `HU` - Fejlesztésről, üzemeltetésről, magyarul
 * [CodeBerry Programozó Iskola](https://codeberryschool.com/hu/) `HU`
+* [VIK Wiki](https://wiki.sch.bme.hu/Kezd%C5%91lap)
 
 ### Coding challenges
 
