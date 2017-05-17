@@ -62,6 +62,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Keybase](https://keybase.io/)
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 * [Learn to Hack](https://www.hacksplaining.com/)
 
 ### Mobile apps development
@@ -1152,6 +1153,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Security
 
+* [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 * [What permissions should my website files/folders have on a Linux webserver?](http://serverfault.com/questions/357108/what-permissions-should-my-website-files-folders-have-on-a-linux-webserver)
 * [Are You Prepared Against A Hack?](https://www.smashingmagazine.com/2014/05/are-you-prepared-against-a-hack/)
 * [Beyond Permissions: Linux ACLs](https://serversforhackers.com/beyond-permissions-linux-acls)
