@@ -220,6 +220,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [GitHub Discover gists](https://gist.github.com/discover)
 * [JSFiddle](https://jsfiddle.net/)
+* [scrimba](https://scrimba.com) - 
 
 ## Frontend
 *HTML & CSS related things*
@@ -251,6 +252,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
 * [Auto Complete Attribute Will Improve Your Profit (And Forms)](https://greenido.wordpress.com/2015/05/06/auto-complete-attribute-will-improve-your-profit/)
+* [Spring Into CSS Grid](http://jonibologna.com/spring-into-css-grid/)
 * [A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.f59y2pypb)
 * [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege) `HU`
 * [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra) `HU`
@@ -359,6 +361,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Foundation](http://foundation.zurb.com/) - second most popular
 * [Skeleton](http://getskeleton.com/) - dead simple, ~400 lines
 * [Pure.css](http://purecss.io/) - tiny framework (4.0KB) by Yahoo
+* [mini.css](http://minicss.org/)
 * [Layers CSS](http://eiskis.net/layers/)
 * [Semantic UI](https://github.com/semantic-org/semantic-ui/)
 * [Basscss](https://github.com/basscss/basscss/)
@@ -842,8 +845,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Triggerek használata MySQL-ben](https://rimelek.hu/triggerek-hasznalata-mysql-ben) `HU`
 * [Siki Zoltán: Adatbáziskezelés és tervezés](http://www.agt.bme.hu/szakm/adatb/adatb.htm) `HU`
 
+### Engines
+
+* [CockroachDB](https://www.cockroachlabs.com/)
+
 ### Tools
 
+* [HeidiSQL](https://www.heidisql.com/)
+* [SQL Notebook](https://sqlnotebook.com/)
 * [Robomongo](http://robomongo.org/)
 * [Neor Profile SQL](http://www.profilesql.com/)
 * [dbv.php](https://dbv.vizuina.com/)
@@ -1059,6 +1068,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [$0 Design Tools to Help You Create Your Next Project](https://medium.com/product-hunt/0-design-tools-for-your-startup-d4240fbb726f)
 * [Mobile Design Best Practices](https://uxplanet.org/mobile-design-best-practices-2d16d37ecfe#.wyehdqojr)
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
 * [The New Generation of Prototyping Tools (Part 2/2)](https://medium.com/@kunalslab/the-new-generation-of-prototyping-tools-part-2-2-a799ff2188fa#.8dqyycvxv)
 * [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/)
 * [Hogyan segítsd a fejlesztőt 2.](https://blog.fps.hu/hogyan-segitsd-a-fejlesztot-2/) `HU`
@@ -1634,6 +1644,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ao4917u1g)
 * [Gainlo](http://www.gainlo.co/#!/) - Mock Interview With Professionals
 * [Desk Hunt](http://deskhunt.com/interviews)
+* [Ask HN: What do you do when you've lost motivation at work?](https://news.ycombinator.com/item?id=14256746)
+* [Ask HN: What's your working day like?](https://news.ycombinator.com/item?id=14290518)
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/) `HU`
 * [SMarthu – Kreatív Közösképviselet](http://smarthu.org/) `HU`
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
