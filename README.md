@@ -688,10 +688,16 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 #### Laravel components
 *Components for Laravel*
 
+* [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+* [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
+* [Guzzle](https://github.com/guzzle/guzzle)
+* [Laravel Socialite](https://github.com/laravel/socialite)
 * [Laravel Collective](https://laravelcollective.com/)
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable)
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 * [Laravel 5 log viewer](https://github.com/rap2hpoutre/laravel-log-viewer)
+* [Laravel backup](https://github.com/spatie/laravel-backup)
+* [Laravel Fractal](https://github.com/spatie/laravel-fractal)
 * [Spatie's Laravel packages](https://spatie.be/en/opensource/laravel)
 
 ### Laravel articles
