@@ -262,6 +262,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 * [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
 * [CSS3 = Awesome](http://css3.bradshawenterprises.com/)
+* [Animista](http://animista.net/play/basic)
 
 ### Flexbox
 
@@ -269,6 +270,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Even more about how Flexbox works](https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.a17nflkqq) - explained in big, colorful, animated gifs
 * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
+* [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 * [Youtube] [What The Flexbox?!](http://flexbox.io/)
 
 ### Typography
@@ -636,6 +638,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Hashphp.org](http://wiki.hashphp.org/Main_Page)
 * [MySQL, PHP and Timezones](https://www.mettle.io/blog/post/mysql-php-timezone/)
+* [What is the difference between URL Router and Dispatcher?](https://stackoverflow.com/questions/11700603/what-is-the-difference-between-url-router-and-dispatcher)
 * [Reference - What does this symbol mean in PHP?](http://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php)
 * [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php) `HU`
 * [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig) `HU`
@@ -850,6 +853,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [How (not) to kill your MySQL infrastructure](https://www.slideshare.net/MiklosSzel/how-not-to-kill-your-mysql-infrastructure)
 * [MySQL Index](https://logout.hu/bejegyzes/sonar/mysql_index.html) `HU`
 * [Triggerek használata MySQL-ben](https://rimelek.hu/triggerek-hasznalata-mysql-ben) `HU`
+* [Folyamatos működés a MySQL világában](https://blog.fps.hu/folyamatos-mukodes-a-mysql-mariadb-vilagaban/) `HU`
 * [Siki Zoltán: Adatbáziskezelés és tervezés](http://www.agt.bme.hu/szakm/adatb/adatb.htm) `HU`
 
 ### Engines
@@ -1080,9 +1084,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/)
 * [Hogyan segítsd a fejlesztőt 2.](https://blog.fps.hu/hogyan-segitsd-a-fejlesztot-2/) `HU`
 
-### Typography
+### Typography and fonts
 
 * [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
+* [On snot and fonts / Luc Devroye](http://luc.devroye.org/fonts.html)
 
 ### Templates
 
@@ -1655,6 +1660,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Desk Hunt](http://deskhunt.com/interviews)
 * [Ask HN: What do you do when you've lost motivation at work?](https://news.ycombinator.com/item?id=14256746)
 * [Ask HN: What's your working day like?](https://news.ycombinator.com/item?id=14290518)
+* [Ask HN: What do you use to align your daily todos with your long term goals?](https://news.ycombinator.com/item?id=13855577)
+* [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/) `HU`
 * [SMarthu – Kreatív Közösképviselet](http://smarthu.org/) `HU`
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
