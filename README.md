@@ -1423,6 +1423,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Management
 
+* [Trello](https://trello.com/) (addons: [Butler for Trello](https://butlerfortrello.com))
 * [Taiga](https://taiga.io/)
 * [Teamweek](https://teamweek.com/)
 * [A web whiteboard](https://awwapp.com/)
