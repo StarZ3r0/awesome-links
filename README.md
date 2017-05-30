@@ -379,6 +379,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)
 * [Tenon.io](https://tenon.io/index.php)
 * [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
+* [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/)
 * [Technikák a WCAG 2.0-hoz](http://www.w3c.hu/forditasok/WCAG20-TECHS/Overview.html#contents) `HU`
 
 ### Resets
