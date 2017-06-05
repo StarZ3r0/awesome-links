@@ -502,7 +502,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Bootstrap
 
-* [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
+* [Material Design for Bootstrap](https://mdbootstrap.com/)
+* [Material Design for Bootstrap 3](https://github.com/FezVrasta/bootstrap-material-design)
 * [Bootflat](https://github.com/bootflat/bootflat.github.io/)
 * [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 
@@ -881,6 +882,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 *JavaScript related guides, articles, tutorials*
 
 * [JS: The Right Way](http://jstherightway.org/)
+* [The Modern Javascript Tutorial](http://javascript.info/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 * [Speaking JavaScript](http://speakingjs.com/)
