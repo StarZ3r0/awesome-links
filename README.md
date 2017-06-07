@@ -922,6 +922,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek) `HU`
 * [Objektumorientált programozás JavaScriptben](http://weblabor.hu/cikkek/objektumorientalt-programozas-javascriptben) `HU`
 * [Objektumorientált JavaScript programozás a felszín alatt](http://weblabor.hu/cikkek/oojsafelszinalatt) `HU`
+* [A JavaScript, a click esemény, és a buborékozás](https://kszk.sch.bme.hu/2012/03/20/a-javascript-a-click-esemeny-es-a-buborekozas/) `HU`
+* [Néhány JavaScript best practice egy egyszerű időzítőn keresztül](https://kszk.sch.bme.hu/2012/04/04/nehany-javascript-best-practice-egy-egyszeru-idoziton-keresztul/) `HU`
 
 ### Tutorials
 
