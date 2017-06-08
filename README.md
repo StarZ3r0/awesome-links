@@ -80,6 +80,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Regex Crossword](https://regexcrossword.com/)
 * [Regex Golf](https://alf.nu/RegexGolf)
 
+### Translation
+
+* [Microsoft Language Portal - Terminology Search](https://www.microsoft.com/Language/en-US/Search.aspx)
+* [Hunglish korpusz](http://szotar.mokk.bme.hu/hunglish/search/corpus)
+
 ### Programming fonts
 
 * [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
@@ -101,7 +106,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 #### Laravel
 
-* [Homestead](https://github.com/laravel/homestead)
+* [Homestead](https://github.com/laravel/homestead) ([seeping up](https://websanova.com/blog/laravel/speeding-up-homestead-on-windows-using-nfs))
 * [Scotch Box](https://box.scotch.io/)
 * [Laragon](https://forum.laragon.org/)
 
@@ -407,8 +412,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Hint.css](https://github.com/chinchang/hint.css)
 * [Balloon.css](https://kazzkiq.github.io/balloon.css/)
 
-### Image optimizer
+### Image optimization / optimizer
 
+* [WebP](https://developers.google.com/speed/webp/)
+* [HEIF](http://nokiatech.github.io/heif/comparison.html) ([convert](http://jpgtoheif.com/))
 * [Compressor.io](https://compressor.io/compress)
 * [Kraken Image Optimizer](https://kraken.io/)
 * [Jpeg.io](https://www.jpeg.io/)
@@ -1703,3 +1710,4 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [weblog.sh](https://weblog.sh/)
 * [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 * [Faces of Power](http://www.facesofpower.net/)
+* [Interland](https://beinternetawesome.withgoogle.com/interland)
