@@ -718,6 +718,15 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Laravel 5.1 LTS Cheat Sheet](http://www.linxiang.info/l5-cs/)
 * [Laravel Best Practices](http://www.laravelbestpractices.com/)
+* [New Features in Laravel 5.0](https://mattstauffer.co/blog/series/new-features-in-laravel-5.0)
+* [New Features in Laravel 5.1](https://mattstauffer.co/blog/series/new-features-in-laravel-5.1)
+* [murze.be articles](https://murze.be/tag/laravel/)
+* [CLI progress bars in Laravel](https://jenssegers.com/70/cli-progress-bars-in-laravel)
+* [Laravel 5 package development](https://stackoverflow.com/questions/28378460/laravel-5-package-development)
+* [Laravel – querying any level far relations with simple trick](http://softonsofa.com/laravel-querying-any-level-far-relations-with-simple-trick/)
+* [Laravel pagination with grouping and eager loading](https://jenssegers.com/57/laravel-pagination-with-grouping-and-eager-loading)
+* [Start testing your Laravel application today](http://christoph-rumpel.com/2015/07/start-testing-your-laravel-application-today/)
+* [Laravel 5.1 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty)
 * [Creating a password-less, Medium-style, email-only authentication system in Laravel](https://blog.tighten.co/creating-a-password-less-medium-style-email-only-authentication-system-in-laravel)
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
 * [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
@@ -730,6 +739,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017)
 * [Laravel 5 Autoloader](http://alanstorm.com/laravel_5_autoloader/)
 * [Learning Laravel 5 Building Practical Applications](https://learninglaravel.net/laravelbook) - book
+* [Controller és middleware a két jóbarát](https://www.letscode.hu/2015/08/25/controller-es-middleware-a-ket-jobarat) `HU`
 
 ### Laravel realted sites
 
