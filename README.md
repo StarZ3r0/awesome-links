@@ -762,6 +762,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Larachat](https://larachat.slack.com) - Slack channel
 * [Laravel Hungary Slack](https://laravelhungary.slack.com) `HU`
 * [Laravel Schema Designer](http://laravelsd.com/browse)
+* [Codecourse - Laravel](https://www.codecourse.com/lessons?subject=laravel) `PAY`
 
 ### Eloquent
 
