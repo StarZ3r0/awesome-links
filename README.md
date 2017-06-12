@@ -711,11 +711,13 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel backup](https://github.com/spatie/laravel-backup)
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal)
 * [Spatie's Laravel packages](https://spatie.be/en/opensource/laravel)
+* [Laracogs](https://github.com/yabhq/laracogs)
 
 ### Laravel articles
-*Laravel tutorials, articles, snippets, examples*
+*Laravel tutorials, articles, snippets, books and examples*
 
 * [Laravel 5.1 LTS Cheat Sheet](http://www.linxiang.info/l5-cs/)
+* [Laravel Best Practices](http://www.laravelbestpractices.com/)
 * [Creating a password-less, Medium-style, email-only authentication system in Laravel](https://blog.tighten.co/creating-a-password-less-medium-style-email-only-authentication-system-in-laravel)
 * [Laravel 5 socialite with Facebook integration](http://www.devproblems.com/laravel-5-socialite-with-facebook-integration/)
 * [Register Form Macros Easily in Laravel 5](http://mydnic.be/post/register-form-macros-easily-in-laravel-5)
@@ -726,14 +728,30 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The Ultimate Guide to Sending Email in Laravel](https://scotch.io/tutorials/ultimate-guide-on-sending-email-in-laravel)
 * [Why Laravel Is Slow](http://hocza.com/2016-11-04/why-laravel-is-slow/)
 * [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017)
+* [Laravel 5 Autoloader](http://alanstorm.com/laravel_5_autoloader/)
+* [Learning Laravel 5 Building Practical Applications](https://learninglaravel.net/laravelbook) - book
 
 ### Laravel realted sites
 
+* [Laracasts](https://laracasts.com/)
+* [Laracon.eu playlists](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A/playlists) `YouTube`
+* [Diving Laravel](https://divinglaravel.com/)
+* [Laravel News](https://laravel-news.com/)
+* [Laravel-Tricks](http://laravel-tricks.com/)
 * [Laravel Announcements](https://medium.com/laravel-announcements)
+* [Laravel.io Forum](https://laravel.io/forum)
+* [Laravel.hu](https://laravel.hu/)
+* [Laracademy](https://laracademy.co/)
+* [Laravel Daily Blog](http://laraveldaily.com/blog/)
 * [Laravel Gurus](https://laravelgurus.com/)
 * [LaraVer{x.y.z}](https://laraver.xyz/)
 * [murze.be](https://murze.be/tag/laravel/)
 * [Laracon Online](https://laracon.net/)
+* [Laravel Hungary Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/) `HU`
+* [Laravel 5.3 magyar dokumentáció](https://github.com/laravelhungary/docs/tree/5.3/hu) `HU`
+* [Larachat](https://larachat.slack.com) - Slack channel
+* [Laravel Hungary Slack](https://laravelhungary.slack.com) `HU`
+* [Laravel Schema Designer](http://laravelsd.com/browse)
 
 ### Eloquent
 
