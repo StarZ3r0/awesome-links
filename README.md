@@ -835,6 +835,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Security
 
 * [Detectify](https://detectify.com/)
+* [Making PHP sessions secure](http://forums.devshed.com/php-faqs-stickies/953373-php-sessions-secure-post2921620.html)
+* [The Comprehensive Guide to URL Parameter Encryption in PHP](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php)
 * [Survive The Deep End: PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html)
 * [Authentication Cheat Sheet - OWASP](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 * [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
