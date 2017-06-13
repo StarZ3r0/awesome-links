@@ -739,6 +739,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017)
 * [Laravel 5 Autoloader](http://alanstorm.com/laravel_5_autoloader/)
 * [Learning Laravel 5 Building Practical Applications](https://learninglaravel.net/laravelbook) - book
+* [Enhancing Envoy Deployment](https://serversforhackers.com/video/enhancing-envoy-deployment)
+* [Laravel Development using PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Laravel+Development+using+PhpStorm)
 * [Controller és middleware a két jóbarát](https://www.letscode.hu/2015/08/25/controller-es-middleware-a-ket-jobarat) `HU`
 
 ### Laravel realted sites
