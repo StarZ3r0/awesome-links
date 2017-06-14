@@ -517,6 +517,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### HTML email
 
 * [Things I've Learned About Sending Email, For Web Designers And Developers](http://www.leemunroe.com/sending-email-designers-developers/)
+* [The Ultimate Guide to Email Image Blocking](https://litmus.com/blog/the-ultimate-guide-to-email-image-blocking)
 * [Email Design Reference - MailChimp](http://templates.mailchimp.com/)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
 * [iOS Resolution Reference](http://iosres.com/)
@@ -525,6 +526,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [EOA Email Development](https://www.emailonacid.com/blog/email-development)
 * [Bulletproof email buttons](https://buttons.cm/)
 * [Improve your transactional emails with Gmail Inbox Actions](https://postmarkapp.com/guides/improve-your-transactional-emails-with-gmail-inbox-actions)
+* [822 Emoji for your Newsletter Subject Lines](http://www.emailmarketingtipps.de/2015/05/07/822-emoji-subject-lines-gmail-outlook-cheat-sheet/) - top 20 emojis by unique senders
+* [https://www.emojicopy.com/](https://www.emojicopy.com/)
 * [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm) `HU`
 
 #### Responsive email
@@ -746,6 +749,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Laravel realted sites
 
 * [Laracasts](https://laracasts.com/)
+* [Performant Laravel](https://serversforhackers.com/laravel-perf/)
 * [Laracon.eu playlists](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A/playlists) `YouTube`
 * [Diving Laravel](https://divinglaravel.com/)
 * [Laravel News](https://laravel-news.com/)
@@ -1407,6 +1411,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [15 Incredible Facebook Ad Tools We Love](http://www.ppchero.com/15-incredible-facebook-ad-tools-we-love/)
 * [Email Subject Lines: 5 Tips to Attract Readers](https://www.nngroup.com/articles/email-subject-lines/)
+* [A címsorok varázsa](http://www.onlinekatapult.hu/a-cimsorok-varazsa-igy-kapjak-fel-rad-a-fejuket/) `HU`
 * [Facebook ad preferences](https://www.facebook.com/ads/preferences/edit)
 * [Gleam](https://gleam.io/) - Marketing apps designed to help you grow your business
 
