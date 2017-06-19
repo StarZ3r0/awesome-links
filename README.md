@@ -632,6 +632,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [SourceMaking: Design Patterns](https://sourcemaking.com/design_patterns)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
 * [PHP 7.1: introduction and release cycle](https://blog.pascal-martin.fr/post/php71-en-introduction-and-release-cycle.html)
 * [Upcoming changes in PHP 7.1](https://dotdev.co/upcoming-changes-in-php-7-1-76ebea53b820#.56482yrrk)
