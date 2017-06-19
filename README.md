@@ -660,6 +660,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Learning
 
 * [Laracasts](https://laracasts.com/)
+* [Vegibit](http://vegibit.com/)
 * [PHP School](http://www.phpschool.io/)
 * [PHP UK Conference playlists](https://www.youtube.com/user/phpukconference/playlists)
 
