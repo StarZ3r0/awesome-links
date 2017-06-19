@@ -33,9 +33,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [A szoftverfejlesztés gyakran elfeledett alapigazságai ](http://infokukac.com/2010/01/a-szoftverfejlesztes-gyakran-elfeledett-alapigazsagai-forditas/) `HU`
 
-### News, sites, blogs
+### News, sites, blogs, communities
 
 * [the new code](http://thenewcode.com/)
+* [The Full List of 1000 Slack Communities](https://standuply.com/slack-communities)
 
 ### Documentations
 
@@ -779,6 +780,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel Schema Designer](http://laravelsd.com/browse)
 * [Codecourse - Laravel](https://www.codecourse.com/lessons?subject=laravel) `PAY`
 
+### Laravel related projects
+
+* [PyroCMS](https://pyrocms.com/)
+
 ### Eloquent
 
 * [Eloquent by Example](http://eloquentbyexample.com/)
@@ -1484,6 +1489,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [MailDrop](http://maildrop.cc/)
 * [Sodaphonic](https://sodaphonic.com/) - online audio editor
 * [Infogram](https://infogr.am/) - infographics and charts
+* [Validator.pizza](https://www.validator.pizza/) - block disposable emails
 
 ### Collection
 
@@ -1730,6 +1736,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
+
+### Business
+
+* [Európai igazságügyi portál - Cégkereső](https://e-justice.europa.eu/content_find_a_company-489-hu.do) `HU`
 
 ### Useful
 
