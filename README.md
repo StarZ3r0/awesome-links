@@ -630,9 +630,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Manual](http://php.net/manual/en/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
-* [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
-* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [SourceMaking: Design Patterns](https://sourcemaking.com/design_patterns)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
 * [PHP 7.1: introduction and release cycle](https://blog.pascal-martin.fr/post/php71-en-introduction-and-release-cycle.html)
 * [Upcoming changes in PHP 7.1](https://dotdev.co/upcoming-changes-in-php-7-1-76ebea53b820#.56482yrrk)
@@ -657,6 +654,16 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig) `HU`
 * `HU` [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
 * `HU` [http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/](http://www.janoszen.hu/2010/02/03/hatekony-automatizalt-levelkuldes/)
+
+### Practice
+
+* [PHP Job Interview Task](https://www.sitepoint.com/php-job-interview-task-day-week-calculation/)
+
+### Design Patterns
+
+* [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [SourceMaking: Design Patterns](https://sourcemaking.com/design_patterns)
 
 ### Learning
 
