@@ -36,7 +36,18 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### News, sites, blogs, communities
 
 * [the new code](http://thenewcode.com/)
+* [GitLogs](http://www.gitlogs.com/)
+* [cron.weekly](https://www.cronweekly.com/archives/)
+* [HackerWeb](https://app.hackerwebapp.com/)
+* [Jetbrains PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
+* [Trending repositories on GitHub](https://github.com/trending)
+* [Web Development Reading List](https://wdrl.info/archive)
 * [The Full List of 1000 Slack Communities](https://standuply.com/slack-communities)
+* [Product Hunt](https://www.producthunt.com/)
+* [Weblabor Blogmarkok](http://weblabor.hu/blogmarkok) `HU`
+* [Prog.hu](https://prog.hu/) `HU`
+* [IT sziget](https://it-sziget.hu/) `HU`
+* [pineapple.io](http://pineapple.io/) - lots of spam
 
 ### Documentations
 
