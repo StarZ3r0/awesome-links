@@ -22,13 +22,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
-* [Grab Front End Guide](https://github.com/grab/front-end-guide)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Awesome jQuery](https://github.com/petk/awesome-jquery)
 * [DevDocs](http://devdocs.io/)
 
 ### Articles
@@ -257,6 +253,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [MarkSheet](http://marksheet.io/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
+* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Grab Front End Guide](https://github.com/grab/front-end-guide)
 * [frontend.directory](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [CSS Reference](http://cssreference.io/)
 * [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
@@ -1051,6 +1049,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### jQuery
 
 * [jQuery](http://jquery.com/) - write less, do more
+* [Awesome jQuery](https://github.com/petk/awesome-jquery)
 * [Try jQuery](http://try.jquery.com/)
 * [jQuery Learning Center](http://learn.jquery.com/about-jquery/)
 * [jQuery file size](https://mathiasbynens.be/demo/jquery-size)
