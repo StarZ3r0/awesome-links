@@ -22,6 +22,13 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [Grab Front End Guide](https://github.com/grab/front-end-guide)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Awesome jQuery](https://github.com/petk/awesome-jquery)
 * [DevDocs](http://devdocs.io/)
 
 ### Articles
@@ -35,6 +42,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### News, sites, blogs, communities
 
+* [Reddit r/PHP/](https://www.reddit.com/r/PHP/)
 * [the new code](http://thenewcode.com/)
 * [GitLogs](http://www.gitlogs.com/)
 * [cron.weekly](https://www.cronweekly.com/archives/)
