@@ -249,6 +249,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Guides, articles, sites
 
 * [CSS-Tricks](https://css-tricks.com)
+* [Codepen posts](https://codepen.io/posts/)
 * [HTML 5.1](https://www.w3.org/TR/html51/) - W3C Recommendation, 1 November 2016
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [MarkSheet](http://marksheet.io/)
