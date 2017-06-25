@@ -524,6 +524,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
 * [Everything You Need To Know About SVG](https://css-tricks.com/lodge/svg/)
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
+* [ZorroSVG](http://quasimondo.com/ZorroSVG/) - The transparency of PNGs for the file size of JPEGs
 * [SVG tananyag](http://svg.elte.hu/) `HU`
 
 ### Bootstrap
@@ -559,6 +560,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Responsive email design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)
 * [Responsive Email Templates - ZURB](http://zurb.com/playground/responsive-email-templates)
 * [How to set the order of stacked columns in a responsive email design](https://www.campaignmonitor.com/blog/email-marketing/2014/10/order-stacked-columns-responsive-email/)
+* [Paperplane Email Templates](http://paperpaperplane.com/) `PAY`
 
 #### Tools
 
