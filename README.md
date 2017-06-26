@@ -241,7 +241,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [GitHub Discover gists](https://gist.github.com/discover)
 * [JSFiddle](https://jsfiddle.net/)
-* [scrimba](https://scrimba.com) - 
+* [scrimba](https://scrimba.com)
+* [Codeshare](https://codeshare.io/) - Share code in real-time with other developers
+* [kopy.io](https://kopy.io/)
 
 ## Frontend
 *HTML & CSS related things*
@@ -470,6 +472,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 * [Blend](http://colinkeany.com/blend/)
 * [ish. yet another viewport resizer](http://bradfrost.com/demo/ish/#m)
+* [Check GZIP compression](https://checkgzipcompression.com/)
+* [BrowserSync](https://browsersync.io/)
 
 #### Base64
 
@@ -891,6 +895,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Tools and services
 
+* [Phabricator](http://phabricator.org/)
 * [Blackfire](https://blackfire.io/)
 * [Detectify](https://detectify.com/)
 * [IP Address Details](http://ipinfo.io/)
@@ -1411,6 +1416,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Message header analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 * [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
 * [crontab.guru](https://crontab.guru/)
+* [MailCatcher](https://mailcatcher.me/)
 
 ### Spam
 
@@ -1512,6 +1518,19 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Sodaphonic](https://sodaphonic.com/) - online audio editor
 * [Infogram](https://infogr.am/) - infographics and charts
 * [Validator.pizza](https://www.validator.pizza/) - block disposable emails
+* [Seo Panel](http://www.seopanel.in/)
+* [Shout](http://shout-irc.com/) - The self-hosted web IRC client
+* [Pawnmail](https://pawnmail.com/) - Email hosting for custom domains
+* [Gemfury](https://gemfury.com/) - Private RubyGem, npm, Composer, PyPI Repository
+
+### VPN
+
+* [Privatoria](https://privatoria.net/)
+
+### Development
+
+* [Runnable](https://runnable.com/)
+* [Locust](http://locust.io/) - An open source load testing tool.
 
 ### Collection
 
@@ -1551,6 +1570,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Prevent spam
 
+* [DMARC Weekly Digests by Postmark](http://dmarc.postmarkapp.com/)
 * [Heluna](https://heluna.com/)
 * [MailRoute](https://www.mailroute.net/)
 * [ReturnPath](https://returnpath.com/)
