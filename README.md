@@ -1526,6 +1526,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### VPN
 
 * [Privatoria](https://privatoria.net/)
+* [Private Internet Access VPN Service](https://www.privateinternetaccess.com/)
 
 ### Development
 
