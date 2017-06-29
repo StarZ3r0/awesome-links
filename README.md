@@ -1001,6 +1001,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070#.gg9c7cnm1)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ry9a9rq61)
 * [JavaScript Patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q) `YouTube`
+* [A Javascript programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/JavaScript/index.php) `HU`
 * [JavaScript debuggolás 1. rész](http://blog.fps.hu/post/87022586186/javascript-debuggolas-1-resz) `HU`
 * [JavaScript debuggolás 2. rész](http://blog.fps.hu/post/89774280796/javascript-debuggolas-2-resz) `HU`
 * [JavaScript függvények](http://weblabor.hu/cikkek/javascript-fuggvenyek) `HU`
@@ -1011,8 +1012,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Tutorials
 
+* [JavaScript 30](https://javascript30.com/) - Build 30 things with vanilla JS in 30 days with 30 tutorials
 * [Code School - Javascript Roadtrip](http://javascript-roadtrip.codeschool.com/)
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
+* [Level Up Tutorials](https://store.leveluptutorials.com/)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.y185h9t37)
 * [ntro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 * [egghead.io](https://egghead.io/)
@@ -1306,6 +1309,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [How to host your DNS with FastMail](https://www.fastmail.com/help/receive/dns.html?domain=fastmail.fm)
 * [Reverse DNS: The Secret Behind Email Marketing Deliverability](http://social.dnsmadeeasy.com/blog/dnscoach/reverse-dns-email-marketing/)
 * [Get single-emoji domains, such as http://💸.ga, for free](https://medium.com/@tomasz_ws/get-single-emoji-domains-http-ga-etc-for-free-a27637fc4351)
+* [EURid Whois](https://whois.eurid.eu/hu/)
 
 ### Docker
 
@@ -1774,6 +1778,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Ask HN: What's your working day like?](https://news.ycombinator.com/item?id=14290518)
 * [Ask HN: What do you use to align your daily todos with your long term goals?](https://news.ycombinator.com/item?id=13855577)
 * [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
+* [invoicetemplate.co](https://invoicetemplate.co/) - 100% free invoicing software
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/) `HU`
 * [SMarthu – Kreatív Közösképviselet](http://smarthu.org/) `HU`
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
