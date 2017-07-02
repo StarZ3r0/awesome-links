@@ -34,6 +34,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Programmer 97-things](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book), [Part 2](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions), [Part 3](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_in_Progress)
 * [What technical details should a programmer of a web application consider before making the site public?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 * [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+* [Analysis of Coding Conventions](https://squizlabs.github.io/PHP_CodeSniffer/analysis/index.html)
 * [A szoftverfejlesztés gyakran elfeledett alapigazságai ](http://infokukac.com/2010/01/a-szoftverfejlesztes-gyakran-elfeledett-alapigazsagai-forditas/) `HU`
 
 ### News, sites, blogs, communities
@@ -1254,7 +1255,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Email with Postfix, Dovecot, and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql)
 * [How to set up a mail server on a GNU / Linux system](http://flurdy.com/docs/postfix/)
-* [A Mailserver on Ubuntu 14.04: Postfix, Dovecot, MySQL](https://www.exratione.com/2014/05/a-mailserver-on-ubuntu-1404-postfix-dovecot-mysql/)
+* [A Mailserver on Ubuntu 16.04: Postfix, Dovecot, MySQL](https://www.exratione.com/2016/05/a-mailserver-on-ubuntu-16-04-postfix-dovecot-mysql/)
 * [How to Send Email Like a Startup](https://www.sendwithus.com/resources/guide)
 * [NGINX reverse proxy in front of Apache](http://dangerousprototypes.com/docs/NGINX_reverse_proxy_in_front_of_Apache:_hardened,_high_performance_dedicated_server_setup)
 * [Copying Files](https://serversforhackers.com/copying-files)
@@ -1764,6 +1765,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [How I Work - Taylor Otwell](https://medium.com/@taylorotwell/how-i-work-a22010d1ad82#.2hl5421gq)
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
+* [Graphs Interview Questions](http://www.techiedelight.com/graphs-interview-questions)
 * [Not An Imposter: Fighting Front-End Fatigue](https://www.smashingmagazine.com/2016/11/not-an-imposter-fighting-front-end-fatigue/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [CodeHalf](https://codehalf.com/)
