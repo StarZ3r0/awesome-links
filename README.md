@@ -246,6 +246,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Codeshare](https://codeshare.io/) - Share code in real-time with other developers
 * [kopy.io](https://kopy.io/)
 
+### New technologies
+
+* [GraphQL](https://www.graphql.com)
+
 ## Frontend
 *HTML & CSS related things*
 
@@ -528,6 +532,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
 * [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
 * [Everything You Need To Know About SVG](https://css-tricks.com/lodge/svg/)
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGO's Missing GUI
 * [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
 * [ZorroSVG](http://quasimondo.com/ZorroSVG/) - The transparency of PNGs for the file size of JPEGs
 * [SVG tananyag](http://svg.elte.hu/) `HU`
