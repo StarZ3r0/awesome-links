@@ -35,6 +35,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [What technical details should a programmer of a web application consider before making the site public?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 * [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [Analysis of Coding Conventions](https://squizlabs.github.io/PHP_CodeSniffer/analysis/index.html)
+* [10 Common Data Structures Explained with Videos](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 * [A szoftverfejlesztés gyakran elfeledett alapigazságai ](http://infokukac.com/2010/01/a-szoftverfejlesztes-gyakran-elfeledett-alapigazsagai-forditas/) `HU`
 
 ### News, sites, blogs, communities
@@ -1794,6 +1795,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Business
 
+* [Elektronikus Beszámoló Portál](http://e-beszamolo.im.gov.hu/oldal/kezdolap) `HU`
 * [Európai igazságügyi portál - Cégkereső](https://e-justice.europa.eu/content_find_a_company-489-hu.do) `HU`
 
 ### Useful
