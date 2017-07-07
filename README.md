@@ -1437,6 +1437,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Symantec IP Reputation Investigation](http://ipremoval.sms.symantec.com/lookup/)
 * [dnswl.org](https://www.dnswl.org/) - the leading email whitelist, also called DNS whitelist (DNSWL)
 * [Google Postmaster Tools](https://postmaster.google.com/u/0/managedomains?pli=1)
+* [Sender Score](https://www.senderscore.org/lookup.php?lookup=0) - check sender reputation
 
 ### Others
 
@@ -1467,6 +1468,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [A címsorok varázsa](http://www.onlinekatapult.hu/a-cimsorok-varazsa-igy-kapjak-fel-rad-a-fejuket/) `HU`
 * [Facebook ad preferences](https://www.facebook.com/ads/preferences/edit)
 * [Gleam](https://gleam.io/) - Marketing apps designed to help you grow your business
+* [Miért nem jutnak célba marketing emailjei elég jó arányban, és miért landolnak a promóciók fülön vagy a spam mappában?](https://www.salesautopilot.hu/miert-kerulnek-spam-vagy-promociok-fulre-marketing-levelei/) `HU`
 
 ### Stats
 
@@ -1792,6 +1794,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
+
+### Colletions
+
+* [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
 
 ### Business
 
