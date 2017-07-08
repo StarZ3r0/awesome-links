@@ -83,6 +83,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 * [Learn to Hack](https://www.hacksplaining.com/)
 
+#### Unsafe web resources
+
+* [Google Safe Browsing](https://developers.google.com/safe-browsing/)
+* [PhisTank](https://www.phishtank.com/)
+
 ### Mobile apps development
 
 * [Cloud-alapú app tesztelés bevezetése](https://medium.com/mito/mobil-app-teszteles-test-cloud-calabash-xamarin-e18ffe020b6b#.oi9uygub6) `HU`
@@ -281,6 +286,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Structured Data - Google Developers](https://developers.google.com/structured-data/?rd=1)
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 * [WTF, forms?](http://wtfforms.com/)
+* [HTML Reference.io](http://htmlreference.io/)
+* [Bootstrap 4 Ultimate Guide](https://medium.com/wdstack/bootstrap-4/home)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
 * [Auto Complete Attribute Will Improve Your Profit (And Forms)](https://greenido.wordpress.com/2015/05/06/auto-complete-attribute-will-improve-your-profit/)
@@ -319,6 +326,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Responsive Web Design Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [The Ultimate Responsive Web Design Beginners Resource List](http://www.targetlocal.co.uk/responsive-web-design-resources/)
 * [Responsive Navigation Patterns](http://bradfrost.com/blog/web/responsive-nav-patterns/)
+* [NavNav](http://navnav.co/) - 90+ responsive navigation bar menu
 * [Techniques for Responsive Typography](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
 * [Responsive Tables in Pure CSS](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
 * [Media Queries](http://mediaqueri.es/) - nice examples
@@ -1772,6 +1780,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Career and work
 
 * [How I Work - Taylor Otwell](https://medium.com/@taylorotwell/how-i-work-a22010d1ad82#.2hl5421gq)
+* [Hola DNA](https://hola.org/dna) `TIP`
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Graphs Interview Questions](http://www.techiedelight.com/graphs-interview-questions)
 * [Not An Imposter: Fighting Front-End Fatigue](https://www.smashingmagazine.com/2016/11/not-an-imposter-fighting-front-end-fatigue/)
