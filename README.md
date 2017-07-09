@@ -64,6 +64,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [UTF-8](https://the-pastry-box-project.net/oli-studholme/2013-october-8)
 * [UTF-8 all the way through](http://stackoverflow.com/questions/279170/utf-8-all-the-way-through/279279#279279)
 * [Unicode character table](https://unicode-table.com/en/)
+* [The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/)
 * [Unicode, UTF-8](http://www.cs.bme.hu/~egmont/utf8/) `HU`
 * [Ékezetes FAQ webművészek számára](http://web.axelero.hu/lzsiga/ekezet.html) `HU`
 * [Rémtörténet a karakterkódolásokról](https://infoc.eet.bme.hu/karakterkodolas/) `HU`
