@@ -1840,6 +1840,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The Scientific 7-Minute Workout](https://www.nytimes.com/interactive/projects/well/workouts/)
 * [Irodaszék SNERTINGE](http://jysk.hu/dolgozoszoba/irodaszekek/plus/irodaszek-snertinge-fekete-kek-0) `HU`
 
+### IRC
+
+* [IRC is Back](https://code.tutsplus.com/tutorials/irc-is-back-heres-your-starter-guide--net-31369)
+* [KiwiIRC](https://kiwiirc.com/)
+* [freenode Web IRC](http://webchat.freenode.net/)
+
 ### Fun
 
 * [MapHub](https://maphub.net/)
