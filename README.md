@@ -670,6 +670,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Manual](http://php.net/manual/en/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
+* [TheCodingMachine Best Practices](http://bestpractices.thecodingmachine.com/)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
 * [PHP 7.1: introduction and release cycle](https://blog.pascal-martin.fr/post/php71-en-introduction-and-release-cycle.html)
 * [Upcoming changes in PHP 7.1](https://dotdev.co/upcoming-changes-in-php-7-1-76ebea53b820#.56482yrrk)
