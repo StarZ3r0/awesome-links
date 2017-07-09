@@ -148,6 +148,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [gitignore.io](https://www.gitignore.io/)
 * [Git Radar](https://github.com/michaeldfallen/git-radar)
 * [First Aid git](http://firstaidgit.io/#/)
+* [Git Large File Storage](https://git-lfs.github.com/)
 * [git leírás](https://pastebin.com/Vf4y508h) `HU`
 
 #### Github
@@ -1795,6 +1796,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ao4917u1g)
 * [Gainlo](http://www.gainlo.co/#!/) - Mock Interview With Professionals
 * [Desk Hunt](http://deskhunt.com/interviews)
+* [Gmail Meter](https://www.gmailmeter.com/)
 * [Ask HN: What do you do when you've lost motivation at work?](https://news.ycombinator.com/item?id=14256746)
 * [Ask HN: What's your working day like?](https://news.ycombinator.com/item?id=14290518)
 * [Ask HN: What do you use to align your daily todos with your long term goals?](https://news.ycombinator.com/item?id=13855577)
