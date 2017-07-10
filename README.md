@@ -1478,8 +1478,20 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Email Subject Lines: 5 Tips to Attract Readers](https://www.nngroup.com/articles/email-subject-lines/)
 * [A címsorok varázsa](http://www.onlinekatapult.hu/a-cimsorok-varazsa-igy-kapjak-fel-rad-a-fejuket/) `HU`
 * [Facebook ad preferences](https://www.facebook.com/ads/preferences/edit)
+* [IAB Display Advertising Guidelines](https://www.iab.com/guidelines/iab-display-advertising-guidelines/)
 * [Gleam](https://gleam.io/) - Marketing apps designed to help you grow your business
+* [Sticker Mule](https://www.stickermule.com/)
 * [Miért nem jutnak célba marketing emailjei elég jó arányban, és miért landolnak a promóciók fülön vagy a spam mappában?](https://www.salesautopilot.hu/miert-kerulnek-spam-vagy-promociok-fulre-marketing-levelei/) `HU`
+* [Viselkedés modell](https://blog.kolboid.eu/viselkedes-modell-fogg-behavior-model/) `HU`
+
+### A/B testing
+
+* [SixPack](http://sixpack.seatgeek.com/)
+
+### Email
+
+* [Email Marketing Best Practices](https://www.getvero.com/resources/guides/email-marketing-best-practices/)
+* [How to Send Email Like a Startup](https://www.sendwithus.com/resources/guide)
 
 ### Stats
 
@@ -1487,6 +1499,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Email Client Market Share](http://emailclientmarketshare.com/)
 * [gemiusRanking](http://rankings.hu/)
 * [StatCounter GlobalStats](http://gs.statcounter.com/)
+* [GKI Digital](http://www.gkidigital.hu/hireink/)
+* [eNet](http://www.enet.hu/our-news/)
 
 ### Domains
 
@@ -1505,6 +1519,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Online Katapult](http://www.onlinekatapult.hu/) `HU`
 * [Marketinginnovátor Megoldások](http://marketinginnovator.hu/megoldasok/) `HU`
+* [OMA](http://www.online-marketing-akademia.hu/megrendeles-kapcsolat-kartya/) - megrendelés kapcsolat kártyával 
 
 ### Articles
 
@@ -1776,6 +1791,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [How I implemented the EU cookie law](https://blog.opsbears.com/2015/12/24/how-i-implemented-eu-cookie-law/)
 * [Cookie Consent](https://silktide.com/tools/cookie-consent/) - The most popular solution to the EU Cookie Law.
+* [Mi a helyzet cookie-ügyben?](https://net-jog.hu/2015/10/17/mi-a-helyzet-cookie-ugyben/) `HU`
+* [Holló & Társai Ügyvédi Iroda](http://hplaw.hu/)
 
 ### Books
 
