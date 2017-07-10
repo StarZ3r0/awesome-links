@@ -1479,6 +1479,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [A címsorok varázsa](http://www.onlinekatapult.hu/a-cimsorok-varazsa-igy-kapjak-fel-rad-a-fejuket/) `HU`
 * [Facebook ad preferences](https://www.facebook.com/ads/preferences/edit)
 * [IAB Display Advertising Guidelines](https://www.iab.com/guidelines/iab-display-advertising-guidelines/)
+* [Adatvezérelt online marketing blog](http://www.aquariushand.hu/blog/) `HU`
 * [Gleam](https://gleam.io/) - Marketing apps designed to help you grow your business
 * [Sticker Mule](https://www.stickermule.com/)
 * [Miért nem jutnak célba marketing emailjei elég jó arányban, és miért landolnak a promóciók fülön vagy a spam mappában?](https://www.salesautopilot.hu/miert-kerulnek-spam-vagy-promociok-fulre-marketing-levelei/) `HU`
