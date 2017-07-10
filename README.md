@@ -1494,6 +1494,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Domainr](https://domainr.com/)
 * [Instant Domain Search](https://instantdomainsearch.com/)
 * [Domain Name Generator For Perfectionists](http://www.namemesh.com/)
+* [DomainHack.Me](https://www.domainhack.me)
 * [Namebird](http://kayosz.com/namebird)
 * [TLD List](https://tld-list.com/)
 * [domcomp](https://www.domcomp.com/)
