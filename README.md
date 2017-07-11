@@ -25,6 +25,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Awesome Self Hosted](https://selfhosted.libhunt.com/)
 * [DevDocs](http://devdocs.io/)
 
 ### Articles
