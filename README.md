@@ -569,7 +569,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Bulletproof email buttons](https://buttons.cm/)
 * [Improve your transactional emails with Gmail Inbox Actions](https://postmarkapp.com/guides/improve-your-transactional-emails-with-gmail-inbox-actions)
 * [822 Emoji for your Newsletter Subject Lines](http://www.emailmarketingtipps.de/2015/05/07/822-emoji-subject-lines-gmail-outlook-cheat-sheet/) - top 20 emojis by unique senders
-* [https://www.emojicopy.com/](https://www.emojicopy.com/)
+* [EmojiCopy](https://www.emojicopy.com/)
 * [Email marketing – mit, miért, hogyan?](http://blog.fps.hu/post/46348544722/email-marketing-edm) `HU`
 
 #### Responsive email
@@ -582,7 +582,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Responsive email design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)
 * [Responsive Email Templates - ZURB](http://zurb.com/playground/responsive-email-templates)
 * [How to set the order of stacked columns in a responsive email design](https://www.campaignmonitor.com/blog/email-marketing/2014/10/order-stacked-columns-responsive-email/)
-* [Paperplane Email Templates](http://paperpaperplane.com/) `PAY`
+* [Paperplane Email Templates](http://paperpaperplane.com/) 💰
 
 #### Tools
 
@@ -821,7 +821,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Larachat](https://larachat.slack.com) - Slack channel
 * [Laravel Hungary Slack](https://laravelhungary.slack.com) `HU`
 * [Laravel Schema Designer](http://laravelsd.com/browse)
-* [Codecourse - Laravel](https://www.codecourse.com/lessons?subject=laravel) `PAY`
+* [Codecourse - Laravel](https://www.codecourse.com/lessons?subject=laravel) 💰
 
 ### Laravel related projects
 
@@ -1358,7 +1358,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Nginx
 
 * [Best nginx configuration for improved security (and performance)](https://gist.github.com/plentz/6737338)
-* [https://gist.github.com/denji/8359866](Nginx Tuning For Best Performance)
+* [Nginx Tuning For Best Performance](https://gist.github.com/denji/8359866)
 * [How to Configure Nginx for Optimized Performance](https://www.linode.com/docs/websites/nginx/configure-nginx-for-optimized-performance)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
