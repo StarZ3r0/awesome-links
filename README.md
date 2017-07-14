@@ -1824,6 +1824,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Ask HN: What do you do when you've lost motivation at work?](https://news.ycombinator.com/item?id=14256746)
 * [Ask HN: What's your working day like?](https://news.ycombinator.com/item?id=14290518)
 * [Ask HN: What do you use to align your daily todos with your long term goals?](https://news.ycombinator.com/item?id=13855577)
+* [Ask HN: What habits make a programmer great?](https://news.ycombinator.com/item?id=14708350)
 * [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
 * [invoicetemplate.co](https://invoicetemplate.co/) - 100% free invoicing software
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/) `HU`
