@@ -42,6 +42,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### News, sites, blogs, communities
 
 * [Reddit r/PHP/](https://www.reddit.com/r/PHP/)
+* [Learn PHP Today](http://learnphptoday.com/)
+* [Tweetsnippet](https://tweetsnippet.com/)
 * [the new code](http://thenewcode.com/)
 * [GitLogs](http://www.gitlogs.com/)
 * [cron.weekly](https://www.cronweekly.com/archives/)
@@ -258,6 +260,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### New technologies
 
 * [GraphQL](https://www.graphql.com)
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 
 ## Frontend
 *HTML & CSS related things*
