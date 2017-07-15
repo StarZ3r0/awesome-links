@@ -1465,8 +1465,14 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Infinite scroll search-friendly recommendations](https://googlewebmastercentral.blogspot.hu/2014/02/infinite-scroll-search-friendly.html)
 * [Notes on Filtering Spam and Bots from Google Analytics](http://www.lunametrics.com/blog/2016/01/28/notes-on-filtering-spam-and-bots-from-google-analytics/)
 * [Definitive Guide to Removing All Google Analytics Spam](http://help.analyticsedge.com/spam-filter/definitive-guide-to-removing-google-analytics-spam/)
+* [Keyword Research for SEO: The Definitive Guide (2017 Update)](http://backlinko.com/keyword-research)
+* [Search Engine Ranking Factors 2015 (Moz)](https://moz.com/search-ranking-factors)
+* [Google’s 200 Ranking Factors: The Complete List](http://backlinko.com/google-ranking-factors)
 * [Kulcsszókutatás: webáruházad keresőoptimalizálásának alapja](https://aionhill.com/kulcsszokutatas-webaruhaz) `HU`
 * [9 ok, amiért lepattannak weboldaladról a látogatók](https://aionhill.com/9-ok-amiert-lepattannak-a-latogatok) `HU`
+* [Keresőoptimalizálás árak: mennyi és miért annyi?](http://ite.hu/keresooptimalizalas-arak-mennyi-es-miert-annyi/) `HU`
+* [Kulcsszókutatás: útmutató a kulcszókereséshez](http://ite.hu/kulcsszo-kutatas.php) `HU`
+* [Web akadálymentesítés és SEO](https://optimizer.hu/web-akadalymentesites-es-seo) `HU`
 
 ### Technologies
 
@@ -1474,9 +1480,19 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Tools
 
+* [Vary SEO tool](https://varvy.com/)
+* [Algoroo](https://algoroo.com/) - Google algorithm tracking tool
 * [Search Console - URL feltérképezése](https://www.google.com/webmasters/tools/submit-url?hl=hu)
 * [#1 Keyword Tool by cognitiveSEO](https://cognitiveseo.com/keyword-tool/) - keyword explorer & content optimization
 * [SEMrush](https://www.semrush.com/)
+* [Ahrefs](https://ahrefs.com/)
+* [Serpfox](https://serpfox.com/)
+* [Xenu's Link Sleuth](http://home.snafu.de/tilman/xenulink.html) - find broken links on web sites
+* [Keyword Tool](http://keywordtool.io/) - Get 750+ Google Keyword Suggestions For Free
+* [SEOceros](https://seoceros.com/hu/)
+* [Jankate](http://jankate.hu/) `HU` - Google büntetés ellenőrző
+* [SEO SiteCheckup](https://seositecheckup.com/tools)
+* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)
 
 ## Marketing
 
@@ -1490,6 +1506,15 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Sticker Mule](https://www.stickermule.com/)
 * [Miért nem jutnak célba marketing emailjei elég jó arányban, és miért landolnak a promóciók fülön vagy a spam mappában?](https://www.salesautopilot.hu/miert-kerulnek-spam-vagy-promociok-fulre-marketing-levelei/) `HU`
 * [Viselkedés modell](https://blog.kolboid.eu/viselkedes-modell-fogg-behavior-model/) `HU`
+* [Pakkot kaptam](https://blog.kolboid.eu/kolcsonosseg-reciprocity/) `HU`
+* [Üzleti kommunikációs csel 5 lépésben](http://www.szovegirasblog.hu/2013/10/10/uzleti-kommunikacios-csel-5-lepesben/) `HU`
+* [67 módszer: hogyan növelheted a konverziót kognitív torzulásokkal](https://blog.kolboid.eu/67-modszer-hogyan-novelheted-a-konverziot/)
+
+### Pricing
+
+* [Pricing Psychology: A Gigantic List of Strategies](https://www.nickkolenda.com/psychological-pricing-strategies/)
+* [7 fantasztikus árazási szabály](http://www.ungvaripeter.hu/blog/mennyit-kerjek-termekemert-7-fantasztikus-arazasi-szabaly-infografika/) `HU`
+* [Vásárlóid kétharmada többet fizet, ha ezt a 4 dolgot jól csinálod](http://www.ungvaripeter.hu/blog/vasarloid-ketharmada-tobbet-fizet-ha-ezt-4-dolgot-jol-csinalod/) `HU`
 
 ### A/B testing
 
@@ -1570,6 +1595,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Readable](https://www.webpagefx.com/tools/read-able/)
 * [Adobe Spark](https://spark.adobe.com/)
 * [Canva](https://www.canva.com/)
+
+### Facebook
+
+* [Object Debugger](https://developers.facebook.com/tools/debug/og/object/)
+* [The Open Graph protocol](http://ogp.me/)
+* [Claiming a Page for Your Business](https://www.facebook.com/help/257661877677443)
 
 ## Services
 
