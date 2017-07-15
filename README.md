@@ -1419,6 +1419,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Practical Tmux](https://mutelight.org/practical-tmux)
 * [10 Killer Tmux Tips](https://www.sitepoint.com/10-killer-tmux-tips)
 * [Intro to Tmux](https://code.tutsplus.com/tutorials/intro-to-tmux--net-33889)
+* [A Gentle Introduction to tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 * [tmux & screen cheat-sheet](http://www.dayid.org/comp/tm.html)
 
 ### Git
@@ -1474,6 +1475,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Tools
 
 * [Search Console - URL feltérképezése](https://www.google.com/webmasters/tools/submit-url?hl=hu)
+* [#1 Keyword Tool by cognitiveSEO](https://cognitiveseo.com/keyword-tool/) - keyword explorer & content optimization
 * [SEMrush](https://www.semrush.com/)
 
 ## Marketing
@@ -1498,6 +1500,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Email Marketing Best Practices](https://www.getvero.com/resources/guides/email-marketing-best-practices/)
 * [How to Send Email Like a Startup](https://www.sendwithus.com/resources/guide)
+* [Growbots](https://growbots.com/best-time-to-send-email/) - best time to send email
 
 ### Stats
 
@@ -1546,6 +1549,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Google AdWords
 
 * [The Secrets of AdWords CTR in 5 Charts](http://www.wordstream.com/blog/ws/2017/01/24/adwords-ctr-secrets)
+* [Google AdWords Editor](https://www.google.com/intl/en/adwordseditor/)
 * [A Google találati lista átalakulása](http://optimizer.hu/a-google-talalati-lista-atalakulasa) `HU`
 
 ### Content management
@@ -1814,8 +1818,6 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [CodeHalf](https://codehalf.com/)
 * [Cost of living](http://www.numbeo.com/cost-of-living/)
-* [6,000 freelancers talk about money, happiness, and their hopes for the future](https://medium.freecodecamp.com/6-000-freelancers-talk-about-money-happiness-and-their-hopes-for-the-future-ec36cfc81bb9#.r6f57du7o)
-* [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
 * [musicForProgramming](http://musicforprogramming.net/)
 * [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.ao4917u1g)
 * [Gainlo](http://www.gainlo.co/#!/) - Mock Interview With Professionals
@@ -1832,6 +1834,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
+
+### Surveys
+
+* [6,000 freelancers talk about money, happiness, and their hopes for the future](https://medium.freecodecamp.com/6-000-freelancers-talk-about-money-happiness-and-their-hopes-for-the-future-ec36cfc81bb9#.r6f57du7o)
+* [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
+* [The State of Developer Ecosystem 2017](https://www.jetbrains.com/research/devecosystem-2017/)
 
 ### Colletions
 
