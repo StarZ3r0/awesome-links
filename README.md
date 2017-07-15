@@ -1529,6 +1529,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Online Katapult](http://www.onlinekatapult.hu/) `HU`
 * [Marketinginnovátor Megoldások](http://marketinginnovator.hu/megoldasok/) `HU`
 * [OMA](http://www.online-marketing-akademia.hu/megrendeles-kapcsolat-kartya/) - megrendelés kapcsolat kártyával 
+* [BugTV](http://mrbugtv.com/)
 
 ### Articles
 
@@ -1542,15 +1543,27 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google Analytics User Permissions Exploring Tool](https://www.thyngster.com/tools/governance/main/login)
 * [Top 15 Enhanced Ecommerce Implementation Best Practices and Tips](http://online-metrics.com/enhanced-ecommerce-implementation/)
 * [Google Analytics: Using Goals, Funnels to Improve Conversions](http://www.practicalecommerce.com/articles/131420-Google-Analytics-Using-Goals-Funnels-to-Improve-Conversions)
+* [Ecommerce Tracking](https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce)
+* [Google Analytics Configuration Guide](https://raventools.com/marketing-reports/google-analytics/)
 * [The Ultimate List of Google Analytics Certification Resources (Updated 2017)](https://www.jeffalytics.com/google-analytics-certification/)
+* [Google Analytics Solutions Gallery](https://analytics.google.com/analytics/gallery/#landing/start/)
 * [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei) `HU`
 * [Webshop konverziós ráta: optimalizálás és tévhitek](https://aionhill.com/konverzios-rata) `HU`
+* [Google Analytics - Egyéni kampányok](https://support.google.com/analytics/answer/1033863?hl=hu) `HU`
+* [Hogyan használjuk a Google Analyticset több domain méréséhez?](http://weboptim.hu/hogyan-hasznaljuk-a-google-analyticset-tobb-domain-meresehez/)
 
 ### Google AdWords
 
 * [The Secrets of AdWords CTR in 5 Charts](http://www.wordstream.com/blog/ws/2017/01/24/adwords-ctr-secrets)
 * [Google AdWords Editor](https://www.google.com/intl/en/adwordseditor/)
 * [A Google találati lista átalakulása](http://optimizer.hu/a-google-talalati-lista-atalakulasa) `HU`
+* [Inside AdWords Magyarország](https://adwords-hu.googleblog.com/) `HU`
+* [Google Adwords Súgó](https://support.google.com/adwords/?hl=hu#topic=3119071) `HU`
+* [Google Ad Grants](https://www.google.com/intl/hu/grants/) - szervezeteknek
+
+### Google Tag Manager
+
+* [Google Tag Manager - A dinamikus remarketing használata az AdWords rendszerrel](https://support.google.com/tagmanager/answer/6106009?hl=hu&ref_topic=3002579&visit_id=1-636357200578563254-1696677647&rd=1)
 
 ### Content management
 
@@ -1801,6 +1814,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [How I implemented the EU cookie law](https://blog.opsbears.com/2015/12/24/how-i-implemented-eu-cookie-law/)
 * [Cookie Consent](https://silktide.com/tools/cookie-consent/) - The most popular solution to the EU Cookie Law.
+* [EU adatvédelmi eltávolítás](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&visit_id=1-636357193697954170-3198355434&hl=hu&rd=1&pli=1) - eltávolítás a keresési találatlistáról
 * [Mi a helyzet cookie-ügyben?](https://net-jog.hu/2015/10/17/mi-a-helyzet-cookie-ugyben/) `HU`
 * [Holló & Társai Ügyvédi Iroda](http://hplaw.hu/)
 
