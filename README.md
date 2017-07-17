@@ -697,6 +697,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [MySQL, PHP and Timezones](https://www.mettle.io/blog/post/mysql-php-timezone/)
 * [What is the difference between URL Router and Dispatcher?](https://stackoverflow.com/questions/11700603/what-is-the-difference-between-url-router-and-dispatcher)
 * [Reference - What does this symbol mean in PHP?](http://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php)
+* [Type-hint all the things!](https://www.thecodingmachine.com/type-hint-all-the-things/)
 * [ELTE Prognyelvek porták: A PHP programozási nyelv](http://nyelvek.inf.elte.hu/leirasok/PHP/index.php) `HU`
 * [PHP jelentősebb változásai napjainkig - Kezdetektől a trait-ekig](http://rimelek.hu/php-jelentosebb-valtozasai-napjainkig-kezdetektol-a-trait-ekig) `HU`
 * `HU` [Kezdő bakik: web 1x1](http://weblabor.hu/blog/20100925/web-1x1)
