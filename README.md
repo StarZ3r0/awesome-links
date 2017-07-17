@@ -1928,6 +1928,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Fun
 
 * [MapHub](https://maphub.net/)
+* [The Ultimate List of Emoji Products](https://blog.producthunt.com/the-ultimate-list-of-emoji-products-8b90003513ac)
 * [weblog.sh](https://weblog.sh/)
 * [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 * [Faces of Power](http://www.facesofpower.net/)
