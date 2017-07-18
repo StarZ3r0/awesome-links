@@ -1358,6 +1358,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [SSLs.com](https://www.ssls.com/)
 * [StartSSL](https://startssl.com/)
 * [Cheap SSL](https://www.cheapsslshop.com/)
+* [StartSSL](https://www.startcomca.com/)
 
 ### Nginx
 
@@ -1620,10 +1621,12 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Hosting
 
+* [Low End Box](https://lowendbox.com/)
 * [Webfaction](https://www.webfaction.com/)
 * [fortrabbit](https://www.fortrabbit.com/)
 * [A2 Hosting](https://www.a2hosting.com/)
 * [Hyper.sh](https://hyper.sh/) - docker hosting
+* [NearlyFreeSpeech](https://www.nearlyfreespeech.net/)
 
 #### Wordpress
 
@@ -1635,6 +1638,17 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 #### Hungarian
 
 * [Rackforest](https://rackforest.hu/)
+* [Webonic](https://www.webonic.hu/)
+* [MikroVPS](https://www.mikrovps.net/hu/hosting/cpanel)
+
+#### Reseller
+
+* [Reseller Hosting Offers | Web Hosting Talk](http://www.webhostingtalk.com/forumdisplay.php?f=130)
+* [BUYSHARED](https://buyshared.net/cpanel-reseller-hosting/)
+
+#### Free
+
+* [Hostinger](https://www.hostinger.hu/)
 
 ### Server Management
 
@@ -1644,11 +1658,26 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### VPS
 
 * [Digital Ocean](https://www.digitalocean.com/)
+* [Linode](https://www.linode.com/pricing)
+* [Time4VPS](https://www.time4vps.eu/)
+* [SSD Nodes](https://www.ssdnodes.com/)
+* [Vultr](https://www.vultr.com/)
+* [VPSDime](https://vpsdime.com/) - high storage / high memory
+* [Waveride](http://waveride.at/plans) - 	Vienna
+* [OVH](https://www.ovh.ie/vps/vps-ssd.xml)
 * [Amazon AWS](https://aws.amazon.com/) - Frankfurt region!
+* [RamNode](http://www.ramnode.com/index.php)
+* [Aruba Cloud](https://www.arubacloud.hu/vps/virtualis-privat-szerver-ajanlat-tipusok.aspx) - cheap
 * [Dply](https://dply.co/) - create a cloud server FREE for 2 hours
 * [Selectel](https://selectel.com/)
 * [Vexxhost](https://vexxhost.com/public-cloud/servers/) - Canada
+* [transIP](https://www.transip.eu/vps/)
+* [Kimsufi](https://www.kimsufi.com/uk/servers.xml)
+* [Afterburst](https://afterburst.com/)
+* [BuyVM](https://buyvm.net/)
+* [Kyup](https://kyup.com/) - scalable cloud hosting on Linux containers
 * [ServerHub](https://www.serverhub.com/)
+* [Funtoo Containers](https://www.arubacloud.hu/vps/virtualis-privat-szerver-ajanlat-tipusok.aspx) - cheap Gentoo
 
 ### VPN
 
