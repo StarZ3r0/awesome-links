@@ -1618,6 +1618,38 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Pawnmail](https://pawnmail.com/) - Email hosting for custom domains
 * [Gemfury](https://gemfury.com/) - Private RubyGem, npm, Composer, PyPI Repository
 
+### Hosting
+
+* [Webfaction](https://www.webfaction.com/)
+* [fortrabbit](https://www.fortrabbit.com/)
+* [A2 Hosting](https://www.a2hosting.com/)
+* [Hyper.sh](https://hyper.sh/) - docker hosting
+
+#### Wordpress
+
+* [Kinsta](https://kinsta.com/)
+* [WPEngine](https://wpengine.com/)
+* [Flywheel](https://getflywheel.com/)
+* [BladeWP](https://bladewp.com/)
+
+#### Hungarian
+
+* [Rackforest](https://rackforest.hu/)
+
+### Server Management
+
+* [ServerPilot](https://serverpilot.io/)
+* [Laravel Forge](https://forge.laravel.com/)
+
+### VPS
+
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Amazon AWS](https://aws.amazon.com/) - Frankfurt region!
+* [Dply](https://dply.co/) - create a cloud server FREE for 2 hours
+* [Selectel](https://selectel.com/)
+* [Vexxhost](https://vexxhost.com/public-cloud/servers/) - Canada
+* [ServerHub](https://www.serverhub.com/)
+
 ### VPN
 
 * [Privatoria](https://privatoria.net/)
