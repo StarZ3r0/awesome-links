@@ -1555,6 +1555,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Gurus
 
 * [Online Katapult](http://www.onlinekatapult.hu/) `HU`
+* [Online Katapult LIVE](https://soundcloud.com/user-139864204) `HU`
 * [Marketinginnovátor Megoldások](http://marketinginnovator.hu/megoldasok/) `HU`
 * [OMA](http://www.online-marketing-akademia.hu/megrendeles-kapcsolat-kartya/) - megrendelés kapcsolat kártyával 
 * [BugTV](http://mrbugtv.com/)
