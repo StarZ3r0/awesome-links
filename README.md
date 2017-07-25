@@ -812,6 +812,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel News](https://laravel-news.com/)
 * [Laravel-Tricks](http://laravel-tricks.com/)
 * [Laravel Announcements](https://medium.com/laravel-announcements)
+* [Laravel Support Tables](https://whichlaravel.me/)
 * [Laravel.io Forum](https://laravel.io/forum)
 * [Laravel.hu](https://laravel.hu/)
 * [Laracademy](https://laracademy.co/)
