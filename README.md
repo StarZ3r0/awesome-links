@@ -1238,6 +1238,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.5yjfdgb3f) - Common mistakes designers make and how to fix them
 * [7 Web Form Optimization Insights from Testing Hundreds of Forms](http://conversionxl.com/web-form-optimization/)
+* [You Know What? Fuck Drop Downs.](http://www.fuckdropdowns.com/)
 
 ### Hamburger menu
 
