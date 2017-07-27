@@ -719,17 +719,13 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Vegibit](http://vegibit.com/)
 * [PHP School](http://www.phpschool.io/)
 * [PHP UK Conference playlists](https://www.youtube.com/user/phpukconference/playlists)
+* [Letscode.hu](https://www.letscode.hu/category/php) `HU`
+* [fps blog | php](http://blog.fps.hu/tagged/php) `HU`
 
 ### Composer
 
 * [Understand Composer Versions](http://qpleple.com/understand-composer-versions/)
 * [Composer.json Schema CheatSheet](http://composer.json.jolicode.com/)
-
-### News
-
-* [Vegibit | php](http://vegibit.com/tag/php/)
-* [Letscode.hu](https://www.letscode.hu/category/php) `HU`
-* [fps blog | php](http://blog.fps.hu/tagged/php) `HU`
 
 ### Collections
 
