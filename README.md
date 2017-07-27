@@ -1329,6 +1329,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [IANA — Root Zone Database](http://www.iana.org/domains/root/db)
 * [How to host your DNS with FastMail](https://www.fastmail.com/help/receive/dns.html?domain=fastmail.fm)
 * [Reverse DNS: The Secret Behind Email Marketing Deliverability](http://social.dnsmadeeasy.com/blog/dnscoach/reverse-dns-email-marketing/)
+* [Market overview: Domain services for developers](https://blog.fortrabbit.com/market-overview-domain-providers)
 * [Get single-emoji domains, such as http://💸.ga, for free](https://medium.com/@tomasz_ws/get-single-emoji-domains-http-ga-etc-for-free-a27637fc4351)
 * [EURid Whois](https://whois.eurid.eu/hu/)
 
