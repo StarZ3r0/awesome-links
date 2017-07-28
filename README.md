@@ -232,9 +232,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Code School](https://www.codeschool.com/)
 * [Codecourse](https://www.codecourse.com/)
 * [SoloLearn](https://www.sololearn.com/)
+* [Learn Anything](https://learn-anything.xyz/)
 * [Refaktor Magazin](https://www.refaktor.hu/) `HU` - Fejlesztésről, üzemeltetésről, magyarul
 * [CodeBerry Programozó Iskola](https://codeberryschool.com/hu/) `HU`
-* [VIK Wiki](https://wiki.sch.bme.hu/Kezd%C5%91lap)
+* [VIK Wiki](https://wiki.sch.bme.hu/Kezd%C5%91lap) `HU`
 
 ### Coding challenges
 
