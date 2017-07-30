@@ -865,6 +865,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [WP Test](http://wptest.io/)
 * [hookr.io](http://hookr.io/) - The WordPress Hook/API Index
 * [WordPress SEO Checklist – 45 Tips for 2017](https://kinsta.com/blog/wordpress-seo-checklist/)
+* [Scaling and Securing WordPress](https://www.diplateevo.com/scaling-securing-wordpress/)
 * [A tökéletes WordPress fejlesztői környezet](https://sjozsef.com/tokeletes-wordpress-fejlesztoi-kornyezet/) `HU`
 
 ### CMS
@@ -1621,6 +1622,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Pawnmail](https://pawnmail.com/) - Email hosting for custom domains
 * [Gemfury](https://gemfury.com/) - Private RubyGem, npm, Composer, PyPI Repository
 
+### Collection
+
+* [Saas 1000](http://saas1000.com) - top SaaS companies
+
 ### Hosting
 
 * [Low End Box](https://lowendbox.com/)
@@ -1849,6 +1854,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
 
+### Project management
+
+* [5 + 1 feladat, ha webes projektbe kezdesz](https://blog.fps.hu/5-1-feladat-ha-webes-projektbe-kezdesz/) `HU`
+
 ### Books
 
 * [Online kampányok csúcsra járatva](https://www.onlinekatapult.hu/okcs/) `HU`
@@ -1944,6 +1953,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
 
+### Tips
+
+* [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
+* [The mythical 10x programmer](http://antirez.com/news/112)
+
 ### Surveys
 
 * [6,000 freelancers talk about money, happiness, and their hopes for the future](https://medium.freecodecamp.com/6-000-freelancers-talk-about-money-happiness-and-their-hopes-for-the-future-ec36cfc81bb9#.r6f57du7o)
@@ -1976,6 +1990,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Hour of code](https://hourofcode.com/hu)
 * [bigmarketingday](http://bigmarketingday.hu/) `HU`
+
+### Hardware
+
+* [How to choose the right laptop for programming](https://medium.freecodecamp.org/how-to-choose-a-laptop-for-programming-a9e36f8b4cfe)
 
 ### Ergonomics and health
 
