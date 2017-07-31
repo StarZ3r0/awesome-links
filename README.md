@@ -231,6 +231,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Codecademy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
 * [Codecourse](https://www.codecourse.com/)
+* [Forward](https://forwardcourses.com/)
 * [SoloLearn](https://www.sololearn.com/)
 * [Learn Anything](https://learn-anything.xyz/)
 * [Refaktor Magazin](https://www.refaktor.hu/) `HU` - Fejlesztésről, üzemeltetésről, magyarul
