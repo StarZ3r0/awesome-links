@@ -339,6 +339,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Responsive Tables in Pure CSS](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
 * [Media Queries](http://mediaqueri.es/) - nice examples
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
+* [Learn Responsive Design | Codecademy](https://www.codecademy.com/learn/learn-responsive-design)
 
 ### Mobile
 
