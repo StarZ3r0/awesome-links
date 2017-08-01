@@ -1579,10 +1579,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google Analytics Configuration Guide](https://raventools.com/marketing-reports/google-analytics/)
 * [The Ultimate List of Google Analytics Certification Resources (Updated 2017)](https://www.jeffalytics.com/google-analytics-certification/)
 * [Google Analytics Solutions Gallery](https://analytics.google.com/analytics/gallery/#landing/start/)
+* [Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
 * [Webanalitika kalauz III.](http://adwordsblog.hu/online-marketing/analytics/webanalitika-kalauz-iii-google-analytics-leghasznosabb-kepessegei) `HU`
 * [Webshop konverziós ráta: optimalizálás és tévhitek](https://aionhill.com/konverzios-rata) `HU`
 * [Google Analytics - Egyéni kampányok](https://support.google.com/analytics/answer/1033863?hl=hu) `HU`
-* [Hogyan használjuk a Google Analyticset több domain méréséhez?](http://weboptim.hu/hogyan-hasznaljuk-a-google-analyticset-tobb-domain-meresehez/)
+* [Hogyan használjuk a Google Analyticset több domain méréséhez?](http://weboptim.hu/hogyan-hasznaljuk-a-google-analyticset-tobb-domain-meresehez/) `HU`
 
 ### Google AdWords
 
