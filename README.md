@@ -1625,6 +1625,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Pawnmail](https://pawnmail.com/) - Email hosting for custom domains
 * [Gemfury](https://gemfury.com/) - Private RubyGem, npm, Composer, PyPI Repository
 
+### Disposable email
+
+* [Crazymailing](https://www.crazymailing.com/hu/)
+
 ### Collection
 
 * [Saas 1000](http://saas1000.com) - top SaaS companies
@@ -1831,6 +1835,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Booking.com](https://www.booking.com)
 * [Airbnb](https://www.airbnb.hu/)
 
+### Marketing
+
+* [Szövegírás RitArt Copywriting - Szövegírás](http://ritartacademy.com/szovegiras/)
+
 ### Other useful
 
 * [Kitestring](https://www.kitestring.io/)
@@ -1856,6 +1864,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Google runs on 5000 times more code than the space shuttle](http://uk.businessinsider.com/google-runs-on-5000-times-more-code-than-the-space-shuttle-2016-7)
 * [Cachet](https://cachethq.io/) - status page system
 * [What browser am I using?](http://www.whatsmybrowser.org/)
+
+### Privacy
+
+* [Magánélet? - Nem vagy egyedül!](https://maganelet.hu/)
 
 ### Project management
 
