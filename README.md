@@ -1203,6 +1203,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Pixel Density, Demystified](https://vimeo.com/169809377) `Vimeo`
 * [Hogyan segítsd a fejlesztőt 2.](https://blog.fps.hu/hogyan-segitsd-a-fejlesztot-2/) `HU`
 
+### Gradients
+
+* [WebGradients](https://webgradients.com) - a free collection of 180 linear gradients
+
 ### Typography and fonts
 
 * [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
