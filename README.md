@@ -111,6 +111,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Microsoft Language Portal - Terminology Search](https://www.microsoft.com/Language/en-US/Search.aspx)
 * [Hunglish korpusz](http://szotar.mokk.bme.hu/hunglish/search/corpus)
+* [Glosbe szótár](https://hu.glosbe.com/) `HU`
 
 ### Programming fonts
 
