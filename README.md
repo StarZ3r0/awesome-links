@@ -1940,7 +1940,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Cookie Consent](https://silktide.com/tools/cookie-consent/) - The most popular solution to the EU Cookie Law.
 * [EU adatvédelmi eltávolítás](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&visit_id=1-636357193697954170-3198355434&hl=hu&rd=1&pli=1) - eltávolítás a keresési találatlistáról
 * [Mi a helyzet cookie-ügyben?](https://net-jog.hu/2015/10/17/mi-a-helyzet-cookie-ugyben/) `HU`
-* [Holló & Társai Ügyvédi Iroda](http://hplaw.hu/)
+* [Súlyos bírságot kaphatnak azok a cégek, akik erre nem figyelnek](https://www.penzcentrum.hu/vallalkozas/sulyos_birsagot_kaphatnak_azok_a_cegek_akik_erre_nem_figyelnek.1058253.html) `HU` - e-kereskedelmi szabályok
+* [Holló & Társai Ügyvédi Iroda](http://hplaw.hu/) `HU`
 
 ### Books
 
