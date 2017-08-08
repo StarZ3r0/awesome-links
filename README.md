@@ -598,6 +598,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Litmus PutsMail](https://putsmail.com/tests/new)
 * [Email on Acid](https://www.emailonacid.com/) - Email Testing & Rendering Tools
 * [Spam Score Test - PostMark](http://spamcheck.postmarkapp.com/)
+* [Newsletters spam test](https://www.mail-tester.com/)
 * [Grunt email design](https://github.com/leemunroe/grunt-email-workflow)
 
 ### Browsers
