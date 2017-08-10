@@ -490,7 +490,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [c^ret](http://lugolabs.com/caret)
 * [TestMyCSS](http://www.testmycss.com/)
 * [StyleStats](http://www.stylestats.org/)
-* [Real Favicon Generator](http://realfavicongenerator.net/)
 * [@font-face kit generator](http://fontface.codeandmore.com/)
 * [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
@@ -498,6 +497,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [ish. yet another viewport resizer](http://bradfrost.com/demo/ish/#m)
 * [Check GZIP compression](https://checkgzipcompression.com/)
 * [BrowserSync](https://browsersync.io/)
+
+#### Favicon
+
+* [Real Favicon Generator](http://realfavicongenerator.net/)
+* [Design & Generate | favicon.io](https://favicon.io/)
 
 #### Base64
 
