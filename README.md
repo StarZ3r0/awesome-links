@@ -1947,6 +1947,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mi a helyzet cookie-ügyben?](https://net-jog.hu/2015/10/17/mi-a-helyzet-cookie-ugyben/) `HU`
 * [Súlyos bírságot kaphatnak azok a cégek, akik erre nem figyelnek](https://www.penzcentrum.hu/vallalkozas/sulyos_birsagot_kaphatnak_azok_a_cegek_akik_erre_nem_figyelnek.1058253.html) `HU` - e-kereskedelmi szabályok
 * [Holló & Társai Ügyvédi Iroda](http://hplaw.hu/) `HU`
+* [OrmosNet](http://www.ormosnet.hu/) `HU`
 
 ### Books
 
