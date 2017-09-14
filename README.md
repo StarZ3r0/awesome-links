@@ -58,6 +58,11 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [IT sziget](https://it-sziget.hu/) `HU`
 * [pineapple.io](http://pineapple.io/) - lots of spam
 
+### Podcast
+
+* [Syntax](https://syntax.fm/)
+* [Letscode podcast](https://www.youtube.com/channel/UCnO8ttzf50nMfp4sGSH6iRQ/videos) `HU`
+
 ### Documentations
 
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
@@ -1798,6 +1803,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [KeyCDN](https://www.keycdn.com/)
 * [CDNify](https://cdnify.com/)
+* [Market overview: CDN services](https://blog.fortrabbit.com/market-overview-cdn)
 
 ### File / image uploading, transformation and migration
 
@@ -1946,6 +1952,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [EU adatvédelmi eltávolítás](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&visit_id=1-636357193697954170-3198355434&hl=hu&rd=1&pli=1) - eltávolítás a keresési találatlistáról
 * [Mi a helyzet cookie-ügyben?](https://net-jog.hu/2015/10/17/mi-a-helyzet-cookie-ugyben/) `HU`
 * [Súlyos bírságot kaphatnak azok a cégek, akik erre nem figyelnek](https://www.penzcentrum.hu/vallalkozas/sulyos_birsagot_kaphatnak_azok_a_cegek_akik_erre_nem_figyelnek.1058253.html) `HU` - e-kereskedelmi szabályok
+* [TinEye Reverse Image Search](https://www.tineye.com/)
+* [COPYTRACK](https://www.copytrack.com/)
 * [Holló & Társai Ügyvédi Iroda](http://hplaw.hu/) `HU`
 * [OrmosNet](http://www.ormosnet.hu/) `HU`
 
@@ -1979,6 +1987,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Mennyi az annyi?](https://blog.fps.hu/mennyi-az-annyi/) `HU`
 * [I SPEAKSUM GOD](http://www.k64.org/London/I_SPEAKSUM_GOD.html) `HU` - Professzionális Kivándorlási Kézikönyv London 2007
 * [Hogyan kezdtem programozni](http://devstories.hu/index) `HU`
+
+### Coworking
+
+* [KUBIK coworking](http://kubikcoworking.hu/)
 
 ### Tips
 
