@@ -130,6 +130,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 * [Monoid](https://github.com/larsenwork/monoid)
 * [Hasklig](https://github.com/i-tu/Hasklig) - a code font with monospaced ligatures
+* [Interface](https://rsms.me/inter/)
 
 ### VMs and environments
 
@@ -401,6 +402,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 * [How to Improve Your YSlow Score](https://www.keycdn.com/blog/yslow-score)
 * [Optimising the Critical Rendering Path](http://patrickhamann.com/workshops/performance/tasks/start.html)
+* [CDN’s Love ANAME Records](http://social.dnsmadeeasy.com/blog/cdns-love-aname-records/)
 * [Google PageSpeed Insights – Scoring 100/100 with WordPress](https://www.keycdn.com/blog/google-pagespeed-insights-wordpress/)
 * [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/) `HU`
 * [Magento frontend sebesség gyorsítás és mérése](https://aionhill.com/magento-teljesitmeny-oldal-gyorsitas) `HU`
@@ -571,6 +573,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Material Design for Bootstrap 3](https://github.com/FezVrasta/bootstrap-material-design)
 * [Bootflat](https://github.com/bootflat/bootflat.github.io/)
 * [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+* [The anatomy of a Bootstrap dashboard that earns $1,000s each month](https://medium.freecodecamp.org/the-anatomy-of-a-bootstrap-dashboard-that-earns-1-000s-each-month-ed3404010d25)
 
 ### HTML email
 
@@ -790,6 +793,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Laravel Best Practices](http://www.laravelbestpractices.com/)
 * [New Features in Laravel 5.0](https://mattstauffer.co/blog/series/new-features-in-laravel-5.0)
 * [New Features in Laravel 5.1](https://mattstauffer.co/blog/series/new-features-in-laravel-5.1)
+* [Watch videos from Laracon US 2017](https://streamacon.com/video/laracon-us-2017)
 * [murze.be articles](https://murze.be/tag/laravel/)
 * [CLI progress bars in Laravel](https://jenssegers.com/70/cli-progress-bars-in-laravel)
 * [Laravel 5 package development](https://stackoverflow.com/questions/28378460/laravel-5-package-development)
@@ -1213,6 +1217,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/)
 * [Pixel Density, Demystified](https://vimeo.com/169809377) `Vimeo`
 * [Hogyan segítsd a fejlesztőt 2.](https://blog.fps.hu/hogyan-segitsd-a-fejlesztot-2/) `HU`
+
+### Training
+
+* [HELLODESIGN WEB UI KÉPZÉS](https://kepzesek.hellodesign.org/)
 
 ### Gradients
 
