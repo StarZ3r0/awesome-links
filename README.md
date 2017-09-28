@@ -1258,6 +1258,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Tools for UX and CRO: The Ultimate Guide for 2017](http://www.conversion-rate-experts.com/conversion-tools/)
 * [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.5hb3epyhb)
 * [Microcopy Patterns](https://tinywordsmatter.tumblr.com/)
+* [Little Big Details](http://littlebigdetails.com/)
 * [Fokozd a webshopod vásárlási élményét](http://blog.kolboid.eu/webshop-vasarlasi-elmeny/) `HU`
 * [A cégvezetők ezt az 5 dolgot értik félre a designnal kapcsolatban](http://uxstudio.hu/ux-blog/a-cegvezetok-ezt-az-5-dolgot-ertik-felre-a-designnal-kapcsolatban/) `HU`
 
