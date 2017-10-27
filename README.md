@@ -66,6 +66,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Documentations
 
 * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+* [Devhints](https://devhints.io/)
 
 ### UTF-8
 
@@ -574,6 +575,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Bootflat](https://github.com/bootflat/bootflat.github.io/)
 * [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 * [The anatomy of a Bootstrap dashboard that earns $1,000s each month](https://medium.freecodecamp.org/the-anatomy-of-a-bootstrap-dashboard-that-earns-1-000s-each-month-ed3404010d25)
+* [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
 
 ### HTML email
 
@@ -1220,7 +1222,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Training
 
-* [HELLODESIGN WEB UI KÉPZÉS](https://kepzesek.hellodesign.org/)
+* [HELLODESIGN WEB UI KÉPZÉS](https://kepzesek.hellodesign.org/) `HU`
+* [Photoshop Felhő](https://photoshopfelho.hu/) `HU`
 
 ### Gradients
 
