@@ -1764,6 +1764,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Email testing
 
 * [Mailtrap.io](https://mailtrap.io/)
+* [Mailinator](https://www.mailinator.com)
 * [Litmus](http://litmus.com/)
 
 ### Prevent spam
