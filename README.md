@@ -1162,6 +1162,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [DataTables](https://www.datatables.net/)
 * [Countable](https://sacha.me/Countable/)
 * [Inputmask](https://github.com/RobinHerbots/Inputmask)
+* [Masked Input Plugin](http://digitalbush.com/projects/masked-input-plugin/)
+* [jQuery Mask Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/)
 
 ### Bootstrap
 
