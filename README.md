@@ -21,6 +21,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Collections
 
 * [awesome](https://github.com/sindresorhus/awesome)
+* [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
@@ -284,8 +285,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [MarkSheet](http://marksheet.io/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [Grab Front End Guide](https://github.com/grab/front-end-guide)
 * [frontend.directory](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [web-font-loading-recipes](https://github.com/zachleat/web-font-loading-recipes)
 * [CSS Reference](http://cssreference.io/)
 * [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 * [Excess XSS](http://excess-xss.com/) - A comprehensive tutorial on cross-site scripting
@@ -405,6 +408,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Optimising the Critical Rendering Path](http://patrickhamann.com/workshops/performance/tasks/start.html)
 * [CDN’s Love ANAME Records](http://social.dnsmadeeasy.com/blog/cdns-love-aname-records/)
 * [Google PageSpeed Insights – Scoring 100/100 with WordPress](https://www.keycdn.com/blog/google-pagespeed-insights-wordpress/)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Lighthouse is an open-source, automated tool for improving the quality of web pages.
 * [Magyar (mobil)web sebesség](https://blog.fps.hu/magyar-mobil-web-sebesseg-ssl/) `HU`
 * [Magento frontend sebesség gyorsítás és mérése](https://aionhill.com/magento-teljesitmeny-oldal-gyorsitas) `HU`
 
@@ -697,6 +701,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [TheCodingMachine Best Practices](http://bestpractices.thecodingmachine.com/)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
+* [PHP Data Structures and Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
 * [PHP 7.1: introduction and release cycle](https://blog.pascal-martin.fr/post/php71-en-introduction-and-release-cycle.html)
 * [Upcoming changes in PHP 7.1](https://dotdev.co/upcoming-changes-in-php-7-1-76ebea53b820#.56482yrrk)
 * [PHP: rfc](https://wiki.php.net/rfc) - current RFCs for PHP
@@ -970,6 +975,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 * [What are the options for storing hierarchical data in a relational database?](http://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database)
 * [(The only proper) PDO tutorial](https://phpdelusions.net/pdo)
+* [Use the index, Luke](http://use-the-index-luke.com)
 * [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 * [What Is New in MySQL 5.7](https://dev.mysql.com/doc/refman/5.7/en/mysql-nutshell.html)
@@ -1021,6 +1027,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [all this](http://bjorn.tipling.com/all-this)
+* [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [The State Of JavaScript 2016](http://stateofjs.com/2016/introduction/)
 * [JS features](https://jsfeatures.in/)
 * [JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/)
@@ -1282,6 +1289,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 *Linux related articles and tools*
 
 * [Oliver | An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
+* [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 * [LPI Linux Certification](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 * [Server Naming Schemes](https://namingschemes.com/)
 * [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
@@ -1501,6 +1509,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Notes on Filtering Spam and Bots from Google Analytics](http://www.lunametrics.com/blog/2016/01/28/notes-on-filtering-spam-and-bots-from-google-analytics/)
 * [Definitive Guide to Removing All Google Analytics Spam](http://help.analyticsedge.com/spam-filter/definitive-guide-to-removing-google-analytics-spam/)
 * [Keyword Research for SEO: The Definitive Guide (2017 Update)](http://backlinko.com/keyword-research)
+* [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 * [Search Engine Ranking Factors 2015 (Moz)](https://moz.com/search-ranking-factors)
 * [Google’s 200 Ranking Factors: The Complete List](http://backlinko.com/google-ranking-factors)
 * [Kulcsszókutatás: webáruházad keresőoptimalizálásának alapja](https://aionhill.com/kulcsszokutatas-webaruhaz) `HU`
