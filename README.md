@@ -1989,6 +1989,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [How I Work - Taylor Otwell](https://medium.com/@taylorotwell/how-i-work-a22010d1ad82#.2hl5421gq)
 * [Hola DNA](https://hola.org/dna) `TIP`
+* [How to conduct a good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
 * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [Graphs Interview Questions](http://www.techiedelight.com/graphs-interview-questions)
 * [Not An Imposter: Fighting Front-End Fatigue](https://www.smashingmagazine.com/2016/11/not-an-imposter-fighting-front-end-fatigue/)
