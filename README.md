@@ -1372,6 +1372,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Reverse DNS: The Secret Behind Email Marketing Deliverability](http://social.dnsmadeeasy.com/blog/dnscoach/reverse-dns-email-marketing/)
 * [Market overview: Domain services for developers](https://blog.fortrabbit.com/market-overview-domain-providers)
 * [Get single-emoji domains, such as http://💸.ga, for free](https://medium.com/@tomasz_ws/get-single-emoji-domains-http-ga-etc-for-free-a27637fc4351)
+* [Expired Domains.net](https://www.expireddomains.net)
 * [EURid Whois](https://whois.eurid.eu/hu/)
 
 ### Docker
@@ -2006,6 +2007,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Ask HN: What do you use to align your daily todos with your long term goals?](https://news.ycombinator.com/item?id=13855577)
 * [Ask HN: What habits make a programmer great?](https://news.ycombinator.com/item?id=14708350)
 * [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 * [invoicetemplate.co](https://invoicetemplate.co/) - 100% free invoicing software
 * [Big Fish - PHP Developer](http://bigfish.hu/hu/jobs/php-developer/) `HU`
 * [SMarthu – Kreatív Közösképviselet](http://smarthu.org/) `HU`
