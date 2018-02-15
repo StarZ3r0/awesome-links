@@ -1333,6 +1333,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Security
 
 * [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
+* [Content Security Policy Reference](https://content-security-policy.com/)
 * [What permissions should my website files/folders have on a Linux webserver?](http://serverfault.com/questions/357108/what-permissions-should-my-website-files-folders-have-on-a-linux-webserver)
 * [Are You Prepared Against A Hack?](https://www.smashingmagazine.com/2014/05/are-you-prepared-against-a-hack/)
 * [Beyond Permissions: Linux ACLs](https://serversforhackers.com/beyond-permissions-linux-acls)
