@@ -1022,6 +1022,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/)
+* [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 * [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
 * [Human JavaScript](http://read.humanjavascript.com/)
 * [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
@@ -1244,6 +1245,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [Your Body Text Is Too Small](https://blog.attackthefront.io/your-body-text-is-too-small-5e02d36dc902#.6ba64380v)
 * [On snot and fonts / Luc Devroye](http://luc.devroye.org/fonts.html)
+* [Low-hanging design fruit: why you should use Google Font Superfamilies](https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50)
 
 ### Templates
 
