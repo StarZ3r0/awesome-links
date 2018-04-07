@@ -289,6 +289,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [Grab Front End Guide](https://github.com/grab/front-end-guide)
+* [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css)
 * [frontend.directory](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [web-font-loading-recipes](https://github.com/zachleat/web-font-loading-recipes)
 * [CSS Reference](http://cssreference.io/)
@@ -316,6 +317,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.f59y2pypb)
 * [Mitől lesz gyors egy weboldal megjelenési sebessége?](https://www.veremcsere.hu/53/mitol-lesz-gyors-egy-weboldal-megjelenesi-sebessege) `HU`
 * [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra) `HU`
+* [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/#/)  `CH`
 
 ### CSS Animations
 
