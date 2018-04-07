@@ -93,6 +93,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 * [Learn to Hack](https://www.hacksplaining.com/)
+* [SRI Hash Generator](https://www.srihash.org)
 
 #### Unsafe web resources
 
@@ -1375,6 +1376,8 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Get single-emoji domains, such as http://💸.ga, for free](https://medium.com/@tomasz_ws/get-single-emoji-domains-http-ga-etc-for-free-a27637fc4351)
 * [Expired Domains.net](https://www.expireddomains.net)
 * [EURid Whois](https://whois.eurid.eu/hu/)
+* [Google Public DNS](https://developers.google.com/speed/public-dns/)
+* [1.1.1.1](https://1.1.1.1/)
 
 ### Docker
 
@@ -1633,6 +1636,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Inside AdWords Magyarország](https://adwords-hu.googleblog.com/) `HU`
 * [Google Adwords Súgó](https://support.google.com/adwords/?hl=hu#topic=3119071) `HU`
 * [Google Ad Grants](https://www.google.com/intl/hu/grants/) - szervezeteknek
+* [Google scraping: így gyűjtsd le az összes kapcsolódó kulcsszót és keresési kifejezést](http://thepitch.hu/google-scraping-kapcsolodo-keresesi-kifejezesek/) `HU`
 
 ### Google Tag Manager
 
