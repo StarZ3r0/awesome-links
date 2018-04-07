@@ -94,6 +94,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 * [Learn to Hack](https://www.hacksplaining.com/)
 * [SRI Hash Generator](https://www.srihash.org)
+* [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
 #### Unsafe web resources
 
