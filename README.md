@@ -636,6 +636,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Chrome DevTools - Edit Styles](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/edit-styles)
 * [Discover DevTools](http://discover-devtools.codeschool.com/)
+* [What's New In DevTools](https://developers.google.com/web/updates/2018/01/devtools)
 * [Chrome Developer Tools - Code School](https://www.codeschool.com/courses/discover-devtools)
 * [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
 * [Dev Tips](https://umaar.com/dev-tips/)
