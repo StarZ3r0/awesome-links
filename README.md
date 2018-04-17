@@ -135,6 +135,8 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Monoid](https://github.com/larsenwork/monoid)
 * [Hasklig](https://github.com/i-tu/Hasklig) - a code font with monospaced ligatures
 * [Interface](https://rsms.me/inter/)
+* [Menlo](https://www.typewolf.com/site-of-the-day/fonts/menlo)
+* [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
 
 ### VMs and environments
 
