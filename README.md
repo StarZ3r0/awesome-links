@@ -288,6 +288,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [HTML 5.1](https://www.w3.org/TR/html51/) - W3C Recommendation, 1 November 2016
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 * [MarkSheet](http://marksheet.io/)
+* [Essential Image Optimization](https://images.guide/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
@@ -1095,10 +1096,11 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ### Collection
 
 * [JavaScripting](https://www.javascripting.com/)
+* [Awesome JavaScript](https://js.libhunt.com)
+* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [Vanilla List](http://www.vanillalist.com/) - The Vanilla Javascript Repository
 * [plainJS](https://plainjs.com/)
 * [Unheap](http://www.unheap.com/)
-* [The best of JavaScript, HTML, CSS](http://bestof.js.org/)
 * [You might not need jQuery](http://youmightnotneedjqueryplugins.com/)
 * [JavascriptOO](http://www.javascriptoo.com/)
 * [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
@@ -1241,6 +1243,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/)
 * [Pixel Density, Demystified](https://vimeo.com/169809377) `Vimeo`
 * [Hogyan segítsd a fejlesztőt 2.](https://blog.fps.hu/hogyan-segitsd-a-fejlesztot-2/) `HU`
+* [Photoshop Etiquette](http://photoshopetiquette.com)
 
 ### Training
 
