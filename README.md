@@ -964,6 +964,10 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Running ImageMagick on XAMPP 1.8.3 with Windows 7](http://stackoverflow.com/questions/21055786/running-imagemagick-on-xampp-1-8-3-with-windows-7)
 * [Installing and Configuring XAMPP with PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Installing+and+Configuring+XAMPP+with+PhpStorm+IDE)
 
+### XAMPP alternatives
+
+* [Devilbox](http://devilbox.org/)
+
 ### Vagrant
 
 * [Building a Vagrant Box from Start to Finish](https://blog.engineyard.com/2014/building-a-vagrant-box)
