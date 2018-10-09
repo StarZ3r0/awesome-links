@@ -323,6 +323,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra) `HU`
 * [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/#/)  `CH`
 
+### Howto's
+
+* [Completely CSS: Tabs](https://kyusuf.com/post/completely-css-tabs)
+
 ### CSS Animations
 
 * [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
