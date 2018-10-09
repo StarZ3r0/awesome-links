@@ -326,6 +326,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 ### Howto's
 
 * [Completely CSS: Tabs](https://kyusuf.com/post/completely-css-tabs)
+* [Tabs pure CSS](https://codepen.io/beumsk/pen/vzNQvE)
 
 ### CSS Animations
 
