@@ -329,6 +329,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Tabs pure CSS](https://codepen.io/beumsk/pen/vzNQvE)
 * [Very Simple Slider](https://codepen.io/zuraizm/pen/vGDHl/)
 
+### Conference videos
+
+* [Smashing Conference](https://vimeo.com/channels/smashingconf/videos)
+
 ### CSS Animations
 
 * [A Beginner’s Introduction to CSS Animation](https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
