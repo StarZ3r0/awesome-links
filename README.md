@@ -323,12 +323,6 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSS – fps módra](http://blog.fps.hu/post/142016288381/stiluslapok-fps-modra) `HU`
 * [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/#/)  `CH`
 
-### Howto's
-
-* [Completely CSS: Tabs](https://kyusuf.com/post/completely-css-tabs)
-* [Tabs pure CSS](https://codepen.io/beumsk/pen/vzNQvE)
-* [Very Simple Slider](https://codepen.io/zuraizm/pen/vGDHl/)
-
 ### Conference videos
 
 * [Smashing Conference](https://vimeo.com/channels/smashingconf/videos)
@@ -708,9 +702,12 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [Magyarországi Web Konferencia](http://webconf.hu/2013/program/) `HU`
 * [Laki Ádám](http://adamlaki.com/) `HU`
 
-### Pratical examples
+### Pratical examples & howto's
 
 * [Prevent body scrolling but allow overlay scrolling](http://stackoverflow.com/questions/9280258/prevent-body-scrolling-but-allow-overlay-scrolling)
+* [Completely CSS: Tabs](https://kyusuf.com/post/completely-css-tabs)
+* [Tabs pure CSS](https://codepen.io/beumsk/pen/vzNQvE)
+* [Very Simple Slider](https://codepen.io/zuraizm/pen/vGDHl/)
 
 ## PHP
 *PHP related guides, sites and articles* 
