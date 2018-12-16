@@ -1207,6 +1207,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 * [bxSlider](https://github.com/stevenwanderski/bxslider-4)
 * [slick](https://github.com/kenwheeler/slick/)
+* [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
 * [Owl Carousel 2](https://github.com/smashingboxes/OwlCarousel2)
 
 #### RWD
