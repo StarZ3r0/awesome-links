@@ -1366,6 +1366,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 
 ### Bash
 
+* [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 * [ShellCheck](http://www.shellcheck.net/) - Online shell script analyzer
 * [explainshell](http://explainshell.com/)
 * [showterm](http://showterm.io/)
