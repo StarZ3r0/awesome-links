@@ -20,6 +20,9 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 ### Collections
 
+* [free-for-dev](https://github.com/ripienaar/free-for-dev)
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+* [Professional Programming](https://github.com/charlax/professional-programming)
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
