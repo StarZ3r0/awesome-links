@@ -26,6 +26,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Awesome list of Important Podcasts for software engineers](https://github.com/rShetty/awesome-podcasts)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
