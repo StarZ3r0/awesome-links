@@ -439,6 +439,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [CSS Front-end Frameworks with comparison](http://usablica.github.io/front-end-frameworks/compare.html)
 * [Bootstrap](http://getbootstrap.com/) - most popular
 * [Foundation](http://foundation.zurb.com/) - second most popular
+* [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
 * [Skeleton](http://getskeleton.com/) - dead simple, ~400 lines
 * [Pure.css](http://purecss.io/) - tiny framework (4.0KB) by Yahoo
 * [mini.css](http://minicss.org/)
