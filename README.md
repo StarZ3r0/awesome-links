@@ -209,7 +209,7 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 
 * [Hookbin](https://hookbin.com/)
 * [Postman](http://www.getpostman.com/)
-* [Hurl.it](https://www.hurl.it/)
+* [ExtendsClass](https://extendsclass.com/rest-client-online.html)
 * [RequestBin](http://requestb.in/)
 * [HTTP Status Code Checker](http://httpstatus.io/)
 
