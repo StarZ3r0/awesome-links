@@ -1319,6 +1319,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 ## Linux
 *Linux related articles and tools*
 
+* [Letix](http://letix.hu/)
 * [Oliver | An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
 * [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 * [LPI Linux Certification](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
