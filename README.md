@@ -1524,6 +1524,7 @@ Slim 3](https://akrabat.com/wp-content/uploads/2015-05-20-phpberks-getting-start
 * [Custom PuTTY Color Themes](https://www.igvita.com/2008/04/14/custom-putty-color-themes/)
 * [crontab.guru](https://crontab.guru/)
 * [MailCatcher](https://mailcatcher.me/)
+* [kitty](https://sw.kovidgoyal.net/kitty/) - [kitty themes](https://github.com/dexpota/kitty-themes)
 
 ### Spam
 
