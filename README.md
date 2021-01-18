@@ -33,6 +33,10 @@ A curated list of amazingly awesome resources. Inspired by the `awesome-*` trend
 * [LibHunt](https://libhunt.com/)
 * [DevDocs](http://devdocs.io/)
 
+### Stats
+
+* [The 2020 Web Almanac](https://almanac.httparchive.org/en/2020/)
+
 ### Articles
 
 * [The Top 50 Developer Tools of 2016 | StackShare](https://stackshare.io/posts/top-developer-tools-2016)
